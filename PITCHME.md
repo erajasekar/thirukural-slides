@@ -1,6 +1,6 @@
 ## திருக்குறள் அறிமுகம்
 
-@img[width=300, height=400 shadow](assets/img/valluvar.png)
+@img[width=300, height=400 , shadow](assets/img/valluvar.png)
 
 2000 ஆண்டுகளுக்கு மேல் பழமையான இந்த நூலை இயற்றியவர் **திருவள்ளுவர்.**
 
