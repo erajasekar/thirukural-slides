@@ -64,5 +64,5 @@
 
 ### திருக்குறள் வரிசை படுத்தப்பட்டுள்ள முறை 
 
-@img[width=500, height=450 , shadow](assets/img/thirukural-organization.png)
+@img[width=450, height=450 , shadow](assets/img/thirukural-organization.png)
 
