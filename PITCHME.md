@@ -62,7 +62,7 @@
 > நாம் அற வழியில்  ஈட்டுகின்ற பொருளும் புகழுமே  நமக்கு  இன்பம்  தரும்.
 ---
 
-### திருக்குறள் வரிசை செய்யப்பட்டுள்ள முறை 
+### திருக்குறள் வரிசை படுத்தப்பட்டுள்ள முறை 
 
-@img[width=300, height=350 , shadow](assets/img/thirukural-organization.png)
+@img[width=500, height=450 , shadow](assets/img/thirukural-organization.png)
 
