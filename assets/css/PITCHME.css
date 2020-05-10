@@ -17,11 +17,12 @@
     color: #E27924;
     font-family: "Righteous Heavy", "Righteous Medium", "Righteous", sans-serif;
     text-transform: none;
-    margin: 0 0 15px 0;
+    margin: 0 0 35px 0;
     line-height: 120%;
     text-shadow: none;
     letter-spacing: normal;
     word-wrap: break-word;
+
 }
 
 .reveal blockquote {
