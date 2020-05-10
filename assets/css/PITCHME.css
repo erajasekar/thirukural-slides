@@ -6,3 +6,8 @@
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
 
+#gp-logo img {
+    max-height: 15.5em;
+    height: 330px;
+    max-width: none;
+}
