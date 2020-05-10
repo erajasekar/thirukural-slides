@@ -1,14 +1,64 @@
+# GitPitch In-60-Seconds - A Very Short Tutorial.
 #
-# GitPitch Slideshow Custom Settings
+
 #
-# For details, visit Wiki:
-# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+# Theme Template
+# Doc: https://gitpitch.com/docs/themes/default
 #
-theme : white
-theme-override : assets/css/PITCHME.css
-highlight : hybrid
-logo : assets/image/thirukural-logo.jpg
-transition : slide
-gatoken: UA-53694809-2
+theme            : template
+
+theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
+theme-headline   : [ "Montserrat", "#BE5869", "none" ]
+theme-byline     : [ "Montserrat", "#111111", "none" ]
+theme-text       : [ "Raleway", "#333", "none" ]
+theme-links      : [ "#7FDBFF", "#0074D9" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-code       : [ "Victor Mono Italic" ]
+
+highlight        : tomorrow
+
+#
+# Highlight Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : tomorrow
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/logo.png
+logo-position : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
 published : false
-footnote : "Rajasekar Elango"
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch In 60 Seconds"
+description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
+thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+
