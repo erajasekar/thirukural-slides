@@ -68,7 +68,7 @@
 
 ---
 
-@snap[west span-30]
+@snap[north-west span-30]
 @img[width=100, height=100 , shadow](assets/img/logo.jpg)
 @snapend
 
