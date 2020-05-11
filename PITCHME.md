@@ -69,7 +69,7 @@
 ---
 
 @snap[north-west span-30]
-@img[width=200, height=200](assets/img/logo.jpg)
+@img[width=150, height=150](assets/img/logo.jpg)
 @snapend
 
 @snap[north span-69]
