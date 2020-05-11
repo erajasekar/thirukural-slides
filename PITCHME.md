@@ -69,13 +69,13 @@
 ---
 
 @snap[north-west span-30]
-@img[width=100, height=100 , shadow](assets/img/logo.jpg)
+@img[width=200, height=200](assets/img/logo.jpg)
 @snapend
 
 @snap[north span-69]
-### பாயிரவியல்
+#### பாயிரவியல்
 
-#### கடவுள் வாழ்த்து
+### கடவுள் வாழ்த்து
 @snapend
 
 
