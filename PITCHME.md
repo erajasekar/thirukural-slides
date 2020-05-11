@@ -68,16 +68,19 @@
 
 ---
 
-@snap[north-west span-30]
+@snap[north-west span-25]
 @img[width=200, height=150](assets/img/logo.jpg)
 @snapend
 
-@snap[north span-69]
+@snap[north span-50]
 #### பாயிரவியல்
 
 ### கடவுள் வாழ்த்து
 @snapend
 
+@snap[north span-25]
+#### அறத்துப்பால்
+@snapend
 
 ```
 அகர முதல எழுத்தெல்லாம் ஆதி
