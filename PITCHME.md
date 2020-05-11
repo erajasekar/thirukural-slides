@@ -78,7 +78,7 @@
 ### கடவுள் வாழ்த்து
 @snapend
 
-@snap[north span-25]
+@snap[north-east span-25]
 #### அறத்துப்பால்
 @snapend
 
