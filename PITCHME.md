@@ -69,7 +69,7 @@
 ---
 
 @snap[north-west span-30]
-@img[width=225, height=150](assets/img/logo.jpg)
+@img[width=200, height=150](assets/img/logo.jpg)
 @snapend
 
 @snap[north span-69]
@@ -84,7 +84,7 @@
 பகவன் முதற்றே உலகு.            ( குறள் - 1 )
 ```
 
-@snap[span-100 text-gray text-08]
+@snap[span-100 text-gray text-06]
 எழுத்தெல்லாம் முதல அகர, ஆதி பகவன் முதற்றே உலகு
 @snapend
 
