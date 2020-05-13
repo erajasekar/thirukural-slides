@@ -1,4 +1,4 @@
----?logo.md
+---?include=logo.md
 
 @snap[north span-50]
 #### பாயிரவியல்
