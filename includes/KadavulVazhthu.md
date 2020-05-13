@@ -1,4 +1,7 @@
----?include=includes/logo.md
+
+@snap[north-west span-25]
+@img[width=200, height=150](assets/img/logo.jpg)
+@snapend
 
 @snap[north span-50]
 #### பாயிரவியல்
