@@ -68,7 +68,7 @@
 
 ---
 
----?include=includes/KadavulVazhthu.md
+?include=includes/KadavulVazhthu.md
 
 ```
 அகர முதல எழுத்தெல்லாம் ஆதி
@@ -85,7 +85,7 @@
 
 ---
 
----?include=includes/KadavulVazhthu.md
+?include=includes/KadavulVazhthu.md
 
 ```
 கற்றதனால் ஆய பயன் என்கொல் வால் அறிவன்
