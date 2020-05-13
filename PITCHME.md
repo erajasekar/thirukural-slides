@@ -66,6 +66,8 @@
 
 @img[width=450, height=450 , shadow](assets/img/thirukural-organization1.png)
 
+---?include=includes/logo.md
+
 ---?include=includes/KadavulVazhthu.md
 
 ```
