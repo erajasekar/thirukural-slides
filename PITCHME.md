@@ -85,19 +85,7 @@
 
 ---
 
-@snap[north-west span-25]
-@img[width=200, height=150](assets/img/logo.jpg)
-@snapend
-
-@snap[north span-50]
-#### பாயிரவியல்
-
-### கடவுள் வாழ்த்து
-@snapend
-
-@snap[north-east span-25]
-#### அறத்துப்பால்
-@snapend
+---?include=includes/KadavulVazhthu.md
 
 ```
 கற்றதனால் ஆய பயன் என்கொல் வால் அறிவன்
@@ -111,7 +99,6 @@
 @snap[span-100 text-06 text-left]
 > இறைவனுடைய நல்ல திருவடியை வணங்கும் பண்பு இல்லாவிடில் என்னதான் ஒருவர் கற்றிருந்தாலும் அதனால் என்ன பயன்? ஒன்றுமில்லை.
 @snapend
-
 
 ---
 
