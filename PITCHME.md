@@ -66,9 +66,7 @@
 
 @img[width=450, height=450 , shadow](assets/img/thirukural-organization1.png)
 
----?include=includes/logo.md
-
----?include=includes/KadavulVazhthu.md
+---?include=includes/logo.md ?include=includes/KadavulVazhthu.md
 
 ```
 அகர முதல எழுத்தெல்லாம் ஆதி
