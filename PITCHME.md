@@ -66,9 +66,7 @@
 
 @img[width=450, height=450 , shadow](assets/img/thirukural-organization1.png)
 
----
-
-?include=includes/KadavulVazhthu.md
+---?include=includes/KadavulVazhthu.md
 
 ```
 அகர முதல எழுத்தெல்லாம் ஆதி
@@ -83,9 +81,7 @@
 > அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை.
 @snapend
 
----
-
-?include=includes/KadavulVazhthu.md
+---?include=includes/KadavulVazhthu.md
 
 ```
 கற்றதனால் ஆய பயன் என்கொல் வால் அறிவன்
