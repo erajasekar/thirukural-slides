@@ -203,7 +203,7 @@
 
 ### நன்றி
 
-@img[width=400, height=200](assets/img/subscribe_share.png)
+@img[width=300, height=150](assets/img/subscribe_share.png)
 
 
 
