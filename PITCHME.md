@@ -201,9 +201,13 @@
 @img[width=200, height=150](assets/img/logo.jpg)
 @snapend
 
+@snap[north span-50]
 ### நன்றி
+@snapend
 
+@snap[span-100]
 @img[width=300, height=150](assets/img/subscribe_share.png)
+@snapend
 
 
 
