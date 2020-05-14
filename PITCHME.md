@@ -197,7 +197,13 @@
 @snapend
 
 ---
+@snap[north-west span-25]
+@img[width=200, height=150](assets/img/logo.jpg)
+@snapend
 
+### நன்றி
+
+@img(assets/img/subscribe_share.png)
 
 
 
