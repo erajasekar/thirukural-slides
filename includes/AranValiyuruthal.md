@@ -6,7 +6,7 @@
 @snap[north span-50]
 #### பாயிரவியல்
 
-### அறன் வலியுறுத்தல்
+##### அறன் வலியுறுத்தல்
 @snapend
 
 @snap[north-east span-25]
