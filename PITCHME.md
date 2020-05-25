@@ -200,7 +200,106 @@
 
 ```
 சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு
-ஆக்கம் எவனோ உயிர்க்கு,         ( குறள் - 31 )
+ஆக்கம் எவனோ உயிர்க்கு.         ( குறள் - 31 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+அறத்தினூஉங் காக்கமும் இல்லை அதனை
+மறத்தலின் ஊங்கில்லை கேடு.        ( குறள் - 32 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+ஒல்லும் வகையான அறவினை ஓவாதே
+செல்லும்வாய் எல்லாஞ் செயல்.         ( குறள் - 33 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்
+ஆகுல நீர பிற.         ( குறள் - 34 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்
+ஆகுல நீர பிற.         ( குறள் - 35 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+அன்றறிவாம் என்னா தறஞ்செய்க மற்றது
+பொன்றுங்கால் பொன்றாத் துணை.         ( குறள் - 36 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+அறத்தா றிதுவென வேண்டா சிவிகை
+பொறுத்தானோ டூர்ந்தான் இடை.         ( குறள் - 37 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்
+வாழ்நாள் வழியடைக்கும் கல்.         ( குறள் - 38 )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+அறத்தான் வருவதே இன்பமற் றெல்லாம்
+புறத்த புகழும் இல.         ( குறள் - 39  )
+```
+
+@snap[span-100 text-06 text-left]
+> TODO
+@snapend
+
+---?include=includes/AranValiyuruthal.md
+
+```
+செயற்பால தோரும் அறனே ஒருவற்கு
+உயற்பால தோரும் பழி.         ( குறள் - 40 )
 ```
 
 @snap[span-100 text-06 text-left]
