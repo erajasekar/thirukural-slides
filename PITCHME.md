@@ -236,8 +236,12 @@
 மறத்தலின் ஊங்கில்லை கேடு.        ( குறள் - 32 )
 ```
 
+@snap[span-100 text-gray text-left text-04]
+தொடரமைப்பு: அறத்தின் ஊங்கு ஆக்கமும் இல்லை, அதனை மறத்தலின் ஊங்கு கேடும் இல்லை.
+@snapend
+
 @snap[span-100 text-06 text-left]
-> TODO
+> அறம் செய்வதை விட நன்மையும் இல்லை. அதைச் செய்ய மறப்பதைவிட கெடுதியும் இல்லை.
 @snapend
 
 ---?include=includes/AranValiyuruthal.md
@@ -248,7 +252,7 @@
 ```
 
 @snap[span-100 text-06 text-left]
-> TODO
+> நம்மால்  எந்தெந்த வகையில அறம் செய்ய முடியுமோ, அவ்வகையில் இடைவிடாது நாம் செய்யும் எல்லா செயலையும் அறத்துடன் செய்ய வேண்டும்.
 @snapend
 
 ---?include=includes/AranValiyuruthal.md
