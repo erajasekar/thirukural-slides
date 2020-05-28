@@ -1,6 +1,6 @@
 
 @snap[north-west span-25]
-@img[width=200, height=150](assets/img/logo.jpg)
+@img[width=200, height=150](assets/img/thirukkural-logo.png)
 @snapend
 
 @snap[north span-50]
