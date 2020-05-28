@@ -25,6 +25,10 @@
     word-wrap: break-word;
 }
 
+#title {
+    color: #13466C;
+}
+
 .reveal h5 {
     color: #E27924;
 }
