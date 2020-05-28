@@ -4,7 +4,8 @@
 @snapend
 
 @snap[north span-50]
-<h4 id="title"> திருக்குறள் </h4>
+@img[width=150, height=45](assets/img/Thirukkural-Text-Logo.png)
+<!-- <h4 id="title"> திருக்குறள் </h4> -->
 
 ##### அறன் வலியுறுத்தல்
 @snapend
