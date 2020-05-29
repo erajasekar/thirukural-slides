@@ -388,15 +388,9 @@
 
 ---?include=includes/AranValiyuruthal.md
 
-@snap[span-100 center text-left]
-
 வேதாத்திரி மகரிஷி
 
 @img[width=330, height=200](assets/img/Magarisi.jpg)
-
-
-
-@snapend
 
 ---
 
