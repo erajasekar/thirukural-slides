@@ -10,11 +10,7 @@
 ##### அறன் வலியுறுத்தல்
 @snapend
 
-@snap[north-east span-25]
-#### அறத்துப்பால்
-
-@snap[span-100 text-06]
+@snap[north-east span-25 text-08]
+அறத்துப்பால்
 பாயிரவியல்
-@snapend
-
 @snapend
