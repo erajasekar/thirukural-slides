@@ -236,7 +236,7 @@
 மறத்தலின் ஊங்கில்லை கேடு.        ( குறள் - 32 )
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: அறத்தின் ஊங்கு ஆக்கமும் இல்லை, அதனை மறத்தலின் ஊங்கு கேடும் இல்லை.
 @snapend
 
@@ -251,7 +251,7 @@
 செல்லும்வாய் எல்லாஞ் செயல்.         ( குறள் - 33 )
 ```
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-left]
 > நம்மால் எந்தெந்த வகையில் அறம் செய்ய முடியுமோ, அவ்வகையில் இடைவிடாது நாம் செய்யும் எல்லா செயலையும் அறத்துடன் செய்ய வேண்டும்.
 @snapend
 
@@ -263,7 +263,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: மனத்துக்கண் மாசு இலன் ஆதல் அனைத்து அறன், 
 பிற ஆகுல நீர.
 @snapend
@@ -282,7 +282,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்
 இழுக்கா இயன்றது அறம்.
 @snapend
@@ -301,7 +301,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: அன்று அறிவாம் என்னாது அறம் செய்க மற்று அது
 பொன்றும் கால் பொன்றாத் துணை.
 @snapend
@@ -320,7 +320,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: அறத்து ஆறு இது என வேண்டா சிவிகை பொறுத்தானோடு ஊர்ந்தான் இடை.
 @snapend
 
@@ -338,7 +338,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: வீழ்நாள் படாமை நன்று ஆற்றின் அஃது ஒருவன்
 வாழ்நாள் வழி அடைக்கும் கல்.
 @snapend
@@ -357,7 +357,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: அறத்தான் வருவதே இன்பம் மற்று எல்லாம்
 புறத்த புகழும் இல.
 @snapend
@@ -376,7 +376,7 @@
 
 ```
 
-@snap[span-100 text-gray text-left text-04]
+@snap[span-100 text-left text-04]
 தொடரமைப்பு: ஒருவற்குச் செயற்பால தோரும் அறனே, உயற்பால தோரும் பழி.
 @snapend
 
