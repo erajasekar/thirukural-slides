@@ -30,6 +30,10 @@
     font-family: "Righteous Heavy", "Righteous Medium", "Righteous", sans-serif;
 }
 
+#kural {
+    color: #F5EC90;
+}
+
 .reveal h5{
     color: #E27924;
 }
