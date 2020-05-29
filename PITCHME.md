@@ -391,7 +391,7 @@
 @img[width=350, height=200](assets/img/Magarisi.jpg)
 
 @snap[span-100 text-06]
-வேதாத்திரி மகரிஷி
+-- வேதாத்திரி மகரிஷி
 @snapend
 
 
