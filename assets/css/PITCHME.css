@@ -30,8 +30,12 @@
     font-family: "Righteous Heavy", "Righteous Medium", "Righteous", sans-serif;
 }
 
-.reveal h5, .hljs-comment {
+.reveal h5{
     color: #E27924;
+}
+
+.hljs-comment {
+    color: #4271AE
 }
 
 .reveal blockquote {
