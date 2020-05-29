@@ -388,23 +388,17 @@
 
 ---?include=includes/AranValiyuruthal.md
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-left]
 
-```
-நான் எனது வாழ்நாளில், 
-யாருடைய மனதுக்கும் உடலுக்கும் துன்பம் தர மாட்டேன் 
-துன்ப படுவோருக்கு, 
-என்னால் முடிந்த உதவிகளை செல்வேன்  -- வேண்டாந்திரி மகரிஷி .
+@img[width=100, height=130](assets/img/Magarisi.jpg)
+
+-- வேந்தாந்திரி மகரிஷி
+
+-- 
 ```
 
 @snapend
 
-@snap[span-100 text-06 text-left]
-
-```
-நாம் அற வழியில் வாழ்ந்தால் , நமது வாழ்க்கை இன்ப மனதாக இருக்கும்.
-```
-@snapend
 
 ---
 
