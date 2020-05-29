@@ -13,5 +13,8 @@
 @snap[north-east span-25]
 #### அறத்துப்பால்
 
-##### பாயிரவியல்
+@snap[span-100 text-06]
+பாயிரவியல்
+@snapend
+
 @snapend
