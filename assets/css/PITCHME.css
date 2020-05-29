@@ -35,7 +35,7 @@
 }
 
 .hljs-comment {
-    color: #4271AE
+    color: #2C9096
 }
 
 .reveal blockquote {
@@ -50,6 +50,7 @@
 	padding: 20px;
 	margin-top:60px;
 	margin-bottom:40px;
+    color: #4271AE
 }
 
 .reveal p {
