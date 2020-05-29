@@ -35,11 +35,11 @@
 }
 
 .hljs-comment {
-    color: #E27924
+    color: #E27924;
 }
 
 .hljs {
-    color: #4271AE
+    color: #4271AE;
     background-color: #F5EC90;
 }
 
@@ -55,6 +55,7 @@
 	padding: 20px;
 	margin-top:60px;
 	margin-bottom:40px;
+    background-color: #F5EC90;
 }
 
 .reveal p {
