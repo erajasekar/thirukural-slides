@@ -390,15 +390,11 @@
 
 @snap[span-100 text-left]
 
-@img[width=100, height=130](assets/img/Magarisi.jpg)
+@img[width=330, height=200](assets/img/Magarisi.jpg)
 
--- வேந்தாந்திரி மகரிஷி
-
--- 
-```
+வேந்தாந்திரி மகரிஷி
 
 @snapend
-
 
 ---
 
