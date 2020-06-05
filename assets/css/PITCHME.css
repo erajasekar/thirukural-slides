@@ -39,7 +39,7 @@
 }
 
 .reveal h6 {
-    margin: 30px 0px 30px 0px;
+    margin: 80px 0px 30px 0px;
 }
 
 .hljs-comment {
@@ -56,6 +56,14 @@
     background-color: rgba(0,0,0,.02);
     word-spacing: 0.5em;
 }
+
+.meaning {
+    margin-top:60px;
+    border-left: 5px solid #E27924;
+    background-color: rgba(0,0,0,.02);
+    word-spacing: 0.5em;
+}
+
 
 .reveal pre {
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
