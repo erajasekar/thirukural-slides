@@ -640,14 +640,3 @@
 
 ---
 
-@snap[north span-100]
-## நன்றி
-@snapend
-
-@snap[span-100]
-@img[width=300, height=150](assets/img/subscribe_share.png)
-@snapend
-
-
-
-
