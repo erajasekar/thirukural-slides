@@ -38,6 +38,10 @@
     color: #E27924;
 }
 
+.reveal h6 {
+    margin: 30px, 0px, 30px, 0px;
+}
+
 .hljs-comment {
     color: #E27924;
 }
