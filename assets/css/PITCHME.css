@@ -70,8 +70,8 @@
     word-spacing: 0.5em;
 }
 
-ul.meaning {
-    list-style-type: none;
+.meaning ul {
+  list-style: none;
 }
 
 blockquote {
