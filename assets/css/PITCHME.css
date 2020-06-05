@@ -70,9 +70,14 @@
     word-spacing: 0.5em;
 }
 
-/*.meaning ul {
+.meaning ul {
   list-style: none;
-}*/
+}
+
+.meaning li:before {
+  content: "\274F    ";
+}
+
 
 blockquote {
     display: block;
