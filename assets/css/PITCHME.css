@@ -57,7 +57,7 @@
     word-spacing: 0.5em;
 }
 
-.reveal .meaning {
+.reveal .conclusion {
     display: block;
     position: relative;
     width: 100%;
@@ -70,12 +70,12 @@
     word-spacing: 0.5em;
 }
 
-.meaning ul {
+.conclusion ul {
   list-style: none;
 }
 
-.meaning li:before {
-  content: "\274F    ";
+.conclusion li:before {
+  content: "\2714    ";
 }
 
 
