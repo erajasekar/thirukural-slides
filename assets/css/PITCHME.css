@@ -57,7 +57,7 @@
     word-spacing: 0.5em;
 }
 
-.meaning {
+.reveal .meaning {
     margin-top:60px;
     border-left: 5px solid #E27924;
     background-color: rgba(0,0,0,.02);
