@@ -638,9 +638,9 @@
 
 ---?include=includes/VaazhkkaiThunainalam.md
 
-@snap[span-100 text-06 text-left]
+@snap[span-100]
 
-> வாழ்க்கைத்  துணைநலம் :
+@img[width=540, height=590](assets/img/indian-marriage-clipart.jpg)
 
 @snapend
 
