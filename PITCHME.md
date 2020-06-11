@@ -852,7 +852,7 @@
 @snapend
 
 ---?include=includes/VaazhkkaiThunainalam.md
-@snap[span-100 text-08 text-left]
+@snap[span-100 text-06 text-left]
 <div class="conclusion" >
 
 இதனை தன்னிடம் இருப்பதை கொண்டு வருமானத்துக்குள் செய்யவேண்டும். 
