@@ -851,6 +851,7 @@
 
 @snapend
 
+---?include=includes/VaazhkkaiThunainalam.md
 @snap[span-100 text-06 text-left]
 <div class="conclusion" >
 
