@@ -640,7 +640,7 @@
 
 @snap[span-100]
 
-@img[width=350, height=390](assets/img/indian-marriage-clipart.jpg)
+@img[width=300, height=350](assets/img/indian-marriage-clipart.jpg)
 
 @snapend
 
