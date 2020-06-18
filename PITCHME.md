@@ -890,7 +890,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=250, height=200](assets/img/avaiyar1.jpg)
+@img[width=250, height=150](assets/img/avaiyar1.jpg)
 
 ---?include=includes/Anbudaimai.md
 
