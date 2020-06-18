@@ -876,7 +876,7 @@
 
 ### நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்
@@ -899,7 +899,7 @@
 
 ### அன்புடையவருக்கான அடையாளம் எது ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்
@@ -923,7 +923,7 @@
 
 ### பிறவியின் நோக்கம் என்ன ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்போ டியைந்த வழக்கென்ப ஆருயிர்க்கு
@@ -947,7 +947,7 @@
 
 ### அன்பு செய்வதன் பயன் என்ன ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்பீனும் ஆர்வம் உடைமை அதுஈனும்
@@ -971,7 +971,7 @@
 
 ### அன்புடையவர் அடையும் சிறப்பு என்ன ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்புற் றமர்ந்த வழக்கென்ப வையகத்து
@@ -994,7 +994,7 @@
 
 ### பகையையும் அன்பால் வெல்லமுடியுமா ?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அறத்திற்கே அன்புசார் பென்ப அறியார்
@@ -1042,7 +1042,7 @@
 
 ### அன்பில்லாத வாழ்க்கை எப்படி இருக்கும்?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்
@@ -1066,7 +1066,7 @@
 
 ### அன்பில்லாதவரிடம் இருக்கும் வசதிகள் பயன் தருமா?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை
@@ -1090,7 +1090,7 @@
 
 ### அன்பில்லாதவர் எப்படி பட்டவர்?
 
-—?include=includes/Anbudaimai.md
+---?include=includes/Anbudaimai.md
 
 ```
 அன்பின் வழிய துயிர்நிலை அஃதிலார்க்கு
