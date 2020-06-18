@@ -870,11 +870,23 @@
 
 ---?include=includes/Anbudaimai.md
 
-# Adhigaram Intro
+@snap[span-100]
+# நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
+@snapend
+
+---?include=includes/Anbudaimai.md
+
+@snap[span-100]
+## நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
+@snapend
 
 ---?include=includes/Anbudaimai.md
 @snap[span-100]
-# Kural Intro
+### நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
 @snapend
+
+---?include=includes/Anbudaimai.md
+### நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
+
 
 
