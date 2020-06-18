@@ -882,6 +882,18 @@
 
 ---?include=includes/Anbudaimai.md
 
+@img[width=250, height=150](assets/img/Bhuddha.jpg)
+
+---?include=includes/Anbudaimai.md
+
+@img[width=250, height=150](assets/img/Vivekananda.jpeg)
+
+---?include=includes/Anbudaimai.md
+
+@img[width=250, height=200](assets/img/avaiyar1.jpg)
+
+---?include=includes/Anbudaimai.md
+
 ### நாம் அன்பை எப்படி வெளிக்காட்டுவோம் ?
 
 ---?include=includes/Anbudaimai.md
