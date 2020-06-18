@@ -878,7 +878,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=340, height=400](assets/img/mother-terassa.JPG)
+@img[width=300, height=350](assets/img/mother-terassa.JPG)
 
 ---?include=includes/Anbudaimai.md
 
