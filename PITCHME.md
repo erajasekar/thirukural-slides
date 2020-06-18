@@ -868,3 +868,13 @@
 
 @snapend
 
+---?include=includes/Anbudaimai.md
+
+# Adhigaram Intro
+
+---?include=includes/Anbudaimai.md
+@snap[span-100]
+# Kural Intro
+@snapend
+
+
