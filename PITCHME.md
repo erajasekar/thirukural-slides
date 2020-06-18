@@ -870,7 +870,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-### <KURAL INTRO>
+### KURAL INTRO
 
 ---?include=includes/Anbudaimai.md
 
