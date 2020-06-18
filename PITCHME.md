@@ -870,15 +870,15 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/paari-vallal.jpg)
+@img[width=400, height=350](assets/img/paari-vallal.jpg)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/sibi.JPG)
+@img[width=400, height=350](assets/img/sibi.JPG)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=300, height=350](assets/img/mother-terassa.JPG)
+@img[width=340, height=400](assets/img/mother-terassa.JPG)
 
 ---?include=includes/Anbudaimai.md
 
