@@ -874,11 +874,11 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/sibi.jpg)
+@img[width=350, height=300](assets/img/sibi.JPG)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=300, height=350](assets/img/mother-terassa.jpg)
+@img[width=300, height=350](assets/img/mother-terassa.JPG)
 
 ---?include=includes/Anbudaimai.md
 
