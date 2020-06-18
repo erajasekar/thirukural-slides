@@ -870,11 +870,11 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/sibi.jpg)
+@img[width=350, height=300](assets/img/paari-vallal.jpg)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/pari-vallal.jpg)
+@img[width=350, height=300](assets/img/sibi.jpg)
 
 ---?include=includes/Anbudaimai.md
 
