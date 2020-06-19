@@ -882,7 +882,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=300](assets/img/Buddha1.jpg)
+@img[width=320, height=250](assets/img/Buddha1.jpg)
 
 > பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
 
