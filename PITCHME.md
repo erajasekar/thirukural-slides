@@ -1158,9 +1158,9 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=200, height=200, shadow](assets/img/comment-button.png)
+@img[width=200, height=200](assets/img/comment-button.png)
 
-##### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
 ---
 
