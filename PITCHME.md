@@ -889,7 +889,7 @@
 @img[width=320, height=250, shadow](assets/img/Buddha1.jpg)
 
 ```
-பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
+பகையை கூட அன்பாலே தணிக்கலாம். - ( புத்தர் )
 ```
 
 ---?include=includes/Anbudaimai.md
@@ -898,7 +898,7 @@
 
 ```
 தூய்மை , பொறுமை , விடாமுயற்சி வெற்றிக்கு முக்கியம்
-ஆனால் அன்பு மிக அவசியம் - (சுவாமி விவேகானந்தர் )
+ஆனால் அன்பு மிக அவசியம். - (சுவாமி விவேகானந்தர் )
 ```
 
 ---?include=includes/Anbudaimai.md
@@ -983,7 +983,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=350, shadow](assets/img/bharathiyar1.png)
+@img[width=250, height=250, shadow](assets/img/bharathiyar1.png)
 
 ```
 உங்களுக்கு தொழில் இங்கே அன்பு செய்தல் கண்டீர் - ( பாரதியார் )
