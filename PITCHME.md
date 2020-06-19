@@ -886,7 +886,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=310, height=220, shadow](assets/img/Buddha1.jpg)
+@img[width=300, height=220, shadow](assets/img/Buddha1.jpg)
 
 ```
 பகையை பகையால் தணிக்க முடியாது,
