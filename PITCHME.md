@@ -882,6 +882,10 @@
 
 ---?include=includes/Anbudaimai.md
 
+@img[width=350, height=350](assets/img/family-love.JPG)
+
+---?include=includes/Anbudaimai.md
+
 @img[width=320, height=250, shadow](assets/img/Buddha1.jpg)
 
 ```
