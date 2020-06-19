@@ -882,7 +882,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=320, height=250](assets/img/Buddha1.jpg)
+@img[width=320, height=250, shadow](assets/img/Buddha1.jpg)
 
 ```
 பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
@@ -890,7 +890,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=250, height=250](assets/img/Vivekananda1.jpg)
+@img[width=220, height=220, shadow](assets/img/Vivekananda1.jpg)
 
 ```
 தூய்மை , பொறுமை , விடாமுயற்சி வெற்றிக்கு முக்கியம்
@@ -899,7 +899,12 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=250, height=150](assets/img/avaiyar1.jpg)
+@img[width=300, height=200, shadow](assets/img/avaiyar1.jpg)
+
+```
+கொடியது அன்பில்லாத பெண்டீர் , அதனினும் கொடியது , 
+அவர் கையால் உண்ணும்  உணவு. - ( ஒவ்வையர் )
+```
 
 ---?include=includes/Anbudaimai.md
 
