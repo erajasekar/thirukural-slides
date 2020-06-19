@@ -1064,7 +1064,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-### அன்பில்லாமல் குற்றங்கள் செய்தல் என்னாகும் ?
+### அன்பில்லாமல் குற்றங்கள் செய்தால் என்னாகும் ?
 
 ---?include=includes/Anbudaimai.md
 
