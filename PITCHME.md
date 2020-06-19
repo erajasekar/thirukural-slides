@@ -886,7 +886,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=320, height=250, shadow](assets/img/Buddha1.jpg)
+@img[width=310, height=220, shadow](assets/img/Buddha1.jpg)
 
 ```
 பகையை பகையால் தணிக்க முடியாது,
@@ -895,7 +895,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=220, height=220, shadow](assets/img/Vivekananda1.jpg)
+@img[width=200, height=200, shadow](assets/img/Vivekananda1.jpg)
 
 ```
 தூய்மை, பொறுமை, விடாமுயற்சி இம்மூன்றும்
@@ -1082,7 +1082,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> எலும்பு இல்லாத புழுவை வெயில் வருத்திக் கொல்லும். அதுபோல் அன்புஇல்லாதவரை அறம் வருத்திக் கொல்லும்.
+> எலும்பு இல்லாத புழுவை வெயில் வருத்திக் கொல்லும். அதுபோல் அன்பு இல்லாதவரை அறம் வருத்திக் கொல்லும்.
 
 @snapend
 
