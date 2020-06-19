@@ -884,11 +884,15 @@
 
 @img[width=320, height=250](assets/img/Buddha1.jpg)
 
-> பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
+```
+பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
+```
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=250, height=150](assets/img/Vivekananda.jpeg)
+@img[width=250, height=250](assets/img/Vivekananda.jpeg)
+
+> தூய்மை , பொறுமை , விடாமுயற்சி வெற்றிக்கு முக்கியம், ஆனால் அன்பு மிக அவசியம் - (சுவாமி விவேகானந்தர் )
 
 ---?include=includes/Anbudaimai.md
 
