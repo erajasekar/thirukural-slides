@@ -884,6 +884,8 @@
 
 @img[width=250, height=150](assets/img/Bhuddha.jpg)
 
+> பகையை கூட அன்பாலே தணிக்கலாம் - ( புத்தர் )
+
 ---?include=includes/Anbudaimai.md
 
 @img[width=250, height=150](assets/img/Vivekananda.jpeg)
