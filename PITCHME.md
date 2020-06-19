@@ -870,19 +870,19 @@
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=400, height=350](assets/img/paari-vallal.jpg)
+@img[width=400, height=350, shadow](assets/img/paari-vallal.jpg)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=400, height=350](assets/img/sibi.JPG)
+@img[width=400, height=350, shadow](assets/img/sibi.JPG)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=300, height=350](assets/img/mother-terassa.JPG)
+@img[width=300, height=350, shadow](assets/img/mother-terassa.JPG)
 
 ---?include=includes/Anbudaimai.md
 
-@img[width=350, height=350](assets/img/family-love.JPG)
+@img[width=350, height=350, shadow](assets/img/family-love.JPG)
 
 ---?include=includes/Anbudaimai.md
 
@@ -907,7 +907,7 @@
 
 ```
 கொடியது அன்பில்லாத பெண்டீர் , அதனினும் கொடியது , 
-அவர் கையால் உண்ணும்  உணவு. - ( ஒவ்வையர் )
+அவர் கையால் உண்ணும்  உணவு. - ( ஒவையார் )
 ```
 
 ---?include=includes/Anbudaimai.md
@@ -980,6 +980,14 @@
 > அன்பு செய்வதற்காகத்  தான் உயிர் உடம்போடு சேர்க்கிறது என்று அறிஞர்கள் சொல்வார்கள். 
 
 @snapend
+
+---?include=includes/Anbudaimai.md
+
+@img[width=350, height=350, shadow](assets/img/bharathiyar1.png)
+
+```
+உங்களுக்கு தொழில் இங்கே அன்பு செய்தல் கண்டீர் - ( பாரதியார் )
+```
 
 ---?include=includes/Anbudaimai.md
 
@@ -1102,7 +1110,7 @@
 
 ---?include=includes/Anbudaimai.md
 
-### அன்பிலாதவர்களின் வாழ்க்கை எப்படி இருக்கும் ?
+### அன்பில்லாதவரிடம் இருக்கும் வசதிகள் பயன் தருமா?
 
 ---?include=includes/Anbudaimai.md
 
