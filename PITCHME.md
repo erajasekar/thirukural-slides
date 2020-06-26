@@ -1170,11 +1170,11 @@
 
 ---?include=includes/Virundhombal.md
 
-TRAVEL PIC
+@img[width=250, height=250, shadow](assets/img/migrant.jpg)
 
 ---?include=includes/Virundhombal.md
 
-food serve pic
+@img[width=250, height=250, shadow](assets/img/hospitalitya.jpg)
 
 ---?include=includes/Virundhombal.md
 
@@ -1182,11 +1182,11 @@ food serve pic
 
 ---?include=includes/Virundhombal.md
 
-food pic
+@img[width=250, height=250, shadow](assets/img/banana-leaf1.jpg)
 
 ---?include=includes/Virundhombal.md
 
-ADD pic
+@img[width=250, height=250, shadow](assets/img/mata-sita.jpg)
 
 கம்பராமாயணம் : விருந்து கண்டபோது எம்முறுமோ என விம்மும் 
 
@@ -1264,6 +1264,10 @@ ADD pic
 > இனிய முகத்தோடு தக்க விருந்தினரைப் பேணுபவரின் வீட்டில் மஹாலட்சுமி மனம் மகிழ்ந்து குடி இருப்பாள்.
 
 @snapend
+
+---?include=includes/Virundhombal.md
+
+@img[width=250, height=250, shadow](assets/img/maha-lakshmi.jpg)
 
 ---?include=includes/Virundhombal.md
 
@@ -1369,16 +1373,30 @@ ADD pic
 
 @snap[span-100 text-08 text-left]
 
-> அனிச்சப்பூ மோந்தவுடன் வாடிவிடும். அதுபோல் விருந்தினர் நம் முகம் வெறுப்பட்டுப் பார்த்த அளவில் வடிவிடுவர்.
+> அனிச்சப்பூ மோந்தவுடன் வாடிவிடும். அதுபோல் விருந்தினர் நம் முகம் வேறுப்பட்டுப் பார்த்த அளவில் வாடிவிடுவர்.
 
 @snapend
 
 ---?include=includes/Virundhombal.md
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
-உண்டிக் கொடுத்தோர் உயிர்க் கொடுத்தோர் 
+
+கொடுக்க கொடுக்க செல்வம் பெருகும்.
 
 </div>
+
+---?include=includes/Virundhombal.md
+@img[width=250, height=250, shadow](assets/img/king.jpg)
+
+---?include=includes/Virundhombal.md
+@snap[span-100 text-08 text-left]
+<div class="conclusion" >
+உண்டிக் கொடுத்தோர் உயிர்க் கொடுத்தோர்.
+
+</div>
+
+---?include=includes/Virundhombal.md
+@img[width=250, height=250, shadow](assets/img/food-give.jpg)
 
 @snapend
 
