@@ -1174,8 +1174,6 @@ TRAVEL PIC
 
 ---?include=includes/Virundhombal.md
 
-விருந்தோம்பலை அறம் என வலியுறுத்தியவர் பொய்யாமொழி புலவர் திருவள்ளுவர்.
-
 food serve pic
 
 ---?include=includes/Virundhombal.md
@@ -1188,11 +1186,13 @@ food pic
 
 ---?include=includes/Virundhombal.md
 
+ADD pic
+
 கம்பராமாயணம் : விருந்து கண்டபோது எம்முறுமோ என விம்மும் 
 
 ---?include=includes/Virundhombal.md
 
-நம்மிடம் இருப்பதை பகிர்ந்து கொடுத்தாலும் , அதுவும் விருந்துதான் 
+நம்மிடம் இருப்பதை பகிர்ந்து கொடுப்பதும் விருந்துதான்  
 
 ---?include=includes/Virundhombal.md
 
@@ -1339,7 +1339,7 @@ food pic
 
 ---?include=includes/Virundhombal.md
 
-யார் செல்வத்திலும் வறுமை என்று நினைப்பர் ?
+செல்வ நிலையிலும் உள்ள வறுமை எது ?
 
 ---?include=includes/Virundhombal.md
 
