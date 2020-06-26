@@ -1170,11 +1170,11 @@
 
 ---?include=includes/Virundhombal.md
 
-@img[width=250, height=250, shadow](assets/img/migrant.jpg)
+@img[width=600, height=400, shadow](assets/img/migrant.jpg)
 
 ---?include=includes/Virundhombal.md
 
-@img[width=250, height=250, shadow](assets/img/hospitalitya.jpg)
+@img[width=500, height=350, shadow](assets/img/hospitalitya.jpg)
 
 ---?include=includes/Virundhombal.md
 
@@ -1182,11 +1182,11 @@
 
 ---?include=includes/Virundhombal.md
 
-@img[width=250, height=250, shadow](assets/img/banana-leaf1.jpg)
+@img[width=700, height=350, shadow](assets/img/banana-leaf1.jpg)
 
 ---?include=includes/Virundhombal.md
 
-@img[width=250, height=250, shadow](assets/img/mata-sita.jpg)
+@img[width=500, height=350, shadow](assets/img/mata-sita.jpeg)
 
 கம்பராமாயணம் : விருந்து கண்டபோது எம்முறுமோ என விம்மும் 
 
@@ -1267,7 +1267,7 @@
 
 ---?include=includes/Virundhombal.md
 
-@img[width=250, height=250, shadow](assets/img/maha-lakshmi.jpg)
+@img[width=250, height=350, shadow](assets/img/maha-lakshmi.jpg)
 
 ---?include=includes/Virundhombal.md
 
@@ -1381,12 +1381,13 @@
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 
+கணக்கு பாக்காம அன்போட உணவு கொடுக்கணும்.
 கொடுக்க கொடுக்க செல்வம் பெருகும்.
 
 </div>
 
 ---?include=includes/Virundhombal.md
-@img[width=250, height=250, shadow](assets/img/king.jpg)
+@img[width=700, height=350, shadow](assets/img/king.jpg)
 
 ---?include=includes/Virundhombal.md
 @snap[span-100 text-08 text-left]
@@ -1396,7 +1397,7 @@
 </div>
 
 ---?include=includes/Virundhombal.md
-@img[width=250, height=250, shadow](assets/img/food-give.jpg)
+@img[width=220, height=390, shadow](assets/img/food-give.jpg)
 
 @snapend
 
