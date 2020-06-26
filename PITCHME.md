@@ -1192,7 +1192,7 @@
 
 ---?include=includes/Virundhombal.md
 
-@img[width=500, height=350, shadow](assets/img/mata-sita.jpeg)
+@img[width=375, height=250, shadow](assets/img/mata-sita.jpeg)
 
 ```
 விருந்து கண்டபோது எம்முறுமோ என விம்மும் ( கம்பராமாயணம் )
