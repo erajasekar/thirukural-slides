@@ -1170,7 +1170,21 @@
 
 ---?include=includes/Virundhombal.md
 
-விருந்தோம்பலை அறம் என வலியுறுத்தியவர்  பொய்யாமொழி புலவர் திருவள்ளுவர்.
+TRAVEL PIC
+
+---?include=includes/Virundhombal.md
+
+விருந்தோம்பலை அறம் என வலியுறுத்தியவர் பொய்யாமொழி புலவர் திருவள்ளுவர்.
+
+food serve pic
+
+---?include=includes/Virundhombal.md
+
+விருந்தோம்பலை அறம் என வலியுறுத்தியவர் பொய்யாமொழி புலவர் திருவள்ளுவர்.
+
+---?include=includes/Virundhombal.md
+
+food pic
 
 ---?include=includes/Virundhombal.md
 
