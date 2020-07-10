@@ -1700,6 +1700,11 @@
 
 ---?include=includes/SeiNandriArithal.md
 
+@img[width=300, height=200](assets/img/karnan.png)
+
+
+---?include=includes/SeiNandriArithal.md
+
 ### சரியான சமயத்தில் செய்யும் உதவி எவ்வளவு பெரியது ?
 
 ---?include=includes/SeiNandriArithal.md
@@ -1709,7 +1714,6 @@
 ஞாலத்தின் மாணப் பெரிது		( குறள் - 102)
 
 ```
-
 @snap[span-100 text-08 text-left]
 
 > தேவைப்படும் காலத்தில் செய்யப்படும் உதவி சிறிதளவாக இருந்தாலும் அது உலகத்தை விட பெரிதாக மதிக்கப்படும்.
@@ -1717,6 +1721,11 @@
 @snapend
 
 ---?include=includes/SeiNandriArithal.md
+
+@img[width=207, height=243](assets/img/help1.png)
+
+---?include=includes/SeiNandriArithal.md
+
 
 ### பயன் எதிர்பார்க்காமல் செய்யும் உதவி எவ்வளவு பெரியது?
 
@@ -1730,7 +1739,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> எவ்விதப் பயனையும் எதிர்பார்க்காமல் ஒருவன் செய்த உதவியின் அன்பை மட்டும் ஆராய்தால், அதன் நன்மை கடலை விடப் பெரியதாகும்.
+> எவ்விதப் பயனையும் எதிர்பார்க்காமல் ஒருவன் செய்த உதவியின் அன்பை மட்டும் ஆராய்ந்தால், அதன் நன்மை கடலை விடப் பெரியதாகும்.
 
 @snapend
 
