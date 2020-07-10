@@ -1895,9 +1895,8 @@
 
 
 ---?include=includes/SeiNandriArithal.md
-@snap[span-100 text-08 text-left]
 
-@img[width=250, height=320, shadow](assets/img/vanakkam.jpeg)
+@img[width=200, height=254, shadow](assets/img/vanakkam.jpeg)
 
 > எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
 
@@ -1907,7 +1906,7 @@
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-### இந்த பதிவை பற்றிய உங்களது கருத்துக்களை கமெண்ட்-ல சொல்லுங்க.
+###### இந்த பதிவை பற்றிய உங்களது கருத்துக்களை கமெண்ட்-ல சொல்லுங்க.
 
 ---
 
