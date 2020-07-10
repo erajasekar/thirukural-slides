@@ -1910,12 +1910,16 @@
 
 ---?include=includes/SeiNandriArithal.md
 
+@img[width=340, height=250, shadow](assets/img/help3.jpeg)
+
+---?include=includes/SeiNandriArithal.md
+
 ### நன்றி மறவாமல் நன்மைகள் செய்து நலமாய் வாழலாம்!
 
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=200, height=200, shadow](assets/img/vanakkam1.png)
+@img[width=300, height=280, shadow](assets/img/vanakkam1.png)
 
 @snap[span-100 text-08 text-left]
 
