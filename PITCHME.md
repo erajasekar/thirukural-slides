@@ -1897,17 +1897,11 @@
 ---?include=includes/SeiNandriArithal.md
 @snap[span-100 text-08 text-left]
 
-<div class="conclusion" >
+@img[width=250, height=320, shadow](assets/img/vanakkam.jpeg)
 
-எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
-
-</div>
+> எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
 
 @snapend
-
----?include=includes/SeiNandriArithal.md
-
-@img[width=250, height=320, shadow](assets/img/vanakkam.jpeg)
 
 ---?include=includes/SeiNandriArithal.md
 
