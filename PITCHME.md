@@ -1877,6 +1877,8 @@
 நன்றி மறவேல் - ( ஔவையார் )
 ```
 
+---?include=includes/SeiNandriArithal.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 பண்பானவங்க பணிவோடையும் நன்றியோடையும் இருப்பாங்க.
