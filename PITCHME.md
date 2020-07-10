@@ -1865,9 +1865,10 @@
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 
-நாமும் உதவிகள் செய்யவேண்டும். நமக்கு உதவிசெய்தவர்களை நாம் நன்றியோடு நினைக்க வேண்டும்.
+நாமும் உதவிகள் செய்ய வேண்டும். நமக்கு உதவி செய்தவர்களை நாம் நன்றியோடு நினைக்க வேண்டும்.
 
 </div>
+@snapend
 ---?include=includes/SeiNandriArithal.md
 
 @img[width=300, height=200, shadow](assets/img/avaiyar1.jpg)
@@ -1878,19 +1879,27 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-<div class="conclusion" >
-நன்றி மறவாமல் நன்மைகள் செய்து நலமாய் வாழலாம்.
-</div>
-
+@img[width=600, height=388, shadow](assets/img/pongal1.jpeg)
 
 ---?include=includes/SeiNandriArithal.md
 
+### நன்றி மறவாமல் நன்மைகள் செய்து நலமாய் வாழலாம்!
+
+
+---?include=includes/SeiNandriArithal.md
+@snap[span-100 text-08 text-left]
+
 <div class="conclusion" >
-எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி.
+
+எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
 
 </div>
 
 @snapend
+
+---?include=includes/SeiNandriArithal.md
+
+@img[width=250, height=320, shadow](assets/img/vanakkam.jpeg)
 
 ---?include=includes/SeiNandriArithal.md
 
