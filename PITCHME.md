@@ -1910,7 +1910,7 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=400, height=260, shadow](assets/img/help5.jpeg)
+@img[width=400, height=260, shadow](assets/img/help5.jpg)
 
 ---?include=includes/SeiNandriArithal.md
 
