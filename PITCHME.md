@@ -1884,7 +1884,13 @@
 
 ```
 நன்றி மறவேல் - ( ஔவையார் )
+
+
 ```
+
+---?include=includes/SeiNandriArithal.md
+
+@img[width=320, height=250, shadow](assets/img/help2.jpeg)
 
 ---?include=includes/SeiNandriArithal.md
 
@@ -1897,6 +1903,10 @@
 ---?include=includes/SeiNandriArithal.md
 
 @img[width=600, height=388, shadow](assets/img/pongal1.jpeg)
+
+---?include=includes/SeiNandriArithal.md
+
+@img[width=340, height=250, shadow](assets/img/say-thank-you.jpg)
 
 ---?include=includes/SeiNandriArithal.md
 
