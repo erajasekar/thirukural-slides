@@ -1898,7 +1898,11 @@
 
 @img[width=200, height=254, shadow](assets/img/vanakkam.jpeg)
 
-> எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
+@snap[span-100 text-08 text-left]
+
+<div class="conclusion" >
+
+எங்களுக்கு ஆதரவு கொடுத்துவரும் அனைவருக்கும் நன்றி!
 
 @snapend
 
