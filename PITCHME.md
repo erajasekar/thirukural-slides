@@ -1722,7 +1722,7 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=207, height=243](assets/img/help1.png)
+@img[width=340, height=250](assets/img/help4.png)
 
 ---?include=includes/SeiNandriArithal.md
 
@@ -1910,7 +1910,7 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=340, height=250, shadow](assets/img/help3.jpeg)
+@img[width=400, height=260, shadow](assets/img/help5.jpeg)
 
 ---?include=includes/SeiNandriArithal.md
 
