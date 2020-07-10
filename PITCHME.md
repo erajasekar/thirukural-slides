@@ -1896,7 +1896,7 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=200, height=254, shadow](assets/img/vanakkam.jpeg)
+@img[width=190, height=230, shadow](assets/img/vanakkam.jpeg)
 
 @snap[span-100 text-08 text-left]
 
