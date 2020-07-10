@@ -1722,7 +1722,7 @@
 
 ---?include=includes/SeiNandriArithal.md
 
-@img[width=340, height=250](assets/img/help4.png)
+@img[width=340, height=250](assets/img/help4.jpg)
 
 ---?include=includes/SeiNandriArithal.md
 
