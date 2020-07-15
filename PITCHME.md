@@ -1935,6 +1935,14 @@
 
 ###### இந்த பதிவை பற்றிய உங்களது கருத்துக்களை கமெண்ட்-ல சொல்லுங்க.
 
+---?include=includes/NaduvuNilaimai.md
+
+### <ADHIGHARAM INTRO>
+
+---?include=includes/NaduvuNilaimai.md
+
+### <KURAL 111 INTRO>
+
 ---
 
 
