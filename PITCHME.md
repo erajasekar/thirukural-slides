@@ -1950,8 +1950,9 @@
 ---?include=includes/NaduvuNilaimai.md
 
 <div class="conclusion" >
-நன்றி உணர்வு என்பது தனிப்பட்ட உணர்வு. மற்றவர் பிரச்சனையில் நன்றி பார்க்காமல் நடுவு நிலைமையோடு நின்று தவறை சுட்டி காட்ட வேண்டும்.
+நன்றி உணர்வு என்பது தனிப்பட்ட உணர்வு. 
 </div>
+
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2050,7 +2051,7 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-கெட்டாலும் மேன்மக்கள் மேன்மக்களே 
+கெட்டாலும் மேன்மக்கள் மேன்மக்களே! 
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2167,9 +2168,12 @@ Happy pic
 sad pic
 
 ---?include=includes/NaduvuNilaimai.md
+
 ### அனைவருக்கும் நியாயம் கிடைக்கவேண்டும்.
 
-நடுவு நிலைமையோடு இருந்தால் தான் இந்த உலககத்தில் நீதி நிலைக்கும்.
+---?include=includes/NaduvuNilaimai.md
+
+### நடுவு நிலைமையோடு இருந்தால் தான் இந்த உலககத்தில் நீதி நிலைக்கும்.
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2188,13 +2192,13 @@ sad pic
 
 ---?include=includes/NaduvuNilaimai.md
 
-நடுவு நிலைமையோடு இருந்து நல்லவர்களாய் வாழ்வோம்
+### நடுவு நிலைமையோடு இருந்து நல்லவர்களாய் வாழ்வோம்
 
 ---?include=includes/NaduvuNilaimai.md
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
 ---
 
