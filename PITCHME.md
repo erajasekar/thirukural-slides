@@ -2189,13 +2189,13 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=380, height=220, shadow](assets/img/Justice1.jpg)
-
-அனைவருக்கும் நியாயம் கிடைக்கவேண்டும்.
+@img[width=400, height=250, shadow](assets/img/Justice1.jpg)
 
 ---?include=includes/NaduvuNilaimai.md
 
-### நடுவு நிலைமையோடு இருந்தால் தான் இந்த உலககத்தில் நீதி நிலைக்கும்.
+@img[width=400, height=250, shadow](assets/img/equality.jpg)
+
+நடுவு நிலைமையோடு இருந்தால் தான் இந்த உலககத்தில் நீதி நிலைக்கும்.
 
 ---?include=includes/NaduvuNilaimai.md
 
