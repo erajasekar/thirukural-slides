@@ -2125,6 +2125,10 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
+@img[width=227, height=222, shadow](assets/img/balance.jpeg)
+
+---?include=includes/NaduvuNilaimai.md
+
 ### நடுவு நிலைமை தவறாமல் இருப்பதற்கு வழி என்ன?
 
 ---?include=includes/NaduvuNilaimai.md
