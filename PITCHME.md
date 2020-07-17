@@ -2159,6 +2159,8 @@
 
 @snapend
 
+---?include=includes/NaduvuNilaimai.md
+
 @img[width=300, height=200, shadow](assets/img/avaiyar1.jpg)
 
 ```
