@@ -2189,7 +2189,7 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=380, height=220, shadow](assets/img/Justice.jpg)
+@img[width=380, height=220, shadow](assets/img/Justice1.jpg)
 
 அனைவருக்கும் நியாயம் கிடைக்கவேண்டும்.
 
