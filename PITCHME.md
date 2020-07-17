@@ -2035,6 +2035,7 @@
 
 @img[width=300, height=220](assets/img/manuneethicholan.jpg)
 
+மனுநீதி சோழன்
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2191,7 +2192,7 @@
 @img[width=225, height=225](assets/img/pandiya-manan.jpeg)
 
 ```
-தவறான தீர்ப்பு வழங்கியதற்காக தன் உயிரை விட்டான் பாண்டிய மன்னன் - சிலப்பதிகாரம்.
+தவறான தீர்ப்பு வழங்கியதற்காக தன் உயிரை விட்டான் பாண்டிய மன்னன் - ( சிலப்பதிகாரம் )
 ```
 
 ---?include=includes/NaduvuNilaimai.md
