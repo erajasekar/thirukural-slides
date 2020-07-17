@@ -2159,6 +2159,12 @@
 
 @snapend
 
+@img[width=300, height=200, shadow](assets/img/avaiyar1.jpg)
+
+```
+அஃகஞ் சுருக்கேல்  - ( ஔவையார் )
+```
+
 ---?include=includes/NaduvuNilaimai.md
 
 @snap[span-100 text-08 text-left]
@@ -2189,13 +2195,12 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=400, height=250, shadow](assets/img/Justice1.jpg)
+@img[width=400, height=275, shadow](assets/img/Justice1.jpg)
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=400, height=250, shadow](assets/img/equality.jpg)
+@img[width=400, height=275, shadow](assets/img/equality.jpg)
 
-நடுவு நிலைமையோடு இருந்தால் தான் இந்த உலககத்தில் நீதி நிலைக்கும்.
 
 ---?include=includes/NaduvuNilaimai.md
 
