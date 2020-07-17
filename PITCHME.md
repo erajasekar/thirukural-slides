@@ -2173,11 +2173,11 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=420, height=250](assets/img/sad.jpeg)
+@img[width=420, height=250, shadow](assets/img/sad.jpeg)
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=211, height=239](assets/img/happy2.png)
+@img[width=211, height=239, shadow](assets/img/happy2.png)
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2189,7 +2189,7 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=225, height=225](assets/img/pandiya-manan.jpeg)
+@img[width=225, height=225, shadow](assets/img/pandiya-manan.jpeg)
 
 ```
 தவறான தீர்ப்பு வழங்கியதற்காக தன் உயிரை விட்டான் பாண்டிய மன்னன் - ( சிலப்பதிகாரம் )
