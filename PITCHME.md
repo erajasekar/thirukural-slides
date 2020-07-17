@@ -2165,7 +2165,7 @@
 
 ### நடுவு நிலைமை தவறி சேர்க்கும் பொருளால் நன்மையோ புகழோ வராது. 
 
-### பழி தான் வரும்.
+பழி தான் வரும்.
 
 @snapend
 
@@ -2173,7 +2173,11 @@
 
 ### தலைமைப்பண்பில் இருப்பவர் நேர்மையாக இருக்கவேண்டும். 
 
-### அவர் பாரபட்சம் பார்க்கக்கூடாது.
+அவர் பாரபட்சம் பார்க்கக்கூடாது.
+
+---?include=includes/NaduvuNilaimai.md
+
+@img[width=210, height=240, shadow](assets/img/think.jpeg)
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2196,6 +2200,10 @@
 @img[width=225, height=225, shadow](assets/img/pandiya-manan.jpeg)
 
 தவறான தீர்ப்பு வழங்கியதற்காக தன் உயிரை விட்டான் பாண்டிய மன்னன்
+
+---?include=includes/NaduvuNilaimai.md
+
+### நடுவு நிலைமை தவிறினால் நிம்மதியா வாழ முடியாது 
 
 ---?include=includes/NaduvuNilaimai.md
 
