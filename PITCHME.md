@@ -2033,7 +2033,8 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-மனுநீதி சோழன்
+@img[width=300, height=220](assets/img/manuneethicholan.jpg)
+
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2055,7 +2056,11 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-கெட்டாலும் மேன்மக்கள் மேன்மக்களே! 
+@img[width=300, height=200, shadow](assets/img/avaiyar1.jpg)
+
+```
+கெட்டாலும் மேன்மக்கள் மேன்மக்களே!  - ( ஔவையார் )
+```
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2094,6 +2099,8 @@
 @snapend
 
 ---?include=includes/NaduvuNilaimai.md
+
+@img[width=150, height=200, shadow](assets/img/kamaraj.jpg)
 
 கர்மவீரர் காமராஜர்
 
@@ -2165,11 +2172,11 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-Happy pic
+@img[width=350, height=200](assets/img/sad.jpeg)
 
 ---?include=includes/NaduvuNilaimai.md
 
-sad pic
+@img[width=211, height=239](assets/img/happy2.jpeg)
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2181,7 +2188,11 @@ sad pic
 
 ---?include=includes/NaduvuNilaimai.md
 
+@img[width=225, height=225](assets/img/pandiya-manan.jpeg)
+
+```
 தவறான தீர்ப்பு வழங்கியதற்காக தன் உயிரை விட்டான் பாண்டிய மன்னன் - சிலப்பதிகாரம்.
+```
 
 ---?include=includes/NaduvuNilaimai.md
 
