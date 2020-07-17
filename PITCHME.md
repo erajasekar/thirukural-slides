@@ -2173,11 +2173,11 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=350, height=200](assets/img/sad.jpeg)
+@img[width=420, height=250](assets/img/sad.jpeg)
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=211, height=239](assets/img/happy2.jpeg)
+@img[width=211, height=239](assets/img/happy2.png)
 
 ---?include=includes/NaduvuNilaimai.md
 
