@@ -2173,7 +2173,7 @@
 
 ### தலைமைப்பண்பில் இருப்பவர் நேர்மையாக இருக்கவேண்டும். 
 
-அவர் பாரபட்சம் பார்க்கக்கூடாது.
+அவர் பாரபட்சம் பார்கக்கூடாது.
 
 ---?include=includes/NaduvuNilaimai.md
 
@@ -2203,7 +2203,9 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-### நடுவு நிலைமை தவிறினால் நிம்மதியா வாழ முடியாது 
+@img[width=220, height=220, shadow](assets/img/sad2.png)
+
+> நடுவு நிலைமை தவிறினால் நிம்மதியா வாழ முடியாது 
 
 ---?include=includes/NaduvuNilaimai.md
 
