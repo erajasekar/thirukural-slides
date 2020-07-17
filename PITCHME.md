@@ -2125,7 +2125,7 @@
 
 ---?include=includes/NaduvuNilaimai.md
 
-@img[width=227, height=222, shadow](assets/img/balance.jpeg)
+@img[width=227, height=222, shadow](assets/img/balance.png)
 
 ---?include=includes/NaduvuNilaimai.md
 
