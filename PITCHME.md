@@ -2241,6 +2241,15 @@
 
 ###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
----
+---?include=includes/Adakamudaimai.md
+
+### <ADHIGHARAM INTRO>
+
+---?include=includes/Adakamudaimai.md
+
+### <KURAL 121 INTRO>
+
+---?include=includes/Adakamudaimai.md
+
 
 
