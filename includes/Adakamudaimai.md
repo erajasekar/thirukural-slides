@@ -7,7 +7,7 @@
 
 <h4 id="title"> திருக்குறள் </h4>
 
-##### அடக்கமுடைமை
+##### அடக்கம் உடைமை
 @snapend
 
 @snap[north-east span-25 text-08]
