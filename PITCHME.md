@@ -2495,7 +2495,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-உடனடியா கிடைக்கிற சின்ன சந்தோஷத்துக்காக மன கட்டுப்பாடு இல்லாம நடந்தால் , பின்டாடி வரக்கூடிய பெரிய நன்மைகளை இழந்திடுவோம் 
+உடனடியா கிடைக்கிற சின்ன சந்தோஷத்துக்காக மன கட்டுப்பாடு இல்லாம நடந்தால், பின்டாடி வரக்கூடிய பெரிய நன்மைகளை இழந்திடுவோம் 
 
 ---?include=includes/Adakamudaimai.md
 
@@ -2519,9 +2519,31 @@
 
 ---?include=includes/Adakamudaimai.md
 
+@img[width=400, height=250, shadow](assets/img/sleepthink.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/help3.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/paint.jpg)
+
+---?include=includes/Adakamudaimai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
-CONCLUSION
+
+அடக்கத்துடன் வாழ்ந்தால் சமுதாயமும் நல்லாயிருக்கும் , நாமும் நல்லாயிருக்கலாம் 
+
+</div>
+
+@snapend
+
+@snap[span-100 text-08 text-left]
+<div class="conclusion" >
+	
+தீதும் நன்றும் பிறர் தர வாரா
 
 </div>
 
