@@ -2259,7 +2259,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=600, height=300, shadow](assets/img/marshmallow7.jpg)
+@img[width=600, height=300, shadow](assets/img/marshmallow7.png)
 
 ---?include=includes/Adakamudaimai.md
 
@@ -2267,11 +2267,11 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=600, height=300, shadow](assets/img/marshmallow8.jpg)
+@img[width=600, height=300, shadow](assets/img/marshmallow8.png)
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=600, height=300, shadow](assets/img/marshmallow9.jpg)
+@img[width=600, height=300, shadow](assets/img/marshmallow9.png)
 
 ---?include=includes/Adakamudaimai.md
 
