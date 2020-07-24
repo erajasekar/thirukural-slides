@@ -2499,7 +2499,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-### மனம், மொழி, மெய் இத கட்டுப்படுத்தி வாழ என்ன செய்யலாம் ?
+### மனம், மொழி, மெய் இவற்றை கட்டுப்படுத்தி வாழ என்ன செய்யலாம் ?
 
 ---?include=includes/Adakamudaimai.md
 
