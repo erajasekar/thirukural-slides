@@ -2279,7 +2279,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-ஆய்வோட முடிவ தெரிந்துகொள்ள இந்த காணொளியை இறுதிவரை பாருங்கள்!
+ஆய்வோட முடிவ தெரிந்துகொள்ள? இந்த காணொளியை இறுதிவரை பாருங்கள்!
 
 ---?include=includes/Adakamudaimai.md
 
@@ -2377,7 +2377,15 @@
 
 ---?include=includes/Adakamudaimai.md
 
-### ARR TODO
+@img[width=420, height=300, shadow](assets/img/arr1.png)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=450, height=300, shadow](assets/img/arr2.png)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=450, height=300, shadow](assets/img/arr3.png)
 
 ---?include=includes/Adakamudaimai.md
 
