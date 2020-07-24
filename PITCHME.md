@@ -2477,6 +2477,24 @@
 
 @snapend
 
+---?include=includes/Adakamudaimai.md
+
+### மார்ஷ்மெல்லோ ஆய்வு முடிவு
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/marshmallow10.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/marshmallow11.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/marshmallow12.jpg)
+
+---?include=includes/Adakamudaimai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 CONCLUSION
