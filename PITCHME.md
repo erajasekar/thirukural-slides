@@ -2377,7 +2377,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=420, height=300, shadow](assets/img/arr1.png)
+@img[width=420, height=300, shadow](assets/img/arr1.jpg)
 
 ---?include=includes/Adakamudaimai.md
 
