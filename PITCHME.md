@@ -2259,6 +2259,34 @@
 
 ---?include=includes/Adakamudaimai.md
 
+@img[width=600, height=300, shadow](assets/img/marshmallow7.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=480, height=306, shadow](assets/img/marshmallow1.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=600, height=300, shadow](assets/img/marshmallow8.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=600, height=300, shadow](assets/img/marshmallow9.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+ஆய்வில் கலந்து கொண்ட குழந்தைகளுடைய வாழ்க்கை எப்படி இருந்ததுன்னு பதினாறு வருடத்திற்கு பிறகு பார்த்தார்கள்
+
+---?include=includes/Adakamudaimai.md
+
+ஆய்வோட முடிவ தெரிந்துகொள்ள இந்த காணொளியை இறுதிவரை பாருங்கள்!
+
+---?include=includes/Adakamudaimai.md
+
+நடுவு நிலமையோடு வாழுகின்றவர்கள் அடக்கத்துடன் வாழ்ந்தால் மேலும் உயரலாம். 
+
+---?include=includes/Adakamudaimai.md
+
 ### ஏன் அடக்கத்துடன் வாழ வேண்டும்?
 
 ---?include=includes/Adakamudaimai.md
