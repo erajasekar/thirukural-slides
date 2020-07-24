@@ -2495,6 +2495,30 @@
 
 ---?include=includes/Adakamudaimai.md
 
+உடனடியா கிடைக்கிற சின்ன சந்தோஷத்துக்காக மன கட்டுப்பாடு இல்லாம நடந்தால் , பின்டாடி வரக்கூடிய பெரிய நன்மைகளை இழந்திடுவோம் 
+
+---?include=includes/Adakamudaimai.md
+
+### மனம், மொழி, மெய் இத கட்டுப்படுத்தி வாழ என்ன செய்யலாம் ?
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/drinking.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/watchtv.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/study.jpg)
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/argue.jpg)
+
+---?include=includes/Adakamudaimai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 CONCLUSION
