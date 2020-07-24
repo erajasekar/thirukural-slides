@@ -2255,7 +2255,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=420, height=300, shadow](assets/img/marshmallow5.jpg)
+@img[width=440, height=300, shadow](assets/img/marshmallow5.jpg)
 
 ---?include=includes/Adakamudaimai.md
 
