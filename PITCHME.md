@@ -2247,7 +2247,15 @@
 
 ---?include=includes/Adakamudaimai.md
 
-### TODO INTRO FINAL
+### அடக்கம் உடைமை படிப்பதால் என்ன நன்மை ?
+
+---?include=includes/Adakamudaimai.md
+
+### மார்ஷ்மெல்லோ ஆய்வு - Marshmallow Experiment  
+
+---?include=includes/Adakamudaimai.md
+
+@img[width=400, height=250, shadow](assets/img/marshmallow5.jpg)
 
 ---?include=includes/Adakamudaimai.md
 
