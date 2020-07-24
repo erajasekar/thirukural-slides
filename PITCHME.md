@@ -2381,11 +2381,11 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=450, height=300, shadow](assets/img/arr2.png)
+@img[width=450, height=300, shadow](assets/img/arr21.png)
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=450, height=300, shadow](assets/img/arr3.png)
+@img[width=450, height=300, shadow](assets/img/arr31.png)
 
 ---?include=includes/Adakamudaimai.md
 
