@@ -2251,11 +2251,11 @@
 
 ---?include=includes/Adakamudaimai.md
 
-### மார்ஷ்மெல்லோ ஆய்வு - Marshmallow Experiment  
+### மார்ஷ்மெல்லோ ஆய்வு  Marshmallow Experiment  
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=400, height=250, shadow](assets/img/marshmallow5.jpg)
+@img[width=420, height=300, shadow](assets/img/marshmallow5.jpg)
 
 ---?include=includes/Adakamudaimai.md
 
