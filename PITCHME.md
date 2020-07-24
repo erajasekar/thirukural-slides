@@ -2540,12 +2540,12 @@
 
 @snapend
 
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-	
-தீதும் நன்றும் பிறர் தர வாரா
+---?include=includes/Adakamudaimai.md
 
-</div>
+```
+தீதும் நன்றும் பிறர் தர வாரா - ( கணியன் பூங்குன்றனார் )
+
+```
 
 @snapend
 
