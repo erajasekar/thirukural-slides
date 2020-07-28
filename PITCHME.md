@@ -2555,5 +2555,21 @@
 
 உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
+---?include=includes/Poraiyudaimai.md
+
+### <ADHIGHARAM INTRO>
+
+---?include=includes/Poraiyudaimai.md
+
+### <KURAL 151 INTRO>
+
+---?include=includes/Poraiyudaimai.md
+
+```
+அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை
+இகழ்வார்ப் பொறுத்தல் தலை		( குறள் - 151)
+
+```
+
 
 
