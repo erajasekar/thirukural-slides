@@ -2571,23 +2571,23 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=300, height=300, shadow](assets/img/independence1.jpg)
+@img[width=400, height=270, shadow](assets/img/independence2.png)
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=300, height=300, shadow](assets/img/gandhi1.png)
+@img[width=350, height=350, shadow](assets/img/gandhi1.png)
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=300, height=300, shadow](assets/img/chandrabose.png)
+@img[width=350, height=350, shadow](assets/img/chandrabose.png)
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=480, height=300, shadow](assets/img/gandhi-calm.png)
+@img[width=500, height=320, shadow](assets/img/gandhi-calm.png)
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=314, height=227, shadow](assets/img/gandhi-nelson.jpg)
+@img[width=400, height=300, shadow](assets/img/gandhi-nelson.jpg)
 
 ---?include=includes/Poraiyudaimai.md
 
