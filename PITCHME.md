@@ -2657,7 +2657,7 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-(லார்ட் மௌண்ட்பாட்டன் பிக்சர் ) 
+@img[width=200, height=350, shadow](assets/img/mountbatten.JPG)
 
 ---?include=includes/Poraiyudaimai.md
 
