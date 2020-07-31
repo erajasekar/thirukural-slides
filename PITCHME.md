@@ -2701,6 +2701,10 @@
 
 ---?include=includes/Poraiyudaimai.md
 
+@img[width=350, height=350, shadow](assets/img/gandhi1.png)
+
+---?include=includes/Poraiyudaimai.md
+
 ```
 ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்
 பொன்றும் துணையும் புகழ்		( குறள் - 156)
