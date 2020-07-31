@@ -2814,6 +2814,8 @@
 
 @img[width=450, height=300, shadow](assets/img/buddha2.jpg)
 
+---?include=includes/Poraiyudaimai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 காந்திக்கும் திருக்குறளுக்குமான தொடர்பு :
