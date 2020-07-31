@@ -2579,7 +2579,7 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=350, height=350, shadow](assets/img/chandrabose.png)
+@img[width=350, height=300, shadow](assets/img/indian-army.jpg)
 
 ---?include=includes/Poraiyudaimai.md
 
