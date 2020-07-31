@@ -2571,7 +2571,7 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=400, height=270, shadow](assets/img/independence2.png)
+@img[width=460, height=320, shadow](assets/img/independence2.png)
 
 ---?include=includes/Poraiyudaimai.md
 
