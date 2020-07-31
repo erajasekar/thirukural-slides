@@ -2567,7 +2567,35 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-GANDHI INTRO
+### பொறுமையா இருந்தா என்ன சாதிக்க முடியும் ?
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=300, height=300, shadow](assets/img/independence1.jpg)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=300, height=300, shadow](assets/img/gandhi1.png)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=300, height=300, shadow](assets/img/chandrabose.png)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=480, height=300, shadow](assets/img/gandhi-calm.png)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=314, height=227, shadow](assets/img/gandhi-nelson.jpg)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=300, height=300, shadow](assets/img/gandhi1.png)
+
+---?include=includes/Poraiyudaimai.md
+
+காந்திக்கும் திருக்குறளுக்கும் உள்ள தொடர்ப  தெரிந்துகொள்ள இந்த காணொளியை இறுதிவரை பாருங்கள்!
 
 ---?include=includes/Poraiyudaimai.md
 
