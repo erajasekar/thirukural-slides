@@ -2697,11 +2697,11 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-### தீமை செய்தவரை தண்டித்தால் தானே நான் இன்பமாக இருக்க முடியும்?
+@img[width=350, height=350, shadow](assets/img/gandhi1.png)
 
 ---?include=includes/Poraiyudaimai.md
 
-@img[width=350, height=350, shadow](assets/img/gandhi1.png)
+### தீமை செய்தவரை தண்டித்தால் தானே நான் இன்பமாக இருக்க முடியும்?
 
 ---?include=includes/Poraiyudaimai.md
 
