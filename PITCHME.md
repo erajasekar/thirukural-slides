@@ -2595,6 +2595,10 @@
 
 ---?include=includes/Poraiyudaimai.md
 
+@img[width=320, height=340, shadow](assets/img/gandhi-valluvar.png)
+
+---?include=includes/Poraiyudaimai.md
+
 காந்திக்கும் திருக்குறளுக்கும் உள்ள தொடர்ப  தெரிந்துகொள்ள இந்த காணொளியை இறுதிவரை பாருங்கள்!
 
 ---?include=includes/Poraiyudaimai.md
