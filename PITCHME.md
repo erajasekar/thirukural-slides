@@ -2787,7 +2787,7 @@
 
 ---?include=includes/Poraiyudaimai.md
 
-காந்திக்கும் திருக்குறளுக்கும் உள்ள தொடர்பு
+### காந்திக்கும் திருக்குறளுக்கும் உள்ள தொடர்பு
 
 ---?include=includes/Poraiyudaimai.md
 
@@ -2803,6 +2803,16 @@
 @img[width=500, height=300, shadow](assets/img/gandhi-speak.jpg)
 
 ---?include=includes/Poraiyudaimai.md
+
+@img[width=480, height=300, shadow](assets/img/church.jpg)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=520, height=300, shadow](assets/img/masjid.jpg)
+
+---?include=includes/Poraiyudaimai.md
+
+@img[width=450, height=300, shadow](assets/img/buddha2.jpg)
 
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
