@@ -2904,7 +2904,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=525, height=350, shadow](assets/img/dice.jpg) 
+@img[width=525, height=350, shadow](assets/img/luck1.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
@@ -3162,7 +3162,7 @@
 
 ---?include=includes/Adakamudaimai.md
 
-@img[width=511, height=350, shadow](assets/img/marshmallow10.jpg)
+@img[width=525, height=350, shadow](assets/img/family2.jpg)
 
 ---?include=includes/Alukkaramai.md
 
@@ -3210,7 +3210,11 @@
 
 ---?include=includes/Alukkaramai.md
 
-### பொறாமையை நீக்கி நிமிடம் உள்ளதை வைத்து நிம்மதியாய் வாழலாம்.
+@img[width=525, height=350, shadow](assets/img/envy2.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=525, height=350, shadow](assets/img/peace.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
