@@ -3190,6 +3190,10 @@
 
 ---?include=includes/Alukkaramai.md
 
+@img[width=534, height=350, shadow](assets/img/profit.jpg) 
+
+---?include=includes/Alukkaramai.md
+
 @img[width=534, height=350, shadow](assets/img/hope.jpg) 
 
 ---?include=includes/Alukkaramai.md
