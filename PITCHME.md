@@ -2886,7 +2886,9 @@
 
 @img[width=371, height=350, shadow](assets/img/Jewels.jpg) 
 
+---?include=includes/Alukkaramai.md
 
+@img[width=490, height=350, shadow](assets/img/ignorance1.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
