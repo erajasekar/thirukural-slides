@@ -3104,7 +3104,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-பொறாமை குணத்தை நீக்க என்ன செய்வது?
+### பொறாமை குணத்தை நீக்க என்ன செய்வது?
 
 ---?include=includes/Alukkaramai.md
 
@@ -3113,6 +3113,11 @@
 ---?include=includes/Alukkaramai.md
 
 @img[width=500, height=350, shadow](assets/img/brain.jpg) 
+
+
+---?include=includes/Alukkaramai.md
+
+@img[width=600, height=350, shadow](assets/img/line-size.png) 
 
 ---?include=includes/Alukkaramai.md
 
