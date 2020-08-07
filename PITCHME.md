@@ -2876,11 +2876,11 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=233, height=350, shadow](assets/img/BeautifulWomen.jpg) 
+@img[width=233, height=350, shadow](assets/img/BeautifulWoman.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=371, height=350, shadow](assets/img/ManSuccess.jpg) 
+@img[width=371, height=350, shadow](assets/img/Jewels.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
