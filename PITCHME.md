@@ -3121,6 +3121,23 @@
 
 ---?include=includes/Alukkaramai.md
 
+@img[width=400, height=275, shadow](assets/img/equality.jpg)
+
+
+---?include=includes/Alukkaramai.md
+
+@img[width=466, height=350, shadow](assets/img/inspire.jpg)
+
+---?include=includes/Alukkaramai.md
+
+@img[width=466, height=350, shadow](assets/img/congrats.jpg)
+
+---?include=includes/Alukkaramai.md
+
+@img[width=404, height=350, shadow](assets/img/easy-success.jpg)
+
+---?include=includes/Alukkaramai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 பொறாமை குணத்தை நீக்க என்ன செய்வது?
