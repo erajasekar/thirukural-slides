@@ -2864,7 +2864,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=490, height=350, shadow](assets/img/mahabharat-war.jpg) 
+@img[width=560, height=400, shadow](assets/img/mahabharat-war.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
