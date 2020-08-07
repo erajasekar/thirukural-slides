@@ -3142,7 +3142,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=525, height=350, shadow](assets/img/money.jpg)
+@img[width=525, height=350, shadow](assets/img/dollars.jpg)
 
 ---?include=includes/Alukkaramai.md
 
