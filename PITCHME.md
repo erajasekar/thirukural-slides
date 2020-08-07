@@ -2888,7 +2888,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=490, height=350, shadow](assets/img/ignorance1.jpeg) 
+@img[width=490, height=350, shadow](assets/img/ignorance2.png) 
 
 ---?include=includes/Alukkaramai.md
 
