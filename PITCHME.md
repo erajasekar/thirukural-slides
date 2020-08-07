@@ -2896,11 +2896,19 @@
 
 ---?include=includes/Alukkaramai.md
 
-1 . நம்மை அடுத்தவருடம் ஒப்பிட்டு பார்ப்பது. 
+@img[width=510, height=350, shadow](assets/img/think.jpg) 
 
-2 . பிறரின் வெற்றி அவர்களின் அதிஷ்டத்தால் கிடைத்தாக நினைப்பது. 
+---?include=includes/Alukkaramai.md
 
-3 . பிறரின் வெற்றி கண்டு எரிச்சல். 
+@img[width=525, height=350, shadow](assets/img/compare.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=525, height=350, shadow](assets/img/dice.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=622, height=350, shadow](assets/img/dice.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
