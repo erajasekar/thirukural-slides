@@ -3206,7 +3206,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=490, height=350, shadow](assets/img/friendship.jpg) 
+@img[shadow](https://image.freepik.com/free-photo/diverse-excited-best-friends-giving-high-five-together-cafe-meeting_1163-5146.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
