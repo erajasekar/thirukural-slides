@@ -2860,7 +2860,11 @@
 
 ---?include=includes/Alukkaramai.md
 
-துரியோதனன் 
+@img[width=525, height=350, shadow](assets/img/dhuriyodhanan.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=490, height=350, shadow](assets/img/mahabharat-war.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
