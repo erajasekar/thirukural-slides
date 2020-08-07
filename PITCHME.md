@@ -2888,7 +2888,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=490, height=350, shadow](assets/img/ignorance2.png) 
+@img[width=490, height=350, shadow](https://image.freepik.com/free-photo/serious-asian-man-covering-eyes-with-hand_1262-18297.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
