@@ -2908,7 +2908,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=622, height=350, shadow](assets/img/dice.jpg) 
+@img[width=622, height=350, shadow](assets/img/winner.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
@@ -2917,6 +2917,10 @@
 ---?include=includes/Alukkaramai.md
 
 ### அதை தெரிந்து கொள்ள இந்த காணொளியை இறுதி வரை பாருங்க. 
+
+---?include=includes/Alukkaramai.md
+
+### பொறாமை இல்லாமல் வாழ்வது மிகவும் முக்கியம்.
 
 ---?include=includes/Alukkaramai.md
 
