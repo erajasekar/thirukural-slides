@@ -3104,6 +3104,18 @@
 
 ---?include=includes/Alukkaramai.md
 
+பொறாமை குணத்தை நீக்க என்ன செய்வது?
+
+---?include=includes/Alukkaramai.md
+
+@img[width=466, height=350, shadow](assets/img/compare-people.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=500, height=350, shadow](assets/img/brain.jpg) 
+
+---?include=includes/Alukkaramai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 பொறாமை குணத்தை நீக்க என்ன செய்வது?
