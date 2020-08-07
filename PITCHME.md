@@ -3188,21 +3188,25 @@
 
 @img[width=534, height=350, shadow](assets/img/shopping2.jpg) 
 
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-பொறாமை குணத்தை நீக்க என்ன செய்வது?
+---?include=includes/Alukkaramai.md
 
-நம் வாழ்வை அடுத்தவர் வாழ்வோடு ஒப்பிட்டுபார்ப்பதை தவிர்க்கலாம். 
+@img[width=534, height=350, shadow](assets/img/hope.jpg) 
 
-நமக்கு யார்மீது பொறாமை வருகிறதோ அவர்களை பாராட்டப் பழகலாம். 
+---?include=includes/Alukkaramai.md
 
-அடுத்தவர் மீது பொறாமை பட்டு குறை சொல்லி நேரம் செலவு செய்வதை  விட்டு நமது வாழ்வின் முன்னேற்றத்திற்கு உழைக்கலாம். 
+@img[width=466, height=350, shadow](assets/img/envy1.jpg) 
 
-வாழ்வில் உயர்த்தவரை பார்த்து பொறாமை படாமல் அவர்களை அங்கீகரிக்கலாம். 
+---?include=includes/Alukkaramai.md
 
-</div>
+@img[width=466, height=350, shadow](assets/img/envy-no.jpg) 
 
-@snapend
+---?include=includes/Alukkaramai.md
+
+@img[width=466, height=490, shadow](assets/img/friendship.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+### பொறாமையை நீக்கி நிமிடம் உள்ளதை வைத்து நிம்மதியாய் வாழலாம்.
 
 ---?include=includes/Alukkaramai.md
 
