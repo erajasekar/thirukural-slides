@@ -2868,6 +2868,10 @@
 
 ---?include=includes/Alukkaramai.md
 
+### இந்த அதிகாரம் யாருக்கெல்லாம் பயன்படும் ?
+
+---?include=includes/Alukkaramai.md
+
 @img[width=590, height=350, shadow](assets/img/ManSuccess.jpg) 
 
 ---?include=includes/Alukkaramai.md
@@ -2882,9 +2886,7 @@
 
 @img[width=371, height=350, shadow](assets/img/Jewels.jpg) 
 
----?include=includes/Alukkaramai.md
 
-### இந்த அதிகாரம் யாருக்கெல்லாம் பயன்படும் ?
 
 ---?include=includes/Alukkaramai.md
 
