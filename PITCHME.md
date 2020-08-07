@@ -3138,6 +3138,18 @@
 
 ---?include=includes/Alukkaramai.md
 
+@img[width=535, height=350, shadow](assets/img/hard-work.jpg)
+
+---?include=includes/Alukkaramai.md
+
+@img[width=525, height=350, shadow](assets/img/hard-work.jpg)
+
+---?include=includes/Alukkaramai.md
+
+@img[width=525, height=350, shadow](assets/img/family.jpg)
+
+---?include=includes/Alukkaramai.md
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 பொறாமை குணத்தை நீக்க என்ன செய்வது?
