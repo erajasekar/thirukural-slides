@@ -3166,6 +3166,28 @@
 
 ---?include=includes/Alukkaramai.md
 
+@img[width=622, height=350, shadow](assets/img/winner.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=380, height=350, shadow](assets/img/scarcity-abudance-mentality.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=534, height=350, shadow](assets/img/fruit1.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=534, height=350, shadow](assets/img/fruit2.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=534, height=350, shadow](assets/img/shopping1.jpg) 
+
+---?include=includes/Alukkaramai.md
+
+@img[width=534, height=350, shadow](assets/img/shopping2.jpg) 
+
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 பொறாமை குணத்தை நீக்க என்ன செய்வது?
