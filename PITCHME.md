@@ -3117,7 +3117,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=600, height=350, shadow](assets/img/line-size.png) 
+@img[width=600, height=350, shadow](assets/img/line-size1.png) 
 
 ---?include=includes/Alukkaramai.md
 
