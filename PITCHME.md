@@ -3202,7 +3202,7 @@
 
 ---?include=includes/Alukkaramai.md
 
-@img[width=466, height=490, shadow](assets/img/friendship.jpg) 
+@img[width=490, height=350, shadow](assets/img/friendship.jpg) 
 
 ---?include=includes/Alukkaramai.md
 
