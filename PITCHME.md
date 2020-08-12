@@ -3224,6 +3224,12 @@
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
+---?include=includes/Purankooramai.md
+
+### Intro1
+---?include=includes/Purankooramai.md
+### Intro2
+
 ###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
 
