@@ -8,7 +8,7 @@
 
 ---?include=includes/Purankooramai.md
 
-யுவல் ஹராரி
+@img[width=276, height=350 shadow](assets/img/yuval.png)
 
 ---?include=includes/Purankooramai.md
 
@@ -222,7 +222,7 @@
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
 ---?include=includes/Purankooramai.md
 
