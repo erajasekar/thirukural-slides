@@ -23,7 +23,7 @@ theme-headline   : [ "Righteous", "#E27924", "none" ]
 theme-byline     : [ "Concert One", black, "none" ]
 theme-text       : [ "Righteous", "#1C1C1C", "none" ]
 theme-links      : [ "#E27924", "#FF851B" ]
-theme-code       : [ "Righteous ]
+theme-code       : [ "Righteous" ]
 theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "15px" ]
 
