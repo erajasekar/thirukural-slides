@@ -17,8 +17,6 @@ theme            : template
 
 custom-fonts : [ "assets/fonts/MuktaMalar-Medium.ttf" ]
 
-Mukta Malar
-
 theme-background : [ "white" ]
 #theme-headline   : [ "Righteous", "#E27924", "none" ]
 theme-headline   : [ "Mukta Malar", "#E27924", "none" ]
