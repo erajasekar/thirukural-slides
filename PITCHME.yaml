@@ -15,7 +15,7 @@ theme            : template
 #theme-controls   : [ "#C0C0C0" ]
 #theme-code       : [ "Victor Mono Italic" ]
 
-#custom-fonts : [ "assets/fonts/MuktaMalar-Medium.ttf" ]
+custom-fonts : [ "assets/fonts/MuktaMalar-Medium.ttf" ]
 
 theme-background : [ "green" ]
 #theme-headline   : [ "Righteous", "#E27924", "none" ]
