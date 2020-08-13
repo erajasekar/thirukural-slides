@@ -41,6 +41,16 @@ highlight : tomorrow
 #
 theme-override: assets/css/PITCHME.css
 
+theme-background : [ "green" ]
+#theme-headline   : [ "Righteous", "#E27924", "none" ]
+theme-headline   : [ "Mukta Malar", "#E27924", "none" ]
+theme-byline     : [ "Concert One", black, "none" ]
+theme-text       : [ "Mukta Malar", "#1C1C1C", "none" ]
+theme-links      : [ "#E27924", "#FF851B" ]
+theme-code       : [ "Mukta Malar" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
