@@ -299,7 +299,7 @@
 
 ---?include=includes/Purankooramai.md
 
-### புறம் பேசினால் நண்பர்கள் கிடைப்பார்கள் என்று பேசவது தவறா?
+புறம் பேசவில்லை என்றால் யாரு நல்லவங்க, யாரு கெட்டவங்கனு எப்படி தெரிந்து கொள்வது?
 
 ---?include=includes/Purankooramai.md
 
@@ -309,9 +309,30 @@
 
 புறம் பேசவில்லை என்றால் யார் நல்லவர்கள், யார் கெட்டவர்கள் என்று எப்படி தெரிந்து கொள்வது ?
 
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/business-executive-making-fun-colleague_1170-1903.jpg) 
+
 ---?include=includes/Purankooramai.md
 
-### மற்றவர்கள் நம்மிடம் புறம்பேசுவதை எப்படி தவிர்ப்பது ? 
+> புறம் சொல்வதை வைத்தே யாரு நல்லவங்க , யாரு கெட்டவங்கனு முடிவு பண்ணிட முடியாது.
+
+---?include=includes/Purankooramai.md
+
+### மற்றவர்கள் நம்மிடம் புறம் பேசினால் என்ன செய்வது ? 
+
+---
+
+@img[height=600 , shadow](assets/img/no-listen.jpg) 
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/angry-woman-frowning-close-mouth_176420-17559.jpg) 
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/i-don-t-want-hear-it-fair-haired-young-male-with-serious-irrirared-face-expression-annoyed-closing-ears-with-hands-wanting-hear-something-stressed-male-student-plugging-his-ears_176420-13677.jpg)
+
 
 ---?include=includes/Purankooramai.md
 
