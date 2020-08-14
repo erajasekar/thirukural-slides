@@ -6,9 +6,7 @@
 
 ### புறம் பேசுவதற்கு காரணம் என்ன?
 
----?include=includes/Purankooramai.md
-
----?
+---
 
 @img[width=473, height=600 shadow](assets/img/yuval.png)
 
