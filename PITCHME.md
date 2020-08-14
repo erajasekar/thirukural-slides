@@ -261,7 +261,7 @@
 
 ---
 
-@img[height=350 shadow](assets/img/Socrates.jpg) 
+@img[height=350 , shadow](assets/img/Socrates.jpg) 
 
 1. பேசப்போகும் விசயம் நல்லதா?
 2. உண்மையா?
