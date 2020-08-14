@@ -65,7 +65,11 @@
 
 ---?include=includes/Purankooramai.md
 
-மொழிக்குற்றம் - புறங்கூறுதல் - கூடாது 
+### மொழிக்குற்றம் - புறங்கூறுதல் - கூடாது 
+
+---?include=includes/Purankooramai.md
+
+### புறங்கூறாமல் இருப்பது எவ்வளவு நல்லது ?
 
 ---?include=includes/Purankooramai.md
 
@@ -116,6 +120,14 @@
 > காணாதபோது ஒருவரைப் பற்றிப் புறம்பேசிக், காணும்போது பொய்யாக அவனுடன் பேசி வாழ்வதைக் காட்டிலும் இறந்து போவது அறநூல்கள் கூறும் உயர்வைத் தரும்.
 
 @snapend
+
+---?include=includes/Purankooramai.md
+
+@img[height=600 shadow](http://clipart-library.com/img/1472236.jpg)
+
+---?include=includes/Purankooramai.md
+
+@img[height=600 shadow](http://clipart-library.com/img/1472243.png)
 
 ---?include=includes/Purankooramai.md
 
@@ -247,9 +259,9 @@
 
 ### புறம்பேசுவதை நீக்கி நிம்மதியாக வாழ என்ன செய்யலாம்?
 
----?include=includes/Purankooramai.md
+---
 
-சாக்ரடீஸ் 
+@img[height=350 shadow](assets/img/Socrates.jpg) 
 
 1. பேசப்போகும் விசயம் நல்லதா?
 2. உண்மையா?
