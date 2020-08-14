@@ -265,6 +265,8 @@
 
 @img[height=400 , shadow](assets/img/Socrates.jpg) 
 
+சாக்ரடீஸ்
+
 @snapend
 
 @snap[east span-50]
