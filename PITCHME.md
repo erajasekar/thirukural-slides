@@ -297,7 +297,7 @@
 
 @img[height=600 , shadow](assets/img/beach-talk1.jpg) 
 
----?include=includes/Purankooramai.md
+---
 
 ### புறம் பேசினால் நண்பர்கள் கிடைப்பார்கள் என்று பேசவது தவறா?
 
