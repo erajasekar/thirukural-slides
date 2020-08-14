@@ -307,7 +307,7 @@
 
 ---?include=includes/Purankooramai.md
 
-> புறம் சொல்வதை வைத்தே யாரு நல்லவங்க , யாரு கெட்டவங்கனு முடிவு பண்ணிட முடியாது.
+> யாரு நல்லவங்க , யாரு கெட்டவங்கனு புறம் சொல்வதை வைத்தே முடிவு பண்ணிட முடியாது 
 
 ---?include=includes/Purankooramai.md
 
@@ -315,15 +315,12 @@
 
 ---
 
-@img[height=600 , shadow](assets/img/no-listen.jpg) 
+@img[height=600 , shadow](https://image.freepik.com/free-photo/i-don-t-want-hear-it-fair-haired-young-male-with-serious-irrirared-face-expression-annoyed-closing-ears-with-hands-wanting-hear-something-stressed-male-student-plugging-his-ears_176420-13677.jpg)
+
 
 ---
 
 @img[height=600 , shadow](https://image.freepik.com/free-photo/angry-woman-frowning-close-mouth_176420-17559.jpg) 
-
----
-
-@img[height=600 , shadow](https://image.freepik.com/free-photo/i-don-t-want-hear-it-fair-haired-young-male-with-serious-irrirared-face-expression-annoyed-closing-ears-with-hands-wanting-hear-something-stressed-male-student-plugging-his-ears_176420-13677.jpg)
 
 
 ---?include=includes/Purankooramai.md
@@ -332,7 +329,6 @@
 
 உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
----?include=includes/Purankooramai.md
+---
 
-@img[height=350, shadow](https://image.freepik.com/free-photo/diverse-excited-best-friends-giving-high-five-together-cafe-meeting_1163-5146.jpg) 
 
