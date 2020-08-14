@@ -21,9 +21,9 @@ theme-background : [ "white" ]
 #theme-headline   : [ "Righteous", "#E27924", "none" ]
 theme-headline   : [ "Mukta Malar", "#E27924", "none" ]
 theme-byline     : [ "Concert One", black, "none" ]
-theme-text       : [ "Righteous", "#1C1C1C", "none" ]
+theme-text       : [ "Mukta Malar", "#1C1C1C", "none" ]
 theme-links      : [ "#E27924", "#FF851B" ]
-theme-code       : [ "Righteous" ]
+theme-code       : [ "Mukta Malar" ]
 theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "15px" ]
 
@@ -75,3 +75,16 @@ title : "GitPitch In 60 Seconds"
 description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "white" ]
+theme-headline   : [ "MuktaMalar-Medium", "#E27924", "none", "#E27924", "100", "120", "15" ]
+theme-byline     : [ "MuktaMalar-Medium", "black", "none", "black", "100", "110", "15" ]
+theme-text       : [ "MuktaMalar-Medium", "#1C1C1C", "none", "#1C1C1C", "100", "100", "15" ]
+theme-links      : [ "#E27924", "#FF851B" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : tomorrow
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

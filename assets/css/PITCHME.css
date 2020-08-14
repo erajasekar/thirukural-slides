@@ -16,7 +16,7 @@
 
 .reveal h3 {
     color: red;
-    font-family: "Mukta Malar", , sans-serif;
+    font-family: "Mukta Malar";
     text-transform: none;
     margin: 0 0 35px 0;
     line-height: 120%;
@@ -27,7 +27,7 @@
 
 #title {
     color: #2C9096;
-    font-family: "Mukta Malar", sans-serif;
+    font-family: "Mukta Malar";
 }
 
 .line {
