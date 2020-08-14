@@ -8,43 +8,43 @@
 
 ---
 
-@img[width=473, height=600 shadow](assets/img/yuval.png)
+@img[width=473 , height=600 , shadow](assets/img/yuval.png)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter1.jpg)
+@img[height=600 , shadow](assets/img/hunter1.jpg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-kill2.jpeg)
+@img[height=600 , shadow](assets/img/hunter-kill2.jpeg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-work1.jpg)
+@img[height=600 , shadow](assets/img/hunter-work1.jpg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-fireplace.jpeg)
+@img[height=600 , shadow](assets/img/hunter-fireplace.jpeg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-lion.jpg)
+@img[height=600 , shadow](assets/img/hunter-lion.jpg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-trust.jpg)
+@img[height=600 , shadow](assets/img/hunter-trust.jpg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-fireplace.jpeg)
+@img[height=600 , shadow](assets/img/hunter-fireplace.jpeg)
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-talk1.jpg)
+@img[height=600 , shadow](assets/img/hunter-talk1.jpg)
 
 ---
 
-@img[width=473, height=600 shadow](assets/img/yuval.png)
+@img[width=473 , height=600 , shadow](assets/img/yuval.png)
 
 ---?include=includes/Purankooramai.md
 
@@ -123,11 +123,11 @@
 
 ---?include=includes/Purankooramai.md
 
-@img[height=400 shadow](assets/img/politician1.jpg)
+@img[height=380, shadow](assets/img/politician1.jpg)
 
 ---?include=includes/Purankooramai.md
 
-@img[width=380 height=400 shadow](assets/img/politician2.png)
+@img[width=380 , height=400 shadow](assets/img/politician2.png)
 
 ---?include=includes/Purankooramai.md
 
