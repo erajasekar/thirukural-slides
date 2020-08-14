@@ -261,11 +261,19 @@
 
 ---
 
-@img[height=350 , shadow](assets/img/Socrates.jpg) 
+@snap[west span-50]
+
+@img[height=400 , shadow](assets/img/Socrates.jpg) 
+
+@snapend
+
+@snap[east span-50]
 
 1. பேசப்போகும் விசயம் நல்லதா?
 2. உண்மையா?
 3. இதை பேசுவதனால்  நமக்கோ பிறருக்கோ பயன் உள்ளதா?
+
+@snapend
 
 ---?include=includes/Purankooramai.md
 
