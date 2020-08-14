@@ -261,11 +261,15 @@
 
 ---
 
+@snap[north span-100]
+சாக்ரடீஸ்
+@snap[west span-50]
+
 @snap[west span-50]
 
 @img[height=400 , shadow](assets/img/Socrates.jpg) 
 
-சாக்ரடீஸ்
+
 
 @snapend
 
