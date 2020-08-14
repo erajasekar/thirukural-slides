@@ -20,7 +20,7 @@
 
 ---
 
-@img[height=600 shadow](assets/img/hunter-work.jpg)
+@img[height=600 shadow](assets/img/hunter-work1.jpg)
 
 ---
 
