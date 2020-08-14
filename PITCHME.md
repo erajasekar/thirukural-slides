@@ -277,6 +277,18 @@
 
 ---?include=includes/Purankooramai.md
 
+### பேச்சு கொஞ்சம் சுவாரசியமாக இருக்க, புறம் பேசறது தப்பா ?
+
+---?include=includes/Purankooramai.md
+
+<div class="conclusion">
+புறம் பேசறவர்கள் கிட்ட யாருக்கும் நம்பிக்கை வராது 
+
+நம்பிக்கை இல்லாத இடத்தில் உண்மையான நட்பும் இருக்காது 
+</div>
+
+---?include=includes/Purankooramai.md
+
 ### புறம் பேசினால் நண்பர்கள் கிடைப்பார்கள் என்று பேசவது தவறா?
 
 ---?include=includes/Purankooramai.md
