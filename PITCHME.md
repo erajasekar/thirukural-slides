@@ -123,11 +123,11 @@
 
 ---?include=includes/Purankooramai.md
 
-@img[height=400 shadow](http://clipart-library.com/img/1472236.jpg)
+@img[height=400 shadow](assets/img/politician1.jpg)
 
 ---?include=includes/Purankooramai.md
 
-@img[height=400 shadow](http://clipart-library.com/img/1472243.png)
+@img[height=400 shadow](assets/img/politician2.png)
 
 ---?include=includes/Purankooramai.md
 
