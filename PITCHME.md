@@ -127,7 +127,7 @@
 
 ---?include=includes/Purankooramai.md
 
-@img[height=400 shadow](assets/img/politician2.png)
+@img[width=380 height=400 shadow](assets/img/politician2.png)
 
 ---?include=includes/Purankooramai.md
 
