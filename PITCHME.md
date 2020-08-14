@@ -322,6 +322,9 @@
 
 @img[height=600 , shadow](https://image.freepik.com/free-photo/angry-woman-frowning-close-mouth_176420-17559.jpg) 
 
+---?include=includes/Purankooramai.md
+
+### புறம் கூறுதலை தவிர்க்க வேண்டும்.
 
 ---?include=includes/Purankooramai.md
 
