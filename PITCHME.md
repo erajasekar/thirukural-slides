@@ -301,14 +301,6 @@
 
 புறம் பேசவில்லை என்றால் யாரு நல்லவங்க, யாரு கெட்டவங்கனு எப்படி தெரிந்து கொள்வது?
 
----?include=includes/Purankooramai.md
-
-(கதை)
-
----?include=includes/Purankooramai.md
-
-புறம் பேசவில்லை என்றால் யார் நல்லவர்கள், யார் கெட்டவர்கள் என்று எப்படி தெரிந்து கொள்வது ?
-
 ---
 
 @img[height=600 , shadow](https://image.freepik.com/free-photo/business-executive-making-fun-colleague_1170-1903.jpg) 
@@ -319,7 +311,7 @@
 
 ---?include=includes/Purankooramai.md
 
-### மற்றவர்கள் நம்மிடம் புறம் பேசினால் என்ன செய்வது ? 
+### மற்றவர்கள் என்னிடம் புறம் பேசினால் என்ன செய்வது ? 
 
 ---
 
