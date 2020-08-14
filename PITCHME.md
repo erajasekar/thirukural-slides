@@ -10,6 +10,42 @@
 
 @img[width=473, height=600 shadow](assets/img/yuval.png)
 
+---
+
+@img[height=600 shadow](assets/img/hunter1.jpg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-kill2.jpeg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-work.jpg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-fireplace.jpeg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-lion.jpg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-trust.jpg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-fireplace.jpeg)
+
+---
+
+@img[height=600 shadow](assets/img/hunter-talk1.jpg)
+
+---
+
+@img[width=473, height=600 shadow](assets/img/yuval.png)
+
 ---?include=includes/Purankooramai.md
 
 ### புறங்கூறாமல் இருப்பது எவ்வளவு நல்லது ?
