@@ -48,7 +48,24 @@
 
 ---?include=includes/Purankooramai.md
 
-### புறங்கூறாமல் இருப்பது எவ்வளவு நல்லது ?
+### புறங்கூறுதல் தீமை தரும்
+
+
+---?include=includes/Purankooramai.md
+
+### புறங்கூறுதல் தீமை தரும்
+
+---?include=includes/Purankooramai.md
+
+புறம் கூறுதலை தவிர்த்திட்டு எப்படி நிம்மதியாய் வாழம்னு தெரிந்து கொள்ள இந்த காணொளியை முழுமையாய் பாருங்கள்.
+
+---?include=includes/Purankooramai.md
+
+### மனம் குற்றத்தை நீக்க - அழுக்காறாமை 
+
+---?include=includes/Purankooramai.md
+
+மொழிக்குற்றம் - புறங்கூறுதல் - கூடாது 
 
 ---?include=includes/Purankooramai.md
 
