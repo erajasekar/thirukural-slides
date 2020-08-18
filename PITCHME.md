@@ -1,18 +1,5 @@
 ---?include=includes/Purankooramai.md
 
-fdafaf
-
-```
-# calculate the semi-perimeter
-s = (a + b + c) / 2
-
-# calculate the area
-area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
-print('The area of the triangle is %0.2f' %area)
-```
-
----?include=includes/Purankooramai.md
-
 ### புறங்கூறாமை : ஒருவர் இல்லாத இடத்தில் அவரை பற்றி மற்றவர்களிடம் இழிவாக பேசக்கூடாது.
 
 ---?include=includes/Purankooramai.md
