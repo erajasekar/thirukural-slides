@@ -1,16 +1,26 @@
 ---?include=includes/PayanilaSollamai.md
 
- பயனில சொல்லாமை : யாருக்கும் பயன் இல்லாத வீண் பேச்சி பேசக்கூடாது 
+### பயனில சொல்லாமை : யாருக்கும் பயன் இல்லாத வீண் பேச்சி பேசக்கூடாது 
 
- ஏன் இந்த அதிகாரத்தை தெரிந்து கொள்ள வேண்டும் ?
+---?include=includes/PayanilaSollamai.md
 
- பயனில்லாத விஷயங்களில் ஈடுபடுவது நம்மை பயனில்லாதவர்களாக மாற்றிவிடும். 
+### ஏன் இந்த அதிகாரத்தை தெரிந்து கொள்ள வேண்டும் ?
+
+---?include=includes/PayanilaSollamai.md
+
+பயனில்லாத விஷயங்களில் ஈடுபடுவது நம்மை பயனில்லாதவர்களாக மாற்றிவிடும். 
+
+---?include=includes/PayanilaSollamai.md
 
 பயனில்லாத விஷயங்களில் ஈடுபடுவதால் என்ன பாதிப்பு வரும்?
 
-பயனில்லாத விஷயங்களை எப்படி தவிர்ப்பது?
+---?include=includes/PayanilaSollamai.md
 
-அதை தெரிந்து கொள்ள இந்த தா காணொளியை முழுமையா பாருங்க
+### பயனில்லாத விஷயங்களை எப்படி தவிர்ப்பது?
+
+---?include=includes/PayanilaSollamai.md
+
+### அதை தெரிந்து கொள்ள இந்த காணொளியை முழுமையா பாருங்க
 
 ---?include=includes/PayanilaSollamai.md
 
@@ -192,14 +202,20 @@
 
 @snapend
 
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-பயனில்லாமல் பேசுவதற்கு காரணம் என்ன?
+---?include=includes/PayanilaSollamai.md
 
-  மனிதரில் இரு வகை :
+
+### பயனில்லாமல் பேசுவதற்கு காரணம் என்ன?
+
+---?include=includes/PayanilaSollamai.md
+
+
+மனிதரில் இரு வகை :
 
 1. Inrovert
 2. Extrovert
+
+---?include=includes/PayanilaSollamai.md
 
 introvert :
 
@@ -209,32 +225,41 @@ introvert :
 
 தனிமையில் இருப்பது அவர்களுக்கு பிடிக்கும். 
 
+---?include=includes/PayanilaSollamai.md
+
 Extrovert:
 
 பேசும் பொழுது வார்த்தைகளை நம் கட்டுப்பாட்டிற்குள் வைத்துக்கொள்ள என்ன செய்வது ?
+
+---?include=includes/PayanilaSollamai.md
 
 சாணக்கியர் :
 
 பேசு , பேசும்பொழுது எப்படி பேசவேண்டும், எப்பொழுது பேசவேண்டும் , எப்படி பேசவேண்டும் , எவ்வளவு பேசவேண்டும், யாருடன் பேசிக்கொண்டு இருக்கின்றோம் என்பதை எல்லாம் தெரிந்து யோசித்து பேசு. 
 
+---?include=includes/PayanilaSollamai.md
+
 அடுத்தவர்களின் கவனத்தை ஈர்ப்பதற்காக பயனில்லாதவற்றை பேசக்கூடாது. 
 
+---?include=includes/PayanilaSollamai.md
 கேட்பவர்களுக்கு பயன் இருக்கின்றதா என்று தெரிந்து பேசவேண்டும். 
 
+---?include=includes/PayanilaSollamai.md
 நேரடியாக விஷயத்தை பேசவேண்டும். 
+
+---?include=includes/PayanilaSollamai.md
 
 மற்றவர்கள் பேசுவதற்கும் வழி விடவேண்டும். 
 
+---?include=includes/PayanilaSollamai.md
 உணர்ச்சிவசப்படக்கூடிய சூழ்நிலையில் மிகவும் கவனமாக பேசவேண்டும். 
 
-பயனில்லாத விஷயங்களை எப்படி தவிர்ப்பது?
+---?include=includes/PayanilaSollamai.md
+### பயனில்லாத விஷயங்களை எப்படி தவிர்ப்பது?
 
-</div>
-
-@snapend
 
 ---?include=includes/PayanilaSollamai.md
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.

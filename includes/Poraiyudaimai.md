@@ -7,7 +7,7 @@
 
 <h4 id="title"> திருக்குறள் </h4>
 
-##### பயனில சொல்லாமை
+##### பொறையுடைமை
 @snapend
 
 @snap[north-east span-25 text-08]
