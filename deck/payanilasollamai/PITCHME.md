@@ -94,6 +94,14 @@
 
 @snapend
 
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/medium-shot-father-son-talking_23-2148404229.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/trendy-bearded-young-man-tired-listening-somebody-s-stories-reproac-s-holding-his-head-rolling-his-eyes-as-he-doesn-t-want-continue-listening-useless-talks_176420-10260.jpg)
+
 ---?include=includes/PayanilaSollamai.md
 
 ### இனிமையாக பேசுகின்ற குணம் இயல்பாக இருக்கும்பொழுது, பயனளிக்குமா என்று யோசித்து பேச வேண்டுமா?
