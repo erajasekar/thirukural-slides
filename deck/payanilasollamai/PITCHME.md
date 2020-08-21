@@ -6,13 +6,61 @@
 
 ### ஏன் இந்த அதிகாரத்தை தெரிந்து கொள்ள வேண்டும் ?
 
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/empty-plastic-water-bottles-plastic-bag-sand_23-2148214469.jpg)
+
 ---?include=includes/PayanilaSollamai.md
 
-பயனில்லாத விஷயங்களில் ஈடுபடுவது நம்மை பயனில்லாதவர்களாக மாற்றிவிடும். 
+### பயனில்லாத விஷயங்களில் ஈடுபடுவதால் என்ன பாதிப்பு வரும்?
 
----?include=includes/PayanilaSollamai.md
+---
 
-பயனில்லாத விஷயங்களில் ஈடுபடுவதால் என்ன பாதிப்பு வரும்?
+@img[height=600 , shadow](https://image.freepik.com/free-photo/smartphone-surrounded-with-social-media-applications-blocks_23-2147841408.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/trash-sand-beach-showing-environmental-pollution-problem_1150-6523.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/blogger-asian-backpacker-woman-record-vlog-video-top-mountain-young-female-happy-using-mobile-phone-make-vlog-video-enjoy-holidays-hiking-adventure_7861-1574.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/phone-with-apps-laptop-with-facebook_23-2147651275.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/confused-young-man-staring-mobile-phone-screen_176420-18815.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/woman-screaming-megaphone-speech-bubble_23-2148405145.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/blonde-influencer-recording-make-up-video_23-2148135466.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/mobile-notification-icons-man-woman-using-cell-phone_23-2147844554.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/rear-view-business-man-looking-clock-hands-his-hea_176420-2922.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking_8353-6408.jpg)
+
+---
+
+@img[height=600 , shadow](assets/img/rain-drop.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/bored-students-wasting-time_23-2147659213.jpg)
 
 ---?include=includes/PayanilaSollamai.md
 
@@ -21,6 +69,14 @@
 ---?include=includes/PayanilaSollamai.md
 
 ### அதை தெரிந்து கொள்ள இந்த காணொளியை முழுமையா பாருங்க
+
+---?include=includes/PayanilaSollamai.md
+
+### மொழிக்குற்றம் - புறங்கூறுதல் - கூடாது 
+
+---?include=includes/PayanilaSollamai.md
+
+### பயனில்லாமல் பேசுதல் குற்றம் 
 
 ---?include=includes/PayanilaSollamai.md
 
@@ -36,7 +92,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> பலரும் கேட்டு வெறுக்கப் பயனற்ற சொற்களைச் சொல்லுவான் எல்லாராலும் இகழப்படுவான்.
+> பலரும் கேட்டு வெறுக்கப் பயனற்ற சொற்களைச் சொல்பவன் எல்லாராலும் இகழப்படுவான்.
 
 @snapend
 
@@ -90,7 +146,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> பயன் இஃல்லாத பண்பில்லாத சொற்களைப் பேசுபவன் பலருடைய அன்பையும் இழப்பான், நன்மைகளையும் இழப்பான்.
+> பயன் இல்லாத பண்பில்லாத சொற்களைப் பேசுபவன் பலருடைய அன்பையும் இழப்பான், நன்மைகளையும் இழப்பான்.
 
 @snapend
 
@@ -122,7 +178,7 @@
 
 ---?include=includes/PayanilaSollamai.md
 
-### பயனில்லாம பேசுறவங்களால இந்த உலகத்துக்கு பயன் இருக்குமா ?
+### பயனில்லாமல் பேசுபவர்களால் இந்த உலகத்துக்கு பயன் இருக்குமா ?
 
 ---?include=includes/PayanilaSollamai.md
 
@@ -152,7 +208,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> சொல்வதை இனிமையாகச் சொல்லாவிட்டாலும் பரவாயில்லை. ஆனால்,பயன் இல்லாதவற்றைச் சொல்லாமல் இருப்பாதே சான்றோர்க்கு அழகு.
+> சொல்வதை இனிமையாகச் சொல்லாவிட்டாலும் பரவாயில்லை. ஆனால்,பயன் இல்லாதவற்றைச் சொல்லாமல் இருப்பதே சான்றோர்க்கு அழகு.
 
 @snapend
 
@@ -170,7 +226,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> அறிய  பயன்களை ஆராயும் அறிவுடையோர், பெரும்பயன் இல்லாத சொற்களை சொல்லார்.
+> அரிய  பயன்களை ஆராயும் அறிவுடையோர், பெரும்பயன் இல்லாத சொற்களை சொல்லார்.
 
 @snapend
 
@@ -215,56 +271,154 @@
 
 ### பயனில்லாமல் பேசுவதற்கு காரணம் என்ன?
 
+---
+
+@img[height=600 , shadow](https://mindfulsurvivor.co.uk/wp-content/uploads/2020/01/78C9B0AF-CABD-4E00-B27C-9E37ED6BD245.jpeg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/pensive-male-customer-looking-away_74855-3601.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/multiethnic-business-partners-discussing-contract-terms_1262-21185.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/lonely-woman-sitting-waterfront-raft_1150-7466.jpg)
+
+---
+@img[height=600 , shadow](https://image.freepik.com/free-photo/happy-man-sitting-sofa-talking-his-friend-holding-mobile-hand_23-2148160191.jpg)
+
+---
+@img[height=600 , shadow](https://image.freepik.com/free-photo/businesswomen-restaurant_1157-9031.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/business-woman-giving-lecture_1262-804.jpg)
+
+---
+
+@img[height=600 , shadow](assets/img/introvert-power.png)
+
+---
+
+@snap[north span-80 text-06 text-orange]
+தேவையில்லாத இடத்தில் தேவையில்லாம பேசினால் மதிப்பு குறைந்து விடும்.
+@snapend
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/woman-screaming-megaphone_58466-11302.jpg)
+
+---
+
+@snap[north span-80]
+அதிகமா பேசறதை வைத்தே, ஒருவரோட அறிவையும் குணத்தையும் எடை போட முடியாது 
+@snapend
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/women-men-standing-balance-seesaw_23-2148419665.jpg)
+
+---
+
+@img[height=600 , shadow](https://miro.medium.com/max/696/1*Nwg8E28bJllryZ0kuCt5ig.jpeg)
+
+---
+
+@snap[north span-80 text-06 text-blue]
+தேவையான இடத்தில் தேவையானதை பேச வேண்டும் 
+@snapend
+
+@img[height=600 , shadow](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2019/06/26122345/what-is-ambivert-1024x512.png)
+
+
 ---?include=includes/PayanilaSollamai.md
 
+### பேசும் பொழுது வார்த்தைகளை நம் கட்டுப்பாட்டிற்குள் வைத்துக்கொள்ள என்ன செய்வது ?
 
-மனிதரில் இரு வகை :
+---
 
-1. Inrovert
-2. Extrovert
+@snap[north span-100]
 
----?include=includes/PayanilaSollamai.md
+<h4 id="title">
+சாணக்கியர்
+</h4>
 
-introvert :
+@snapend
 
-குறைவாக பேசுவார்கள், அதிகம் சிந்திப்பார்கள். 
+@snap[east span-50]
 
-மற்றவர்கள் பேசுவதை கவனிப்பார்கள். 
+@img[height=400 , shadow](assets/img/chanakya.png) 
 
-தனிமையில் இருப்பது அவர்களுக்கு பிடிக்கும். 
+@snapend
 
----?include=includes/PayanilaSollamai.md
+@snap[west span-50 text-08 text-left]
 
-Extrovert:
+பேசும்பொழுது
 
-பேசும் பொழுது வார்த்தைகளை நம் கட்டுப்பாட்டிற்குள் வைத்துக்கொள்ள என்ன செய்வது ?
+1. எப்படி பேசவேண்டும்
+2. எப்பொழுது பேசவேண்டும் 
+3. எங்க  பேசவேண்டும்
+4. எவ்வளவு பேசவேண்டும்
+5. யாருடன் பேசிக்கொண்டு இருக்கின்றோம் 
 
----?include=includes/PayanilaSollamai.md
 
-சாணக்கியர் :
+என்பதை எல்லாம் தெரிந்து யோசித்து பேசு.
 
-பேசு , பேசும்பொழுது எப்படி பேசவேண்டும், எப்பொழுது பேசவேண்டும் , எப்படி பேசவேண்டும் , எவ்வளவு பேசவேண்டும், யாருடன் பேசிக்கொண்டு இருக்கின்றோம் என்பதை எல்லாம் தெரிந்து யோசித்து பேசு. 
+@snapend
 
----?include=includes/PayanilaSollamai.md
+---
 
-அடுத்தவர்களின் கவனத்தை ஈர்ப்பதற்காக பயனில்லாதவற்றை பேசக்கூடாது. 
-
----?include=includes/PayanilaSollamai.md
+@snap[north span-80]
 கேட்பவர்களுக்கு பயன் இருக்கின்றதா என்று தெரிந்து பேசவேண்டும். 
+@snapend
 
----?include=includes/PayanilaSollamai.md
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/male-psychologist-sitting-front-female-patient-listening-her-problem_23-2148036561.jpg)
+
+---
+
+@snap[midpoint span-80 text-orange]
 நேரடியாக விஷயத்தை பேசவேண்டும். 
+@snapend
 
----?include=includes/PayanilaSollamai.md
+@img[height=600 , shadow](https://image.freepik.com/free-photo/white-jigsaw-puzzle-grid-background_23-2148207261.jpg)
 
+---
+
+@snap[north span-80 text-08 text-blue]
 மற்றவர்கள் பேசுவதற்கும் வழி விடவேண்டும். 
+@snapend
 
----?include=includes/PayanilaSollamai.md
-உணர்ச்சிவசப்படக்கூடிய சூழ்நிலையில் மிகவும் கவனமாக பேசவேண்டும். 
+@img[height=600 , shadow](https://image.freepik.com/free-photo/women-drinking-coffee-talking-couch_23-2147935653.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/man-yelling-his-brother_1368-3178.jpg)
+
+---
+
+@snap[north span-80 text-06 text-blue]
+உணர்ச்சிவசப்படக்கூடிய சூழ்நிலையில் மிகவும் கவனமாக பேசவேண்டும்.  
+@snapend
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/angry-bearded-man-business-clothes-screaming-smartphone_171337-4982.jpg)
 
 ---?include=includes/PayanilaSollamai.md
 ### பயனில்லாத விஷயங்களை எப்படி தவிர்ப்பது?
 
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/man-with-smartphone_23-2147711105.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/happy-woman-with-phone_53876-90179.jpg)
+
+---
+@img[height=600 , shadow](https://image.freepik.com/free-photo/medium-shot-girl-focusing-studying_23-2148389059.jpg)
+
+---?include=includes/PayanilaSollamai.md
+
+### பயனுள்ள விஷயங்களில்  ஈடுபடுவதை பழக்கமாக வைத்துக்கொள்வோம் 
 
 ---?include=includes/PayanilaSollamai.md
 
