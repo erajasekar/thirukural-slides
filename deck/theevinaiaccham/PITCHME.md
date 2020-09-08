@@ -122,7 +122,7 @@
 
 @snapend
 
-- --?include=includes/TheevinaiAchcham.md
+---?include=includes/TheevinaiAchcham.md
 
 ### தீமை செய்யும் எல்லோருக்கும் அதற்கான தண்டனை கிடைக்கின்றதா?
 
@@ -144,7 +144,7 @@
 
 ### அடுத்தவர்களுக்கு தீமை செய்பவர்கள் நன்றாக வாழ்த்திட முடியுமா?
 
-- --?include=includes/TheevinaiAchcham.md
+---?include=includes/TheevinaiAchcham.md
 
 ```
 தீயவை செய்தார் கெடுதல் நிழல்தன்னை
@@ -162,7 +162,7 @@
 
 ### நாம் நன்றாக வாழ என்ன செய்யவேண்டும்?
 
-- --?include=includes/TheevinaiAchcham.md
+---?include=includes/TheevinaiAchcham.md
 
 ```
 தன்னைத்தான் காதல னாயின் எனைத்தொன்றுந்
@@ -193,6 +193,8 @@
 > வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கெடும் ஏற்படாது என்பதை அறிந்து கொள்க.
 
 @snapend
+
+---?include=includes/TheevinaiAchcham.md
 
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
