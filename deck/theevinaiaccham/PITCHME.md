@@ -240,35 +240,131 @@
 
 ---?include=includes/TheevinaiAchcham.md
 
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-பிறர்க்குத் தீமை செய்ய என்ன காரணமாக இருக்கும்?
+### பிறர்க்குத் தீமை செய்ய என்ன காரணமாக இருக்கும்?
 
-1. மனதில் அன்பு இல்லாமல் சுயநலத்துடன் இருப்பது. 
-2. ஆசை 
-3. கோபம் 
-4. இயலாமை 
+---
 
-பிறர்க்குத் தீமை செய்வதற்கு முன்னால் எதை நினைக்கவேண்டும்?
+@img[height=600, shadow](https://image.freepik.com/free-vector/man-holding-broken-heart_53876-37170.jpg)
 
-அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு 
+---
 
+@img[height=600, shadow](https://image.freepik.com/free-photo/man-with-face-mime-dancing-with-money-isolated-white-concept-concept-love-money-happiness-from-money-luck_155003-181.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/young-emotional-angry-man-screaming-space_155003-15146.jpg)
+
+---?include=includes/TheevinaiAchcham.md
+
+### பிறர்க்குத் தீமை செய்வதற்கு முன்னால் எதை நினைக்கவேண்டும்?
+
+
+---
+
+TODO
+
+---?include=includes/TheevinaiAchcham.md
+
+```
+அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு
 என்புதோல் போர்த்த உடம்பு
+```
 
-பாரதியார் 
+---
 
-பாரதிதாசன் 
+@snap[north span-100]
 
-மகரிஷி  
-
-</div>
+<h4 id="title">
+பாரதியார்
+</h4>
 
 @snapend
+
+@snap[west span-50]
+
+@img[height=400 , shadow](assets/img/bharathiyar2.jpg) 
+
+@snapend
+
+@snap[east span-50 text-16 text-left]
+
+```
+
+மனித ருணவை மனிதர் பறிக்கும் 
+வழக்கம் இனியுண்டோ ?
+
+மனிதர் நோக மனிதர் பார்க்கும் 
+வாழ்க்கை இனியுண்டோ ?
+```
+
+@snapend
+
+---
+
+TODO
+
+---
+
+@snap[north span-100]
+
+<h4 id="title">
+பாரதிதாசன்
+</h4>
+
+@snapend
+
+@snap[west span-50]
+
+@img[height=400 , shadow](assets/img/bharathidasan.jpg) 
+
+@snapend
+
+@snap[east span-50 text-06 text-left]
+
+<div class="conclusion">
+
+தூய உள்ளம் அன்புள்ளம் சமத்துவ உள்ளம்
+
+தொல்லுலக மக்களெல்லாம் **ஒன்றே** எனும்
+
+தாயுள்ளம் தனிலன்றோ இன்பம்! 
+
+ஆங்கே சண்டையில்லை 
+
+தன்னலந்தான் தீர்ந்ததாலே!
+
+</div>
+@snapend
+
+---
+todo
+
+---?include=includes/TheevinaiAchcham.md
+
+### அவ்வளவு சாதாரணமா எல்லாரும் மாறிட முடியுமா ?
+
+---
+
+@snap[north span-80 text-08 text-blue]
+@img[height=300 , shadow](assets/img/vethathiri1.jpg)
+@snapend
+
+@snap[south span-80 text-08 text-blue]
+```
+1. நான் எனது வாழ்நாளில் யாருடைய உடலுக்கும் ,
+மனதுக்கும் துன்பம் தர மாட்டேன் 
+
+
+2. துன்பப்படுவோர்க்கு என்னால் முடிந்த 
+உதவிகள் செய்வேன்.
+```
+@snapend
+
 
 ---?include=includes/TheevinaiAchcham.md
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 
 ---
