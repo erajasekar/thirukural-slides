@@ -10,9 +10,53 @@
 
 ### இந்த அதிகாரத்தை படிப்பதால் என்ன நன்மை?
 
+---
+
+@img[height=600 , shadow](https://www.rollingstone.com/wp-content/uploads/2018/07/The-Beatles-in-Pepperland-credit-Subafilms-Ltd.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/indoors-shot-two-terrified-bug-eyed-young-european-females-with-hair-knots_273609-9383.jpg)
+
+---
+@img[width=600, shadow](https://image.freepik.com/free-vector/no-means-no-concept-illustrated_23-2148590057.jpg)
+
+---
+@img[width=600, shadow](assets/img/indian-marriage-clipart.jpg)
+
+---
+
+@img[width=600, shadow](https://image.freepik.com/free-photo/young-family-with-little-son-together-grey_1303-19082.jpg)
+
+---
+
+@img[width=600, shadow](assets/img/banana-leaf1.jpg)
+
+---
+
+@img[width=600, shadow](https://image.freepik.com/free-vector/super-thank-you-concept-illustration_114360-2389.jpg)
+
+---
+
+@img[width=600, shadow](assets/img/Justice1.jpg)
+
 ---?include=includes/TheevinaiAchcham.md
 
-### வாக்கு குற்றங்களில் ஒன்றான பயனில சொல்லாமை  
+### மூன்று விதமான குற்றங்களை நீக்க வேண்டும்.
+
+---?include=includes/TheevinaiAchcham.md
+
+### 1. மனக்குற்றம் 
+### 2. வாக்கு குற்றம் 
+### 3. செயல் குற்றம்
+
+---?include=includes/TheevinaiAchcham.md
+
+### வாக்கு குற்றம் : பயனில சொல்லாமை - கூடாது
+
+---?include=includes/TheevinaiAchcham.md
+
+### செயல் குற்றம் : தீவினை - பயப்பட வேண்டும் 
 
 ---?include=includes/TheevinaiAchcham.md
 
