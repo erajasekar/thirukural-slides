@@ -38,7 +38,7 @@
 
 ---
 
-@img[width=600, shadow](assets/img/Justice1.jpg)
+@img[width=600, shadow](https://image.freepik.com/free-photo/male-lawyer-s-hand-showing-justice-scale-against-gray-textured-background_23-2147898706.jpg)
 
 ---?include=includes/TheevinaiAchcham.md
 
@@ -126,7 +126,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> மறந்தும் பிறர்க்குத் தீமை செய்ய எண்ணக்கூடாது. எண்ணினால் எண்ணியவகனுக்கு கேடு விலையுமாறு அறம் எண்ணும்.
+> மறந்தும் பிறர்க்குத் தீமை செய்ய எண்ணக்கூடாது. எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும்.
 
 @snapend
 
@@ -234,7 +234,7 @@
 
 @snap[span-100 text-08 text-left]
 
-> வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கெடும் ஏற்படாது என்பதை அறிந்து கொள்க.
+> வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கேடும் ஏற்படாது என்பதை அறிந்து கொள்க.
 
 @snapend
 
@@ -261,7 +261,15 @@
 
 ---
 
-TODO
+@img[height=600, shadow](https://image.freepik.com/free-vector/war-background-with-silhouettes-soldiers_23-2147903525.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-vector/self-care-concept_23-2148521977.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-vector/love-world_75487-747.jpg)
 
 ---?include=includes/TheevinaiAchcham.md
 
@@ -301,7 +309,7 @@ TODO
 
 ---
 
-TODO
+@img[height=600 , shadow](https://www.potpourriofwhatever.com/wp-content/uploads/2016/06/4940009_orig.jpg) 
 
 ---
 
@@ -313,13 +321,13 @@ TODO
 
 @snapend
 
-@snap[west span-50]
+@snap[west span-40]
 
 @img[height=400 , shadow](assets/img/bharathidasan.jpg) 
 
 @snapend
 
-@snap[east span-50 text-06 text-left]
+@snap[east span-60 text-06 text-left]
 
 <div class="conclusion">
 
@@ -337,7 +345,7 @@ TODO
 @snapend
 
 ---
-todo
+@img[height=600 , shadow](https://image.freepik.com/free-photo/beautiful-portrait-charming-mother-lovely-little-daughter-walking-across-field_8353-8141.jpg) 
 
 ---?include=includes/TheevinaiAchcham.md
 
@@ -358,6 +366,17 @@ todo
 2. துன்பப்படுவோர்க்கு என்னால் முடிந்த 
 உதவிகள் செய்வேன்.
 ```
+@snapend
+
+
+---
+
+@snap[north span-80 text-08]
+@img[height=400 , shadow](https://i.pinimg.com/564x/02/48/a0/0248a0d15f3ad60a43db379031435c7e.jpg)
+@snapend
+
+@snap[south span-80 text-12 text-blue]
+நாம நிம்மதியா வாழ பிறருக்கு எந்த தீமையும் செய்ய கூடாது 
 @snapend
 
 
