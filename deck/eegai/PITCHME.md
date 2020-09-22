@@ -1,389 +1,294 @@
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### தீவினை அச்சம் : தீமை செய்ய பயப்பட வேண்டும்
+### வறுமையால் வந்து கேட்பவர்களுக்கு இல்லை என்று சொல்லாமல் கொடுத்தல்
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### இந்த அதிகாரம் யாருக்கெல்லாம் பயன்படும்?
+### அவர்களின் பசிக்கு உணவு கொடுத்தல்.
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### இந்த அதிகாரத்தை படிப்பதால் என்ன நன்மை?
+### கொடுத்தல் இரண்டு வகை 
 
----
+1. ஒப்புரவு
+2. ஈகை 
 
-@img[height=600 , shadow](https://www.rollingstone.com/wp-content/uploads/2018/07/The-Beatles-in-Pepperland-credit-Subafilms-Ltd.jpg)
+---?include=includes/Eegai.md
 
----
+### ஒப்புரவு : சமுதாயத்திற்கான தேவைகளை அறிந்து நிறைவு செய்வது.
 
-@img[height=600 , shadow](https://image.freepik.com/free-photo/indoors-shot-two-terrified-bug-eyed-young-european-females-with-hair-knots_273609-9383.jpg)
+---?include=includes/Eegai.md
 
----
-@img[width=600, shadow](https://image.freepik.com/free-vector/no-means-no-concept-illustrated_23-2148590057.jpg)
-
----
-@img[width=600, shadow](assets/img/indian-marriage-clipart.jpg)
+### ஈகை : தனிமனிதனின் தேவைகளை அறிந்து கொடுப்பது. 
 
 ---
 
-@img[width=600, shadow](https://image.freepik.com/free-photo/young-family-with-little-son-together-grey_1303-19082.jpg)
+@img[height=600 , shadow](https://milisaburns.com/wp-content/uploads/2013/12/giveandtake-cover.jpg)
+
 
 ---
 
-@img[width=600, shadow](assets/img/banana-leaf1.jpg)
+@img[height=600 , shadow](https://www.lemonade.com/blog/wp-content/uploads/2017/11/types.png)
 
 ---
 
-@img[width=600, shadow](https://image.freepik.com/free-vector/super-thank-you-concept-illustration_114360-2389.jpg)
+@img[width=600, shadow](assets/img/giver.png)
 
 ---
 
-@img[width=600, shadow](https://image.freepik.com/free-photo/male-lawyer-s-hand-showing-justice-scale-against-gray-textured-background_23-2147898706.jpg)
+@img[width=600, shadow](assets/img/taker.png)
 
----?include=includes/TheevinaiAchcham.md
+---
 
-### மூன்று விதமான குற்றங்களை நீக்க வேண்டும்.
+@img[width=600, shadow](assets/img/matcher.png)
 
----?include=includes/TheevinaiAchcham.md
+---
 
-### 1. மனக்குற்றம் 
-### 2. வாக்கு குற்றம் 
-### 3. செயல் குற்றம்
+@img[width=700, shadow](assets/img/giver-taker-match-who-wins.png)
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### வாக்கு குற்றம் : பயனில சொல்லாமை - கூடாது
+### முடிவை தெரிந்து கொள்ள இந்த காணொளியை இறுதி வரை பாருங்கள் 
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### செயல் குற்றம் : தீவினை - பயப்பட வேண்டும் 
+### தீவினை செய்ய பயப்பட வேண்டும் - தீவினை செய்ய கூடாது - தீவினை அச்சம் 
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### தீய எண்ணங்கள் வரும் பொழுது என்ன செய்யவேண்டும்?
+### ஈகை : அறத்துப்பாலில் உள்ள  23-வது அதிகாரம் 
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
+
+### ஈகை என்றால் என்ன?
+
+---?include=includes/Eegai.md
 
 ```
-தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்
-தீவினை யென்னுஞ் செறுக்கு		( குறள் - 201)
+வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்
+குறியெதிர்ப்பை நீர துடைத்து		( குறள் - 221)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> தீயவர்கள் தீவினை செய்ய அஞ்சமாட்டார்கள். சான்றோர் அஞ்சி நடுங்குவார்கள்.
+> ஏதும் இல்லாதவர்க்குக் கொடுப்பதே ஈகை. பிற எல்லாம் கொடுத்ததைத் திரும்பப் பெறும் நோக்கம் உடையதே.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### ஏன் தீமை செய்ய பயப்பட வேண்டும்?
+### அடுத்தவர்களுக்கு கொடுத்தால் புண்ணியம் கிடைக்கும் என்பதற்காக கொடுக்க வேண்டுமா?
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-தீயவை தீய பயத்தலால் தீயவை
-தீயினும் அஞ்சப் படும்		( குறள் - 202)
+நல்லா றெனினுங் கொளல்தீது மேலுலகம்
+இல்லெனினும் ஈதலே நன்று		( குறள் - 222)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத்தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும்.
+> நல்லது தான் என்று எவரேனும் சொன்னாலும் பிறரிடம் ஒன்றைப் பெறுவது தீமை. ஏதும் இல்லாதார்க்குக் கொடுப்பதால் விண்ணுலகம் கிடைக்காது என்றாலும் கொடுப்பதே நல்லது.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### எனக்கு தீமை செய்தவர்களுக்கு நான் எப்படி தீமை செய்யாமல் இருப்பது ?
+### ஈதல் எப்படி இருக்க வேண்டும்?
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-அறிவினு ளெல்லாந் தலையென்ப தீய
-செறுவார்க்குஞ் செய்யா விடல்		( குறள் - 203)
+இலனென்னும் எவ்வம் உரையாமை ஈதல்
+குலனுடையான் கண்ணே யுள		( குறள் - 223)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> தீமை செய்தவருக்கு அதையே திருப்பிச் செய்யாமலிருத்தலை, எல்லா அறிவிலும் முதன்மையான அறிவு என்று போற்றுவர்.
+> தமக்குள்ள வறுமைத் துன்பத்தைக் காட்டிக்கொள்ளாமல் பிறருக்கு ஈவது உயர்ந்த குடிப்பிறந்தவரின் பண்பாகும். 
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
-
-### அடுத்தவர்களுக்கு தீமை செய்பவர்களுக்கு என்ன நடக்கும்?
-
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-மறந்தும் பிறன்கேடு சூழற்க சூழின்
-அறஞ்சூழுஞ் சூழ்ந்தவன் கேடு		( குறள் - 204)
+இலனென்னும் எவ்வம் உரையாமை ஈதல்
+குலனுடையான் கண்ணே யுள		( குறள் - 223)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> மறந்தும் பிறர்க்குத் தீமை செய்ய எண்ணக்கூடாது. எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும்.
+> என்னிடம் இல்லை என்னும் துன்பச் சொல்லை ஒருவன் சொல்வதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### வறுமையில் உள்ளபோது ஒரு லாபம் வரும் என்பதற்காக தீமை செய்யலாமா?
+### வறுமையில் இருப்பவருக்கு கொடுக்கும் போது கொடுப்பவர் மனநிலை எப்படி இருக்க வேண்டும்?
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-இலனென்று தீயவை செய்யற்க செய்யின்
-இலனாகும் மற்றுப் பெயர்த்து		( குறள் - 205)
+இன்னா திரக்கப் படுதல் இரந்தவர்
+இன்முகங் காணு மளவு		( குறள் - 224)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> வறுமையின் காரணமாக ஒருவன் தீய செயல்களில் ஈடுபடக்கூடாது. அப்படி ஈடுபட்டால் மீண்டும் அவன் வறுமையிலேயே வாட வேண்டியிருக்கும்.
+> கொடுக்க இருப்பவரின் நிலைகூட தம்மிடம் வந்து யாசித்து நிற்பவரின் மலர்ந்த  முகத்தைக் காணும் வரை கொடியது.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### நான் தீமை செய்யாமல் இருந்தால் பிறருக்கு நல்லது. ஆனால் அதனால் எனக்கு என்ன நல்லது?
+**கர்ணன் கதை** 
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-```
-தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால
-தன்னை அடல்வேண்டா தான்		( குறள் - 206)
+### ஒருவரின் பசியை போக்குவது எவ்வளவு சிறந்தது?
 
-```
-
-@snap[span-100 text-08 text-left]
-
-> துன்பம் தருவன தன்னைச் சூழ்ந்து வறுத்த விரும்பாதவன், பிறர்க்குத் தீமை செய்யக்கூடாது.
-
-@snapend
-
----?include=includes/TheevinaiAchcham.md
-
-### தீமை செய்யும் எல்லோருக்கும் அதற்கான தண்டனை கிடைக்கின்றதா?
-
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை
-வீயாது பின்சென் றடும்		( குறள் - 207)
+ஆற்றுவா ராற்றல் பசியாற்றல் அப்பசியை
+மாற்றுவா ராற்றலிற் பின்		( குறள் - 225)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும்.
+> பசியின் கொடுமையைத் தாங்கும் முனிவர்களின் ஆற்றல் பெரியதாம். அதனினும் பெரிய ஆற்றல் மற்றவரின் பசியைப் போக்குபவரின் ஆற்றலே.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### அடுத்தவர்களுக்கு தீமை செய்பவர்கள் நன்றாக வாழ்த்திட முடியுமா?
+### நமக்கு எதிர்காலத்தில் பயன்படும் மாதிரியாக சேர்த்துவைக்க வேண்டுமென்றால் எப்படி சேர்த்துவைப்பது?
 
----?include=includes/TheevinaiAchcham.md
-
-```
-தீயவை செய்தார் கெடுதல் நிழல்தன்னை
-வீயா தடியுறைந் தற்று		( குறள் - 208)
+---?include=includes/Eegai.md
 
 ```
-
-@snap[span-100 text-08 text-left]
-
-> ஒருவருடைய நிழல் அவருடனேயே ஒன்றியிருப்பதைப்போல், தீய செயல்களில் ஈடுபடுகிறவர்களை விட்டுத் தீமையும் விலகாமல், தொடர்ந்து ஒட்டிக் கொண்டிருக்கும்.
-
-@snapend
-
----?include=includes/TheevinaiAchcham.md
-
-### நாம் நன்றாக வாழ என்ன செய்யவேண்டும்?
-
----?include=includes/TheevinaiAchcham.md
-
-```
-தன்னைத்தான் காதல னாயின் எனைத்தொன்றுந்
-துன்னற்க தீவினைப் பால்		( குறள் - 209)
+அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்
+பெற்றான் பொருள்வைப் புழி		( குறள் - 226)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> தனது நலத்தை விருப்புகின்றவர் தீய செயல்களின் பக்கம் சிறிதளவுகூட நெருங்கலாகாது.
+> ஏதும் இல்லாதவரின் கடும்பசியைத் தீர்த்து வையுங்கள். அதுவே பொருள் பெற்ற  ஒருவன் அப்பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### என் வாழ்க்கையில் எந்த தீமையும் வரக்கூடாது. அதற்கு நான் என்ன செய்யவேண்டும்?
+### நம் பசிக்கு உணவு இல்லை என்ற நிலைமை வராமல் இருக்க நாம் என்ன செய்ய வேண்டும்?
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-அருங்கேடன் என்ப தறிக மருங்கோடித்
-தீவினை செய்யான் எனின்		( குறள் - 210)
+பாத்தூண் மரீஇ யவனைப் பசியென்னுந்
+தீப்பிணி தீண்ட லரிது		( குறள் - 227)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கேடும் ஏற்படாது என்பதை அறிந்து கொள்க.
+> மற்றவர் பசிக்கு உணவு தருபவர்களுக்கு அவர்கள் பசித்திருக்க உணவு இல்லாமல் போகின்ற நிலைமை வருவதில்லை.
 
 @snapend
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
-### பிறர்க்குத் தீமை செய்ய என்ன காரணமாக இருக்கும்?
+### மற்றவரிடமிருந்து வாங்குவது இன்பமா? மற்றவருக்கு கொடுப்பது இன்பமா?
 
----
-
-@img[height=600, shadow](https://image.freepik.com/free-vector/man-holding-broken-heart_53876-37170.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/man-with-face-mime-dancing-with-money-isolated-white-concept-concept-love-money-happiness-from-money-luck_155003-181.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/young-emotional-angry-man-screaming-space_155003-15146.jpg)
-
----?include=includes/TheevinaiAchcham.md
-
-### பிறர்க்குத் தீமை செய்வதற்கு முன்னால் எதை நினைக்கவேண்டும்?
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-vector/war-background-with-silhouettes-soldiers_23-2147903525.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-vector/self-care-concept_23-2148521977.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-vector/love-world_75487-747.jpg)
-
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
 
 ```
-அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு
-என்புதோல் போர்த்த உடம்பு
-```
-
----
-
-@snap[north span-100]
-
-<h4 id="title">
-பாரதியார்
-</h4>
-
-@snapend
-
-@snap[west span-50]
-
-@img[height=400 , shadow](assets/img/bharathiyar2.jpg) 
-
-@snapend
-
-@snap[east span-50 text-16 text-left]
+ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை
+வைத்திழக்கும் வன்க ணவர்		( குறள் - 228)
 
 ```
 
-மனித ருணவை மனிதர் பறிக்கும் 
-வழக்கம் இனியுண்டோ ?
+@snap[span-100 text-08 text-left]
 
-மனிதர் நோக மனிதர் பார்க்கும் 
-வாழ்க்கை இனியுண்டோ ?
+> மற்றவர்களுக்குக் கொடுத்து அந்த மலர்ந்த முகத்தைப் பார்ப்பதால் வரும் இன்பமே பேரின்பம்.அந்த இன்பத்தை அறியாதவர்கள் பொருளை சேமித்து வைத்து பின் அதை இழந்துவிடுவர்.
+
+@snapend
+
+---
+
+@img[width=700, shadow](assets/img/giver-taker-match-who-wins.png)
+
+---
+
+@img[width=700, shadow](https://dantegroup.ca/wp-content/uploads/2019/05/3-types.jpg)
+
+---
+
+S**cott Harrison: Charity Water**
+
+
+---?include=includes/Eegai.md
+
+### வறுமையில் இருப்பவர்களுக்கு கொடுக்காமல் தானே வைத்துக்கொள்ள வேண்டும் என்று நினைப்பது எப்படிப்பட்டது?
+
+---?include=includes/Eegai.md
+
+```
+இரத்தலின் இன்னாது மன்ற நிரப்பிய
+தாமே தமிய ருணல்		( குறள் - 229)
+
 ```
 
-@snapend
+@snap[span-100 text-08 text-left]
 
----
-
-@img[height=600 , shadow](https://www.potpourriofwhatever.com/wp-content/uploads/2016/06/4940009_orig.jpg) 
-
----
-
-@snap[north span-100]
-
-<h4 id="title">
-பாரதிதாசன்
-</h4>
+> பொருளைப் பெருக்க எண்ணி, எவருக்கும்  தராமல், தானே தனித்து உண்பது, பிறரிடம் கை ஏந்துவதை விடக் கொடியது.
 
 @snapend
 
-@snap[west span-40]
+---?include=includes/Eegai.md
 
-@img[height=400 , shadow](assets/img/bharathidasan.jpg) 
+### வறுமையில் துன்பப்படுபவர்களுக்கு உதவி செய்ய முடியாத நிலை எப்படிப்பட்டது?
 
-@snapend
+---?include=includes/Eegai.md
 
-@snap[east span-60 text-06 text-left]
-
-<div class="conclusion">
-
-தூய உள்ளம் அன்புள்ளம் சமத்துவ உள்ளம்
-
-தொல்லுலக மக்களெல்லாம் **ஒன்றே** எனும்
-
-தாயுள்ளம் தனிலன்றோ இன்பம்! 
-
-ஆங்கே சண்டையில்லை 
-
-தன்னலந்தான் தீர்ந்ததாலே!
-
-</div>
-@snapend
-
----
-@img[height=600 , shadow](https://image.freepik.com/free-photo/beautiful-portrait-charming-mother-lovely-little-daughter-walking-across-field_8353-8141.jpg) 
-
----?include=includes/TheevinaiAchcham.md
-
-### அவ்வளவு சாதாரணமா எல்லாரும் மாறிட முடியுமா ?
-
----
-
-@snap[north span-80 text-08 text-blue]
-@img[height=300 , shadow](assets/img/vethathiri1.jpg)
-@snapend
-
-@snap[south span-80 text-08 text-blue]
 ```
-1. நான் எனது வாழ்நாளில் யாருடைய உடலுக்கும் ,
-மனதுக்கும் துன்பம் தர மாட்டேன் 
+சாதலின் இன்னாத தில்லை இனிததூஉம்
+ஈத லியையாக் கடை		( குறள் - 230)
 
-
-2. துன்பப்படுவோர்க்கு என்னால் முடிந்த 
-உதவிகள் செய்வேன்.
 ```
+
+@snap[span-100 text-08 text-left]
+
+> சாவு எனும் துன்பத்தை விட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது.
+
 @snapend
 
+---?include=includes/Eegai.md
 
----
+### எல்லா நேரங்களிலும் கொடுக்கும் படியான சூழ்நிலை அமையுமா? 
 
-@snap[north span-80 text-08]
-@img[height=400 , shadow](https://i.pinimg.com/564x/02/48/a0/0248a0d15f3ad60a43db379031435c7e.jpg)
-@snapend
+### நமக்கு ஒரு உதவி தேவைப்படும் போது என்னசெய்வது?
 
-@snap[south span-80 text-12 text-blue]
-நாம நிம்மதியா வாழ பிறருக்கு எந்த தீமையும் செய்ய கூடாது 
-@snapend
+---?include=includes/Eegai.md
 
+pay it forward
 
----?include=includes/TheevinaiAchcham.md
+---?include=includes/Eegai.md
+
+### சம்பாதிக்கும் பணம் எனக்கே சரியா இருக்கும் போது நான் எப்படி, மற்றவர்களுக்கு கொடுப்பது?
+
+---?include=includes/Eegai.md
+
+எண்ணங்களுக்கு சக்தி உண்டு  
+
+---?include=includes/Eegai.md
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
-###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
-
----
+உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
