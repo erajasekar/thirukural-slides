@@ -144,9 +144,9 @@
 
 @snapend
 
----?include=includes/Eegai.md
+---
 
-**கர்ணன் கதை** 
+@img[height=600, shadow](assets/img/karnan-krishna2.png)
 
 ---?include=includes/Eegai.md
 
@@ -165,6 +165,10 @@
 > பசியின் கொடுமையைத் தாங்கும் முனிவர்களின் ஆற்றல் பெரியதாம். அதனினும் பெரிய ஆற்றல் மற்றவரின் பசியைப் போக்குபவரின் ஆற்றலே.
 
 @snapend
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-begging-overpass_1150-22914.jpg)
 
 ---?include=includes/Eegai.md
 
@@ -202,6 +206,10 @@
 
 @snapend
 
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/begging-bridge-with-person-who-handed-bread_1150-22948.jpg)
+
 ---?include=includes/Eegai.md
 
 ### மற்றவரிடமிருந்து வாங்குவது இன்பமா? மற்றவருக்கு கொடுப்பது இன்பமா?
@@ -222,16 +230,52 @@
 
 ---
 
-@img[width=700, shadow](assets/img/giver-taker-match-who-wins.png)
+@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
 
 ---
 
-@img[width=700, shadow](https://dantegroup.ca/wp-content/uploads/2019/05/3-types.jpg)
+@img[height=600, shadow](https://image.freepik.com/free-photo/environment-volunteer-concept-with-women-holding-boxes-donations_23-2147807216.jpg)
+
 
 ---
 
-S**cott Harrison: Charity Water**
+@img[height=600, shadow](https://image.freepik.com/free-photo/handsome-man-taking-lot-money_1368-1012.jpg)
 
+---
+
+@img[height=600, shadow](https://dantegroup.ca/wp-content/uploads/2019/05/3-types.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/eco-concept-with-group-volunteers_23-2147807208.jpg)
+
+---
+
+@img[height=400, shadow](https://i1.wp.com/malissagreenwood.com/wp-content/uploads/2018/07/Give-And-Take-book-Review-quotes.png)
+
+---
+
+@img[height=600, shadow](assets/img/scott-charity-water.png)
+
+---
+
+@img[height=600, shadow](assets/img/scott-birthday.png)
+
+---
+
+@img[height=600, shadow](https://upload.wikimedia.org/wikipedia/commons/0/09/Scott_Harrison_2010.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/charity-water1.jpg)
+
+---
+
+@img[height=400, shadow](assets/img/charity-water2.png)
+
+---
+
+@img[height=600, shadow](assets/img/charity-water3.png)
 
 ---?include=includes/Eegai.md
 
