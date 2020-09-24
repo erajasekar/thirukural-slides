@@ -32,19 +32,19 @@
 
 ---
 
-@img[width=600, shadow](assets/img/giver.png)
+@img[height=600, shadow](assets/img/giver.png)
 
 ---
 
-@img[width=600, shadow](assets/img/taker.png)
+@img[height=600, shadow](assets/img/taker.png)
 
 ---
 
-@img[width=600, shadow](assets/img/matcher.png)
+@img[height=600, shadow](assets/img/matcher.png)
 
 ---
 
-@img[width=700, shadow](assets/img/giver-taker-match-who-wins.png)
+@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
 
 ---?include=includes/Eegai.md
 
@@ -317,13 +317,73 @@
 
 ### எல்லா நேரங்களிலும் கொடுக்கும் படியான சூழ்நிலை அமையுமா? 
 
+---?include=includes/Eegai.md
+
 ### நமக்கு ஒரு உதவி தேவைப்படும் போது என்னசெய்வது?
 
 ---?include=includes/Eegai.md
 
-pay it forward
+### மற்றவர் செய்த உதவியால் பயனடைந்த நாம் அடுத்தவர்களுக்கு உதவி செய்ய வேண்டும் 
 
 ---?include=includes/Eegai.md
+
+
+> Pay it forward : நமக்கு உதவி செய்தவருக்கு நம்மால் நேரடியா உதவி செய்ய முடியாவிட்டாலும் இனொருவருக்கு எந்த எதிர்பார்ப்பும் இல்லாமல் உதவி செய்ய வேண்டும் 
+
+
+---
+
+@img[height=600, shadow](assets/img/payforward1.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward2.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward3.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-beggars-with-homeless-please-help-message_1150-22911.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward4.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward5.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward6.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward7.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward8.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward9.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward10.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward12.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward13.jpg)
+
+---
 
 ### சம்பாதிக்கும் பணம் எனக்கே சரியா இருக்கும் போது நான் எப்படி, மற்றவர்களுக்கு கொடுப்பது?
 
