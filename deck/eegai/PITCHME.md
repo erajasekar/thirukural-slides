@@ -339,9 +339,6 @@
 
 @img[height=600, shadow](assets/img/payforward2.jpg)
 
----
-
-@img[height=600, shadow](assets/img/payforward3.jpg)
 
 ---
 
@@ -361,7 +358,7 @@
 
 ---
 
-@img[height=600, shadow](assets/img/payforward7.jpg)
+@img[height=600, shadow](assets/img/payforward10.jpg)
 
 ---
 
@@ -373,7 +370,11 @@
 
 ---
 
-@img[height=600, shadow](assets/img/payforward10.jpg)
+@img[height=600, shadow](assets/img/payforward3.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/payforward14.jpg)
 
 ---
 
@@ -383,13 +384,41 @@
 
 @img[height=600, shadow](assets/img/payforward13.jpg)
 
----
+---?include=includes/Eegai.md
 
 ### சம்பாதிக்கும் பணம் எனக்கே சரியா இருக்கும் போது நான் எப்படி, மற்றவர்களுக்கு கொடுப்பது?
 
----?include=includes/Eegai.md
+---
 
-எண்ணங்களுக்கு சக்தி உண்டு  
+@img[height=600, shadow](https://image.freepik.com/free-photo/business-man-displaying-spread-dollar_1232-2869.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/female-hand-with-credit-card-bank-terminal-card-machine-pos-terminal-with-inserted-blank-white-credit-card-isolated-black-background_1391-255.jpg)
+
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/jar-savings-orange-background_23-2147931191.jpg)
+
+---
+@img[height=600, shadow](https://image.freepik.com/free-photo/portrait-successful-smiling-man-holding-wallet_171337-17565.jpg)
+
+
+---
+@img[height=600, shadow](https://image.freepik.com/free-photo/confused-bearded-man-shouting-standing-blackboard-backgro_176420-2935.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/young-man-giving-cash_171337-15100.jpg)
+
+---
+
+@img[height=600, shadow](assets/img/work-hard2.jpg)
+
+---
+
+@img[height=600, shadow](https://image.freepik.com/free-photo/happy-successful-businessman_53876-89038.jpg)
 
 ---?include=includes/Eegai.md
 
