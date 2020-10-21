@@ -1,426 +1,206 @@
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### வறுமையால் வந்து கேட்பவர்களுக்கு இல்லை என்று சொல்லாமல் கொடுத்தல்
+### புகழ் : புகழ் பட வாழ்வது
 
----?include=includes/Eegai.md
+யார் ஒருவர் தன் நற்குணங்களாலும் நற்செயல்களாலும் உலகத்திற்கு பயன்படும் படியாக வாழ்கின்றார்களோ அவர்கள் அனைவராலும் போற்றப்படுவார்கள். 
 
-### அவர்களின் பசிக்கு உணவு கொடுத்தல்.
+அன்பு காட்டுவது, விருந்தோம்பல், உதவி செய்வது, நடுவு நிலைமையோடு செயல்படுவது, அடக்கம், ஒழுக்கம், பொறை ஆகியவற்றை போற்றுவது, பிறனில்விழையாமை, அழுக்காறாமை, வெஃகாமை, புறங்கூறாமை, பயனில சொல்லாமை, தீவினை செய்யாமை போன்ற அறங்களை செய்யும் பண்பு உடையவருக்கு புகழ் வரும். ஈகை, ஒப்புரவு, கல்வி, வீரம், செல்வம் ஈட்டுவது, நிர்வாக திறன், ஆட்சிமுறை இவற்றால் புகழ் வரும். 
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### கொடுத்தல் இரண்டு வகைப்படும் 
+### நம் வாழ்வின் பயன் என்ன?
 
-1. ஒப்புரவு
-2. ஈகை 
-
----?include=includes/Eegai.md
-
-### ஒப்புரவு : சமுதாயத்திற்கான தேவைகளை அறிந்து நிறைவு செய்வது.
-
----?include=includes/Eegai.md
-
-### ஈகை : தனிமனிதனின் தேவைகளை அறிந்து கொடுப்பது. 
-
----
-
-@img[height=600 , shadow](https://milisaburns.com/wp-content/uploads/2013/12/giveandtake-cover.jpg)
-
-
----
-
-@img[height=600 , shadow](https://www.lemonade.com/blog/wp-content/uploads/2017/11/types.png)
-
----
-
-@img[height=600, shadow](assets/img/giver.png)
-
----
-
-@img[height=600, shadow](assets/img/taker.png)
-
----
-
-@img[height=600, shadow](assets/img/matcher.png)
-
----
-
-@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
-
----?include=includes/Eegai.md
-
-### முடிவை தெரிந்து கொள்ள இந்த காணொளியை இறுதி வரை பாருங்கள் 
-
----?include=includes/Eegai.md
-
-### தீவினை செய்ய பயப்பட வேண்டும் - தீவினை செய்யாமை - தீவினை அச்சம்  
-
----?include=includes/Eegai.md
-
-### ஈகை : அறத்துப்பாலில் உள்ள  23-வது அதிகாரம் 
-
----?include=includes/Eegai.md
-
-### ஈகை என்றால் என்ன?
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்
-குறியெதிர்ப்பை நீர துடைத்து		( குறள் - 221)
+ஈத லிசைபட வாழ்தல் அதுவல்ல
+தூதிய மில்லை உயிர்க்கு		( குறள் - 231)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> ஏதும் இல்லாதவர்க்குக் கொடுப்பதே ஈகை. பிற எல்லாம் கொடுத்ததைத் திரும்பப் பெறும் நோக்கம் உடையதே.
+> வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப்புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை.
 
 @snapend
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### அடுத்தவர்களுக்கு கொடுத்தால் புண்ணியம் கிடைக்கும் என்பதற்காக கொடுக்க வேண்டுமா?
+### புகழ் யாருக்கு வரும்?
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-நல்லா றெனினுங் கொளல்தீது மேலுலகம்
-இல்லெனினும் ஈதலே நன்று		( குறள் - 222)
+உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்
+றீவார்மேல் நிற்கும் புகழ்		( குறள் - 232)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> நல்லது தான் என்று எவரேனும் சொன்னாலும் பிறரிடம் ஒன்றைப் பெறுவது தீமை. ஏதும் இல்லாதார்க்குக் கொடுப்பதால் விண்ணுலகம் கிடைக்காது என்றாலும் கொடுப்பதே நல்லது.
+> புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்.
 
 @snapend
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### ஈதல் எப்படி இருக்க வேண்டும்?
+### இந்த உலகத்தில் நிலைத்து நிற்பது எது?
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-இலனென்னும் எவ்வம் உரையாமை ஈதல்
-குலனுடையான் கண்ணே யுள		( குறள் - 223)
+ஒன்றா உலகத் துயர்ந்த புகழல்லாற்
+பொன்றாது நிற்பதொன் றில்		( குறள் - 233)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> தமக்குள்ள வறுமைத் துன்பத்தைக் காட்டிக்கொள்ளாமல் பிறருக்கு ஈவது உயர்ந்த குடிப்பிறந்தவரின் பண்பாகும். 
+> தனக்கு இணையில்லாததாய், உயர்ந்ததாய் விளங்கும் புகழே அன்றி, அழியாமல் நிலைத்து நிற்கும் வேறொன்றும் இவ்வுலகத்தில் இல்லை.
 
 @snapend
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
+
+### விண்ணுலகம் யாரைப் போற்றும் ?
+
+---?include=includes/Pugal.md
 
 ```
-இலனென்னும் எவ்வம் உரையாமை ஈதல்
-குலனுடையான் கண்ணே யுள		( குறள் - 223)
+நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்
+போற்றாது புத்தே ளுலகு		( குறள் - 234)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> என்னிடம் இல்லை என்னும் துன்பச் சொல்லை ஒருவன் சொல்வதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு.
+> இந்த நிலவுலகில் நெடும்புகழ் பெற்று வாழ்ந்தவரை விண்ணுலகம் போற்றுமே தவிர ஞானிகளை போற்றாது.
 
 @snapend
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### வறுமையில் இருப்பவருக்கு கொடுக்கும் போது கொடுப்பவர் மனநிலை எப்படி இருக்க வேண்டும்?
+### எல்லாராலும் புகழ் அடைந்திட முடியுமா?
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-இன்னா திரக்கப் படுதல் இரந்தவர்
-இன்முகங் காணு மளவு		( குறள் - 224)
+நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்
+வித்தகர்க் கல்லால் அரிது		( குறள் - 235)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> கொடுக்க இருப்பவரின் நிலைகூட தம்மிடம் வந்து யாசித்து நிற்பவரின் மலர்ந்த  முகத்தைக் காணும் வரை கொடியது.
+> சிப்பியானது தான் சிதைந்துபோனாலும் அழியாத பெருமைமிக்க முத்தை அளித்துச் செல்கிறது. அதுபோல் தமது சாவிலும் கூடப் புகழை நிலைநாட்டுவது, பிறர்க்கு ஈந்து, தாம் மெய் உணர்ந்து, அவா அறுத்த வித்தகர்க்கு ஆகுமே அன்றி மற்றவர்க்கு ஆவது கடினம்.
 
 @snapend
 
----
+---?include=includes/Pugal.md
 
-@img[height=600, shadow](assets/img/karnan-krishna2.png)
+### ஒரு செயலை செய்ய எப்படி தயாராக வேண்டும்?
 
----?include=includes/Eegai.md
-
-### ஒருவரின் பசியை போக்குவது எவ்வளவு சிறந்தது?
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-ஆற்றுவா ராற்றல் பசியாற்றல் அப்பசியை
-மாற்றுவா ராற்றலிற் பின்		( குறள் - 225)
+தோன்றின் புகழோடு தோன்றுக அஃதிலார்
+தோன்றலின் தோன்றாமை நன்று		( குறள் - 236)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> பசியின் கொடுமையைத் தாங்கும் முனிவர்களின் ஆற்றல் பெரியதாம். அதனினும் பெரிய ஆற்றல் மற்றவரின் பசியைப் போக்குபவரின் ஆற்றலே.
+> எந்தத் துறையில் ஈடுபட்டாலும் அதில் புகழுடன் விளங்க வேண்டும். இயலாதவர்கள் அந்தத் துறையில் ஈடுபடாமல் இருப்பதே நல்லது.
 
 @snapend
 
----
+---?include=includes/Pugal.md
 
-@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-begging-overpass_1150-22914.jpg)
+### ஒருவர் தன் வாழ்வில் புகழ் அடைய முடியவில்லை என்றால் அதற்கு காரணம் யார் ?
 
----?include=includes/Eegai.md
-
-### நமக்கு எதிர்காலத்தில் பயன்படும் மாதிரியாக சேர்த்துவைக்க வேண்டுமென்றால் எப்படி சேர்த்துவைப்பது?
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்
-பெற்றான் பொருள்வைப் புழி		( குறள் - 226)
+புகழ்பட வாழாதார் தந்நோவார் தம்மை
+இகழ்வாரை நோவ தெவன்		( குறள் - 237)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> ஏதும் இல்லாதவரின் கடும்பசியைத் தீர்த்து வையுங்கள். அதுவே பொருள் பெற்ற  ஒருவன் அப்பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.
+> உண்மையான புகழுடன் வாழ முடியாதவர்கள், அதற்காகத் தம்மை நொந்து கொள்ள வேண்டுமே தவிரத் தமது செயல்களை இகழ்ந்து பேசுகிறவர்களை நொந்து கொள்வது அதற்காக ?.
 
 @snapend
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
-### நம் பசிக்கு உணவு இல்லை என்ற நிலைமை வராமல் இருக்க நாம் என்ன செய்ய வேண்டும்?
+### ஒருத்தர் தன் வாழ்வில் புகழுடன் வாழ்வது எவ்வளவு முக்கியம்?
 
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-பாத்தூண் மரீஇ யவனைப் பசியென்னுந்
-தீப்பிணி தீண்ட லரிது		( குறள் - 227)
+வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்
+எச்சம் பெறாஅ விடின்		( குறள் - 238)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> மற்றவர் பசிக்கு உணவு தருபவர்களுக்கு அவர்கள் பசித்திருக்க உணவு இல்லாமல் போகின்ற நிலைமை வருவதில்லை.
+> தமக்குப் பின் எஞ்சி நிற்பதாகியப் புகழைப் பெறாவிட்டால் உலகத்தார் எல்லார்க்கும் அத்தகைய வாழ்க்கை பழி என்று சொல்லுவர்.
 
 @snapend
 
----
+---?include=includes/Pugal.md
 
-@img[height=600, shadow](https://image.freepik.com/free-photo/begging-bridge-with-person-who-handed-bread_1150-22948.jpg)
+### புகழ் இல்லாதவர்கள் இருக்கும் இடம் எப்படி இருக்கும்?
 
----?include=includes/Eegai.md
-
-### மற்றவரிடமிருந்து வாங்குவது இன்பமா? மற்றவருக்கு கொடுப்பது இன்பமா?
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை
-வைத்திழக்கும் வன்க ணவர்		( குறள் - 228)
+வசையிலா வண்பயன் குன்றும் இசையிலா
+யாக்கை பொறுத்த நிலம்		( குறள் - 239)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> மற்றவர்களுக்குக் கொடுத்து அந்த மலர்ந்த முகத்தைப் பார்ப்பதால் வரும் இன்பமே பேரின்பம்.அந்த இன்பத்தை அறியாதவர்கள் பொருளை சேமித்து வைத்து பின் அதை இழந்துவிடுவர்.
+> புகழ் இல்லாத உடம்பை சுமக்கின்ற பூமி, தன்னோட வளம் குறைந்து காணப்படும்.
 
 @snapend
 
----
+---?include=includes/Pugal.md
 
-@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
+### இந்த உலகத்தில் உண்மையாக வாழ்வது யார்?
 
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/environment-volunteer-concept-with-women-holding-boxes-donations_23-2147807216.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/handsome-man-taking-lot-money_1368-1012.jpg)
-
----
-
-@img[height=600, shadow](https://dantegroup.ca/wp-content/uploads/2019/05/3-types.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/eco-concept-with-group-volunteers_23-2147807208.jpg)
-
----
-
-@img[height=400, shadow](https://i1.wp.com/malissagreenwood.com/wp-content/uploads/2018/07/Give-And-Take-book-Review-quotes.png)
-
----
-
-@img[height=600, shadow](assets/img/scott-charity-water.png)
-
----
-
-@img[height=600, shadow](assets/img/scott-birthday.png)
-
----
-
-@img[height=600, shadow](https://upload.wikimedia.org/wikipedia/commons/0/09/Scott_Harrison_2010.jpg)
-
----
-
-@img[height=600, shadow](assets/img/charity-water1.jpg)
-
----
-
-@img[height=400, shadow](assets/img/charity-water2.png)
-
----
-
-@img[height=600, shadow](assets/img/charity-water3.png)
-
----?include=includes/Eegai.md
-
-### வறுமையில் இருப்பவர்களுக்கு கொடுக்காமல் தானே வைத்துக்கொள்ள வேண்டும் என்று நினைப்பது எப்படிப்பட்டது?
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 ```
-இரத்தலின் இன்னாது மன்ற நிரப்பிய
-தாமே தமிய ருணல்		( குறள் - 229)
+வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய
+வாழ்வாரே வாழா தவர்		( குறள் - 240)
 
 ```
 
 @snap[span-100 text-08 text-left]
 
-> பொருளைப் பெருக்க எண்ணி, எவருக்கும்  தராமல், தானே தனித்து உண்பது, பிறரிடம் கை ஏந்துவதை விடக் கொடியது.
+> பழி இல்லாமல் வாழ்பவரே வாழ்பவர். புகழ் இல்லாமல் வாழ்வதும் வாழாததும் சமமானதே.
 
 @snapend
-
----?include=includes/Eegai.md
-
-### வறுமையில் துன்பப்படுபவர்களுக்கு உதவி செய்ய முடியாத நிலை எப்படிப்பட்டது?
-
----?include=includes/Eegai.md
-
-```
-சாதலின் இன்னாத தில்லை இனிததூஉம்
-ஈத லியையாக் கடை		( குறள் - 230)
-
-```
 
 @snap[span-100 text-08 text-left]
+<div class="conclusion" >
+புறநானூறு 
 
-> சாவு எனும் துன்பத்தை விட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது.
+இந்த உலகம் நிலைத்திருக்க காரணமானவர்கள் யார்?
+
+புகழ் எனின் உயிரை கொடுக்கவும் தயாராக இருப்பார்கள். பழி எனின் உலகையே கொடுத்தாலும் ஏற்றுக்கொள்ள மாட்டார்கள். 
+
+நிலையில்லாத வாழ்வில் புகழ் ஒன்றே நிலையானது.  
+
+</div>
 
 @snapend
 
----?include=includes/Eegai.md
-
-### எல்லா நேரங்களிலும் கொடுக்கும் படியான சூழ்நிலை அமையுமா? 
-
----?include=includes/Eegai.md
-
-### நமக்கு ஒரு உதவி தேவைப்படும் போது என்னசெய்வது?
-
----?include=includes/Eegai.md
-
-### மற்றவர் செய்த உதவியால் பயனடைந்த நாம் அடுத்தவர்களுக்கு உதவி செய்ய வேண்டும் 
-
----?include=includes/Eegai.md
-
-
-> Pay it forward : நமக்கு உதவி செய்தவருக்கு நம்மால் நேரடியா உதவி செய்ய முடியாவிட்டாலும் இனொருவருக்கு எந்த எதிர்பார்ப்பும் இல்லாமல் உதவி செய்ய வேண்டும் 
-
-
----
-
-@img[height=600, shadow](assets/img/payforward1.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward2.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-beggars-with-homeless-please-help-message_1150-22911.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward4.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward5.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward6.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward10.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward8.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward9.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward3.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward14.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward12.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward13.jpg)
-
----?include=includes/Eegai.md
-
-### சம்பாதிக்கும் பணம் எனக்கே சரியா இருக்கும் போது நான் எப்படி, மற்றவர்களுக்கு கொடுப்பது?
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/business-man-displaying-spread-dollar_1232-2869.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/female-hand-with-credit-card-bank-terminal-card-machine-pos-terminal-with-inserted-blank-white-credit-card-isolated-black-background_1391-255.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/jar-savings-orange-background_23-2147931191.jpg)
-
----
-@img[height=600, shadow](https://image.freepik.com/free-photo/portrait-successful-smiling-man-holding-wallet_171337-17565.jpg)
-
-
----
-@img[height=600, shadow](https://image.freepik.com/free-photo/confused-bearded-man-shouting-standing-blackboard-backgro_176420-2935.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/young-man-giving-cash_171337-15100.jpg)
-
----
-
-@img[height=600, shadow](assets/img/work-hard2.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/happy-successful-businessman_53876-89038.jpg)
-
----?include=includes/Eegai.md
+---?include=includes/Pugal.md
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
