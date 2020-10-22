@@ -231,19 +231,48 @@
 
 @snapend
 
----?include=includes/Pugal.md
+---
+
+### இந்த உலகம் நிலைத்து இருக்க காரணமானவர்கள் 
 
 @snap[span-100 text-08 text-left]
 
+```
 
-> புகழ் எனின் உயிரை கொடுக்கவும் தயாராக இருப்பார்கள். பழி எனின் உலகையே கொடுத்தாலும் ஏற்றுக்கொள்ள மாட்டார்கள். 
+அமிழ்தமே கிடைத்தாலும் தனியாக உன்ன மாட்டார்கள்!
 
+புகழ் எனின் உயிரை கொடுக்கவும் தயாராக இருப்பார்கள்.
 
+பழி எனின் உலகையே கொடுத்தாலும் ஏற்றுக்கொள்ள மாட்டார்கள். 
+
+```
+@snapend
+
+---
+
+@img[height=620 , shadow](https://image.freepik.com/free-vector/golden-trophy-white-stairs-covered-with-red-carpet-illuminated-by-spotlight_1284-8833.jpg)
+
+@snap[north span-80 text-10 text-orange]
+புகழுடன் வாழ்வதுதான் வாழ்க்கையின் நோக்கமாக இருக்க வேண்டும்.
 @snapend
 
 ---?include=includes/Pugal.md
 
 ### நிலையில்லாத வாழ்வில் புகழ் ஒன்றே நிலையானது.  
+
+---?include=includes/Pugal.md
+
+நம்மால் அடுத்தவர்கள் கண்ணீரை துடைக்க முடியாவிட்டாலும், நாம் அதற்க்கு காரணமாக இருக்க கூடாது.
+
+---
+
+@img[height=650 , shadow](assets/img/walk-fame.png)
+
+@snap[north span-80 text-10 text-orange]
+புகழுக்காக வாழ வேண்டும் என்பதில்லை, புகழ் வர மாதிரி வாழ வேண்டும்!
+@snapend
+
+
 
 ---?include=includes/Pugal.md
 
