@@ -1,6 +1,6 @@
 ---?include=includes/Vaaimai.md
 
-### வாய்மை :  உள்ளத்தில் இருந்து வரும் உன்மை.
+### வாய்மை : உள்ளத்தில் இருந்து வரும் உன்மை.
 
 ---?include=includes/Vaaimai.md
 
@@ -42,9 +42,56 @@
 
 ```
 
----?include=includes/Vaaimai.md
+---
 
-Saivam images
+@img[height=650 , shadow](assets/img/Saivam1.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam2.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam3.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam4.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam5.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam6.png)
+
+---
+
+@img[height=650 , shadow](assets/img/Saivam7.png)
+
+---
+
+@snap[north span-100]
+
+<h4 id="title">
+நா. முத்துக்குமார் 
+</h4>
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=300 , shadow](https://images.cinemaexpress.com/uploads/user/imagelibrary/2019/7/12/original/d99122c6e82626e71cee847eed7f18a5.jpg) 
+
+@snapend
+
+@snap[west span-50 text-10 text-blue]
+
+நன்மைக்கு சொல்லிடும் பொய்மையும் அழகு 
+உண்மையில் அதுதான் மெய்யாய் அழகு 
+
+@snapend
 
 ---?include=includes/Vaaimai.md
 
@@ -58,11 +105,28 @@ Saivam images
 
 ```
 
----?include=includes/Vaaimai.md
+---
 
-kannadasan img
+@snap[north span-100]
 
-> ஒன்றே சொல்வார் ஒன்றே செய்வார் உள்ளத்தில் உள்ளது அமைதி
+<h4 id="title">
+கவிஞர் கண்ணதாசன் 
+</h4>
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=300 , shadow](assets/img/kanadasan.png) 
+
+@snapend
+
+@snap[west span-50 text-12 text-blue]
+
+ஒன்றே சொல்வார் ஒன்றே செய்வார் உள்ளத்தில் உள்ளது அமைதி
+
+@snapend
+
 
 ---?include=includes/Vaaimai.md
 
@@ -80,9 +144,28 @@ kannadasan img
 
 harichandra image
 
----?include=includes/Vaaimai.md
+---
 
-> உண்மையை சொல்லி நன்மையை செய்தால் உலகம் உன்னிடம் மயங்கும்
+@snap[north span-100]
+
+<h4 id="title">
+கவிஞர் கண்ணதாசன் 
+</h4>
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=300 , shadow](assets/img/kanadasan.png) 
+
+@snapend
+
+@snap[west span-50 text-12 text-blue]
+
+உண்மையை சொல்லி நன்மையை செய்தால் உலகம் உன்னிடம் மயங்கும்
+
+@snapend
+
 
 ---?include=includes/Vaaimai.md
 
