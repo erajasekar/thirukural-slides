@@ -1,12 +1,28 @@
 ---?include=includes/Vaaimai.md
 
-### <ADHIGHARAM INTRO>
+### வாய்மை :  உள்ளத்தில் இருந்து வரும் உன்மை.
 
 ---?include=includes/Vaaimai.md
 
-### <KURAL 291 INTRO>
+### டல்கிங்க இமகெ
 
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
+
+### பேசுவதை சரியாக பயன்படுத்த வேண்டும்
+
+---?include=includes/Vaaimai.md
+
+### பேச்சு சத்திய தன்மையுடன் இருக்க வேண்டும்
+
+---?include=includes/Vaaimai.md
+
+### வாய்மை : அறத்துப்பாலில் உள்ள 30-தாவது அதிகாரம்
+
+---?include=includes/Vaaimai.md
+
+### வாய்மை என்றால் என்ன ?
+
+---?include=includes/Vaaimai.md
 
 ```
 வாய்மை எனப்படுவ தியாதெனின் யாதொன்றந்
@@ -14,17 +30,11 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+### பொய் சொல்லாமல் இருப்பதுதான் வாய்மையா ?
 
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-### <KURAL 292 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 பொய்ம்மையும் வாய்மை யிடத்த புரைதீர்ந்த
@@ -32,17 +42,15 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+Saivam images
 
-@snapend
+---?include=includes/Vaaimai.md
 
-- --?include=includes/Vaaimai.md
+### சுய லாபத்துக்காக பொய் சொன்னால் என்னாகும் ?
 
-### <KURAL 293 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 தன்நெஞ் சறிவது பொய்யற்க பொய்த்தபின்
@@ -50,17 +58,17 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+kannadasan img
 
-@snapend
+> ஒன்றே சொல்வார் ஒன்றே செய்வார் உள்ளத்தில் உள்ளது அமைதி
 
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
-### <KURAL 294 INTRO>
+### உண்மை பேசினால் என்னாகும் ?
 
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 உள்ளத்தாற் பொய்யா தொழுகின் உலகத்தார்
@@ -68,17 +76,19 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+harichandra image
 
-@snapend
+---?include=includes/Vaaimai.md
 
-- --?include=includes/Vaaimai.md
+> உண்மையை சொல்லி நன்மையை செய்தால் உலகம் உன்னிடம் மயங்கும்
 
-### <KURAL 295 INTRO>
+---?include=includes/Vaaimai.md
 
-- --?include=includes/Vaaimai.md
+### உண்மை பேசுபவர்கள் எவ்வளவு சிறந்தவர்கள் ?
+
+---?include=includes/Vaaimai.md
 
 ```
 மனத்தொடு வாய்மை மொழியின் தவத்தொடு
@@ -86,17 +96,11 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+### உண்மை பேசினால் என்ன நன்மை வரும் ?
 
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-### <KURAL 296 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 பொய்யாமை யன்ன புகழில்லை எய்யாமை
@@ -104,17 +108,15 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+Gandhi and harichanra image
 
-@snapend
+---?include=includes/Vaaimai.md
 
-- --?include=includes/Vaaimai.md
+### உண்மை பேசுவது அவ்வளவு சிறந்த அறமா ?
 
-### <KURAL 297 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற
@@ -122,17 +124,11 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+### மனதை தூய்மையாக வைத்து கொள்ள என்ன செய்ய வேண்டும் ?
 
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-### <KURAL 298 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 புறந்தூய்மை நீரா னமையும் அகந்தூய்மை
@@ -140,17 +136,11 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+### உண்மை பேசுவதால் வேறு என்ன நன்மை ?
 
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-### <KURAL 299 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்
@@ -158,17 +148,11 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+### நம் வாழ்க்கையில் முக்கியமாக கடைபிடிக்க வேண்டிய குணம் எது ?
 
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-### <KURAL 300 INTRO>
-
-- --?include=includes/Vaaimai.md
+---?include=includes/Vaaimai.md
 
 ```
 யாமெய்யாக் கண்டவற்று ளில்லை எனைத்தொன்றும்
@@ -176,22 +160,8 @@
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vaaimai.md
 
-> <பொருள்:>
+@img[width=200, height=200](assets/img/comment-button.png)
 
-@snapend
-
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-<CONCLUSION>
-
-</div>
-
-@snapend
-
-- --?include=includes/Vaaimai.md
-
-`@img[width=200, height=200](assets/img/comment-button.png)`
-
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
+உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
