@@ -334,11 +334,29 @@
 
 ---
 
+@img[height=650 , shadow](https://i.pinimg.com/originals/48/3f/46/483f46c1ee12a5cd41f8c573459b16ab.jpg)
+
+
+
+---
+
 @img[height=650 , shadow](https://www.kellerinstitute.com/sites/default/files/blog/images/lies-truth-buttons-show-untrue-or-correct_z1Z6w7DO_0.jpg)
 
 ---
 
-TODO PIC 9:53
+@img[height=650 , shadow](https://image.freepik.com/free-photo/pleased-kind-hearted-bearded-young-male-keeps-both-palms-chest-looks-positively-expresses-truthful-feelings_273609-15893.jpg)
+
+---
+@img[height=650 , shadow](https://image.freepik.com/free-vector/inspirational-quote-always-tell-truth_1257-351.jpg)
+
+---
+
+@img[height=500 , shadow](assets/img/Gandhi-statue.jpg)
+
+---
+
+@img[height=650 , shadow](https://inspirationalquotes.gallery/wp-content/uploads/Mark-Twain-If-you-tell-the-truth-you-dont-have-to-remember-anything.png)
+
 ---
 
 
