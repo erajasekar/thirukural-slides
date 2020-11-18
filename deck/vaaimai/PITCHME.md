@@ -2,9 +2,45 @@
 
 ### வாய்மை : உள்ளத்தில் இருந்து வரும் உன்மை.
 
----?include=includes/Vaaimai.md
+---
 
-### டல்கிங்க இமகெ
+@img[height=650 , shadow](https://image.freepik.com/free-photo/businesswomen-restaurant_1157-9031.jpg)
+
+---
+
+<h4 id="title">
+இனியவைகூறல்  - இனிமையாக பேச வேண்டும்.
+</h4>
+
+
+@img[height=550 , shadow](https://image.freepik.com/free-photo/grandma-is-my-best-friend_329181-2583.jpg)
+
+
+---
+
+@snap[north span-80 text-08 text-orange]
+சொல்வன்மை - சொல் வன்மையுடன் பேச வேண்டும்.
+@snapend
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/confident-african-speaker-business-coach-giving-presentation-team_1163-4620.jpg)
+
+---
+
+@snap[north span-80 text-orange]
+கேட்பவர்களுக்கு பயன் இருக்கின்றதா என்று தெரிந்து பேசவேண்டும். 
+@snapend
+
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/male-psychologist-sitting-front-female-patient-listening-her-problem_23-2148036561.jpg)
+
+---
+
+<h4 id="title">
+புறங்கூறாமை - புறம் பேச கூடாது 
+</h4>
+
+@img[height=550 , shadow](https://image.freepik.com/free-photo/business-executive-making-fun-colleague_1170-1903.jpg)
+
 
 ---?include=includes/Vaaimai.md
 
@@ -140,9 +176,9 @@
 
 ```
 
----?include=includes/Vaaimai.md
+---
 
-harichandra image
+@img[height=650 , shadow](https://www.exoticindiaart.com/books/truthful_king_harishchandra_to_uphold_the_truth_idj570.jpg)
 
 ---
 
@@ -191,9 +227,19 @@ harichandra image
 
 ```
 
----?include=includes/Vaaimai.md
+---
 
-Gandhi and harichanra image
+@snap[west span-50]
+
+@img[height=500 , shadow](https://1.bp.blogspot.com/-inTjtHgEzjE/Xbw93VTMg0I/AAAAAAAAEc4/S046dU1cTYkcdCHlkxr68SILXEimdAPeQCLcBGAsYHQ/s1600/Satya%2BHarishchandra.jpg)
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=500 , shadow](assets/img/gandhi1.png)
+
+@snapend
 
 ---?include=includes/Vaaimai.md
 
@@ -242,6 +288,109 @@ Gandhi and harichanra image
 வாய்மையின் நல்ல பிற		( குறள் - 300)
 
 ```
+
+---?include=includes/Vaaimai.md
+
+### மனிதர்கள் பொய் சொல்வது ஏன் ?
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/perplexed-looking-cute-european-woman-who-know-what-holding-arm-forehead-showing-dispair_176420-15393.jpg)
+
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-excited-woman-with-bun-hairstyle-doing-fuck-you-bad-expression-frowning-with-pout-raising-hands-with-middle-fingers-isolated_295783-4068.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/displeased-young-lady-talking-smartphone-isolated_171337-4616.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-female-student-listening-her-friend_171337-18493.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/monkey-man-doing-bad-signal_1368-7127.jpg)
+
+---?include=includes/NaduvuNilaimai.md
+
+```
+கெடுவல்யான் என்ப தறிகதன் நெஞ்சம்
+நடுவொரீஇ அல்ல செயின்		( குறள் - 116)
+
+```
+
+@snap[span-100 text-08 text-left]
+
+> தன் நெஞ்சம் நீதி தவறி அநீதி செய்ய எண்ணினால், நான் கெடப்போகிறேன் என்று ஒருவன் அறிய வேண்டும்.
+
+@snapend
+
+---
+
+@img[height=500 , shadow](https://comps.gograph.com/cartoon-lie_gg64751802.jpg)
+
+---
+
+@img[height=650 , shadow](https://www.kellerinstitute.com/sites/default/files/blog/images/lies-truth-buttons-show-untrue-or-correct_z1Z6w7DO_0.jpg)
+
+---
+
+TODO PIC 9:53
+---
+
+
+### ரிக் வேதம் 
+
+
+@snap[span-100 text-left]
+
+```java
+உண்மை தான் இந்த உலகத்தை தாங்கு கிறது 
+
+```
+
+
+---
+
+### பகவத் கீதை 
+
+
+@snap[span-100 text-08 text-left]
+
+```java
+சொல்லும் சொல்லை 
+அளவறிந்து இடமறிந்து 
+தரம் அறிந்து 
+இனிமையாக சொல்லும் தன்மை 
+வாக்கினால் செய்யும் தவம் 
+
+```
+
+
+---
+
+
+@img[height=300 , shadow](assets/img/truth1.jpeg)
+
+---
+
+### பட்டினத்தார் பாடல் 
+
+
+@snap[span-100 text-08 text-left]
+```java
+பொல்லாதவன் நெறி இல்லாதவன் 
+உண்மை சொல்லாதவன் 
+மண்ணில் ஏன் பிறந்தேன் 
+
+```
+
+---?include=includes/Vaaimai.md
+
+### வாய்மையை வாழ்கை நெறியாய் கடை பிடிப்போம் 
 
 ---?include=includes/Vaaimai.md
 
