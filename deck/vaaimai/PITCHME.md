@@ -1,6 +1,6 @@
 ---?include=includes/Vaaimai.md
 
-### வாய்மை : உள்ளத்தில் இருந்து வரும் உன்மை.
+### வாய்மை : உள்ளத்தில் இருந்து வரும் உண்மை.
 
 ---
 
@@ -9,7 +9,7 @@
 ---
 
 <h4 id="title">
-இனியவைகூறல்  - இனிமையாக பேச வேண்டும்.
+இனியவைக்கூறல்  - இனிமையாக பேச வேண்டும்.
 </h4>
 
 
@@ -36,7 +36,7 @@
 ---
 
 <h4 id="title">
-புறங்கூறாமை - புறம் பேச கூடாது 
+புறங்கூறாமை - புறம் பேசக் கூடாது 
 </h4>
 
 @img[height=550 , shadow](https://image.freepik.com/free-photo/business-executive-making-fun-colleague_1170-1903.jpg)
@@ -44,11 +44,11 @@
 
 ---?include=includes/Vaaimai.md
 
-### பேசுவதை சரியாக பயன்படுத்த வேண்டும்
+### பேச்சை சரியாக பயன்படுத்த வேண்டும்
 
 ---?include=includes/Vaaimai.md
 
-### பேச்சு சத்திய தன்மையுடன் இருக்க வேண்டும்
+### பேச்சு சத்தியத்தின் தன்மையுடன் இருக்க வேண்டும்
 
 ---?include=includes/Vaaimai.md
 
@@ -124,7 +124,7 @@
 
 @snap[west span-50 text-10 text-blue]
 
-நன்மைக்கு சொல்லிடும் பொய்மையும் அழகு 
+நன்மைக்கு சொல்லிடும் பொய்களும் அழகு 
 உண்மையில் அதுதான் மெய்யாய் அழகு 
 
 @snapend
@@ -300,7 +300,7 @@
 
 ---
 
-@img[height=650 , shadow](https://image.freepik.com/free-photo/young-excited-woman-with-bun-hairstyle-doing-fuck-you-bad-expression-frowning-with-pout-raising-hands-with-middle-fingers-isolated_295783-4068.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-woman-white-shirt-holding-hands-temples-looking-harried_176474-17508.jpg)
 
 ---
 
@@ -402,13 +402,13 @@
 ```java
 பொல்லாதவன் நெறி இல்லாதவன் 
 உண்மை சொல்லாதவன் 
-மண்ணில் ஏன் பிறந்தேன் 
+மண்ணில் ஏன் பிறக்கின்றான் 
 
 ```
 
 ---?include=includes/Vaaimai.md
 
-### வாய்மையை வாழ்கை நெறியாய் கடை பிடிப்போம் 
+### வாய்மையை வாழ்கை நெறியாய் கடைப்பிடிப்போம் 
 
 ---?include=includes/Vaaimai.md
 
