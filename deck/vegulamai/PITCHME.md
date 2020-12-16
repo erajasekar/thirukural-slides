@@ -1,427 +1,186 @@
 ---?include=includes/Vegulamai.md
 
-### வறுமையால் வந்து கேட்பவர்களுக்கு இல்லை என்று சொல்லாமல் கொடுத்தல்
+### வெகுளி : கோபம் 
+### வெகுளாமை : கோபப்படாமல் இருத்தல் 
 
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
-### அவர்களின் பசிக்கு உணவு கொடுத்தல்.
+### நமக்கு எப்ப கோபம் வருகிறது ?
 
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
-### கொடுத்தல் இரண்டு வகைப்படும் 
+### ஏன் கோபப் படக்கூடாது ?
 
-1. ஒப்புரவு
-2. ஈகை 
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+### கோபத்தை கட்டு படுத்த என்ன செய்யலாம் என்று தெரிந்து கொள்ள, இந்த காணொளியை முழுமையாக பாருங்கள் 
 
-### ஒப்புரவு : சமுதாயத்திற்கான தேவைகளை அறிந்து நிறைவு செய்வது.
-
----?include=includes/Eegai.md
-
-### ஈகை : தனிமனிதனின் தேவைகளை அறிந்து கொடுப்பது. 
-
----
-
-@img[height=600 , shadow](https://milisaburns.com/wp-content/uploads/2013/12/giveandtake-cover.jpg)
-
-
----
-
-@img[height=600 , shadow](https://www.lemonade.com/blog/wp-content/uploads/2017/11/types.png)
-
----
-
-@img[height=600, shadow](assets/img/giver.png)
-
----
-
-@img[height=600, shadow](assets/img/taker.png)
-
----
-
-@img[height=600, shadow](assets/img/matcher.png)
-
----
-
-@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
-
----?include=includes/Eegai.md
-
-### முடிவை தெரிந்து கொள்ள இந்த காணொளியை இறுதி வரை பாருங்கள் 
-
----?include=includes/Eegai.md
-
-### தீவினை செய்ய பயப்பட வேண்டும் - தீவினை செய்யாமை - தீவினை அச்சம்  
-
----?include=includes/Eegai.md
-
-### ஈகை : அறத்துப்பாலில் உள்ள  23-வது அதிகாரம் 
-
----?include=includes/Eegai.md
-
-### ஈகை என்றால் என்ன?
-
----?include=includes/Eegai.md
+---?include=includes/AranValiyuruthal.md
 
 ```
-வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்
-குறியெதிர்ப்பை நீர துடைத்து		( குறள் - 221)
+அழுக்கா றவாவெகுளி இன்னாச்சொல் நான்கும்
+இழுக்கா இயன்ற தறம்		( குறள் - 35)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> ஏதும் இல்லாதவர்க்குக் கொடுப்பதே ஈகை. பிற எல்லாம் கொடுத்ததைத் திரும்பப் பெறும் நோக்கம் உடையதே.
+### வெகுளாமை : அறத்துப்பாலில் உள்ள 31-தாவது அதிகாரம்
 
-@snapend
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+### எந்த இடத்தில் கோபத்தை அடக்க வேண்டும் ?
 
-### அடுத்தவர்களுக்கு கொடுத்தால் புண்ணியம் கிடைக்கும் என்பதற்காக கொடுக்க வேண்டுமா?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-நல்லா றெனினுங் கொளல்தீது மேலுலகம்
-இல்லெனினும் ஈதலே நன்று		( குறள் - 222)
+செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்
+காக்கினென் காவாக்கா லென்		( குறள் - 301)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> நல்லது தான் என்று எவரேனும் சொன்னாலும் பிறரிடம் ஒன்றைப் பெறுவது தீமை. ஏதும் இல்லாதார்க்குக் கொடுப்பதால் விண்ணுலகம் கிடைக்காது என்றாலும் கொடுப்பதே நல்லது.
+### நம்மை விட வலியவர்களிடம் கோபப்பட்டால் என்ன ஆகும்?
 
-@snapend
-
----?include=includes/Eegai.md
-
-### ஈதல் எப்படி இருக்க வேண்டும்?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-இலனென்னும் எவ்வம் உரையாமை ஈதல்
-குலனுடையான் கண்ணே யுள		( குறள் - 223)
+செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்
+இல்லதனின் தீய பிற		( குறள் - 302)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> தமக்குள்ள வறுமைத் துன்பத்தைக் காட்டிக்கொள்ளாமல் பிறருக்கு ஈவது உயர்ந்த குடிப்பிறந்தவரின் பண்பாகும். 
+### கோபத்தை அடக்க என்ன செய்யலாம் ?
 
-@snapend
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-இலனென்னும் எவ்வம் உரையாமை ஈதல்
-குலனுடையான் கண்ணே யுள		( குறள் - 223)
+மறத்தல் வெகுளியை யார்மாட்டுந் தீய
+பிறத்தல் அதனான் வரும்		( குறள் - 303)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> என்னிடம் இல்லை என்னும் துன்பச் சொல்லை ஒருவன் சொல்வதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு.
+### எதுக்காக கோபத்தை வேண்டும்?
 
-@snapend
-
----?include=includes/Eegai.md
-
-### வறுமையில் இருப்பவருக்கு கொடுக்கும் போது கொடுப்பவர் மனநிலை எப்படி இருக்க வேண்டும்?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-இன்னா திரக்கப் படுதல் இரந்தவர்
-இன்முகங் காணு மளவு		( குறள் - 224)
+நகையும் உவகையுங் கொல்லுஞ் சினத்தின்
+பகையும் உளவோ பிற		( குறள் - 304)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> கொடுக்க இருப்பவரின் நிலைகூட தம்மிடம் வந்து யாசித்து நிற்பவரின் மலர்ந்த  முகத்தைக் காணும் வரை கொடியது.
+### கோபத்தை அடக்க முடியாமல் போனால் என்னாகும் ?
 
-@snapend
-
----
-
-@img[height=600, shadow](assets/img/karnan-krishna2.png)
-
----?include=includes/Eegai.md
-
-### ஒருவரின் பசியை போக்குவது எவ்வளவு சிறந்தது?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-ஆற்றுவா ராற்றல் பசியாற்றல் அப்பசியை
-மாற்றுவா ராற்றலிற் பின்		( குறள் - 225)
+தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்
+தன்னையே கொல்லுஞ் சினம்		( குறள் - 305)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> பசியின் கொடுமையைத் தாங்கும் முனிவர்களின் ஆற்றல் பெரியதாம். அதனினும் பெரிய ஆற்றல் மற்றவரின் பசியைப் போக்குபவரின் ஆற்றலே.
+### கோபப்படுவதால் என்ன தீமை வரும் ?
 
-@snapend
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-begging-overpass_1150-22914.jpg)
-
----?include=includes/Eegai.md
-
-### நமக்கு எதிர்காலத்தில் பயன்படும் மாதிரியாக சேர்த்துவைக்க வேண்டுமென்றால் எப்படி சேர்த்துவைப்பது?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்
-பெற்றான் பொருள்வைப் புழி		( குறள் - 226)
+சினமென்னுஞ் சேர்ந்தாரைக் கொல்லி இனமென்னும்
+ஏமப் புணையைச் சுடும்		( குறள் - 306)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> ஏதும் இல்லாதவரின் கடும்பசியைத் தீர்த்து வையுங்கள். அதுவே பொருள் பெற்ற  ஒருவன் அப்பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.
+### கோபப் படுகிறவர்களுக்கு தீமைதான் வரும்னு என்ன நிச்சயம் ?
 
-@snapend
-
----?include=includes/Eegai.md
-
-### நம் பசிக்கு உணவு இல்லை என்ற நிலைமை வராமல் இருக்க நாம் என்ன செய்ய வேண்டும்?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-பாத்தூண் மரீஇ யவனைப் பசியென்னுந்
-தீப்பிணி தீண்ட லரிது		( குறள் - 227)
+சினத்தைப் பொருளென்று கொண்டவன் கேடு
+நிலத்தறைந்தான் கைபிழையா தற்று		( குறள் - 307)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> மற்றவர் பசிக்கு உணவு தருபவர்களுக்கு அவர்கள் பசித்திருக்க உணவு இல்லாமல் போகின்ற நிலைமை வருவதில்லை.
+### எனக்கு கோபம் வர மாதிரி ஒருவர் தொடர்ந்து ஏதாவது செய்து கொண்டு இருந்தால், நான் எப்படி பொறுத்து கொள்வது ?
 
-@snapend
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/begging-bridge-with-person-who-handed-bread_1150-22948.jpg)
-
----?include=includes/Eegai.md
-
-### மற்றவரிடமிருந்து வாங்குவது இன்பமா? மற்றவருக்கு கொடுப்பது இன்பமா?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை
-வைத்திழக்கும் வன்க ணவர்		( குறள் - 228)
+இணரெரி தோய்வன்ன இன்னா செயினும்
+புணரின் வெகுளாமை நன்று		( குறள் - 308)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> மற்றவர்களுக்குக் கொடுத்து அந்த மலர்ந்த முகத்தைப் பார்ப்பதால் வரும் இன்பமே பேரின்பம்.அந்த இன்பத்தை அறியாதவர்கள் பொருளை சேமித்து வைத்து பின் அதை இழந்துவிடுவர்.
+### கோபத்தை கட்டுப்படுத்தினால் என்ன நன்மை வரும் ?
 
-@snapend
-
----
-
-@img[height=600, shadow](assets/img/giver-taker-match-who-wins.png)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/environment-volunteer-concept-with-women-holding-boxes-donations_23-2147807216.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/handsome-man-taking-lot-money_1368-1012.jpg)
-
----
-
-@img[height=600, shadow](https://dantegroup.ca/wp-content/uploads/2019/05/3-types.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/eco-concept-with-group-volunteers_23-2147807208.jpg)
-
----
-
-@img[height=400, shadow](https://i1.wp.com/malissagreenwood.com/wp-content/uploads/2018/07/Give-And-Take-book-Review-quotes.png)
-
----
-
-@img[height=600, shadow](assets/img/scott-charity-water.png)
-
----
-
-@img[height=600, shadow](assets/img/scott-birthday.png)
-
----
-
-@img[height=600, shadow](https://upload.wikimedia.org/wikipedia/commons/0/09/Scott_Harrison_2010.jpg)
-
----
-
-@img[height=600, shadow](assets/img/charity-water1.jpg)
-
----
-
-@img[height=400, shadow](assets/img/charity-water2.png)
-
----
-
-@img[height=600, shadow](assets/img/charity-water3.png)
-
----?include=includes/Eegai.md
-
-### வறுமையில் இருப்பவர்களுக்கு கொடுக்காமல் தானே வைத்துக்கொள்ள வேண்டும் என்று நினைப்பது எப்படிப்பட்டது?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-இரத்தலின் இன்னாது மன்ற நிரப்பிய
-தாமே தமிய ருணல்		( குறள் - 229)
+உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்
+உள்ளான் வெகுளி யெனின்		( குறள் - 309)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> பொருளைப் பெருக்க எண்ணி, எவருக்கும்  தராமல், தானே தனித்து உண்பது, பிறரிடம் கை ஏந்துவதை விடக் கொடியது.
+### கோபப் படுகிறவர்கள் , கோபப் படாதவர்கள் , இந்த இருவருக்கும் என்ன வித்யாசம் ?
 
-@snapend
-
----?include=includes/Eegai.md
-
-### வறுமையில் துன்பப்படுபவர்களுக்கு உதவி செய்ய முடியாத நிலை எப்படிப்பட்டது?
-
----?include=includes/Eegai.md
+---?include=includes/Vegulamai.md
 
 ```
-சாதலின் இன்னாத தில்லை இனிததூஉம்
-ஈத லியையாக் கடை		( குறள் - 230)
+இறந்தார் இறந்தா ரனையர் சினத்தைத்
+துறந்தார் துறந்தார் துணை		( குறள் - 310)
 
 ```
 
-@snap[span-100 text-08 text-left]
+---?include=includes/Vegulamai.md
 
-> சாவு எனும் துன்பத்தை விட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது.
+கோபமும் பொறுமை  இம்மையம் புரிந்துணர்வின் எதிரிகள் - மகாத்மா காந்தி 
 
-@snapend
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+கோபம் இருக்கும் போது தீர்ப்பு சொல்லாதீர்கள் - நபிகள் நாயகம்.
 
-### எல்லா நேரங்களிலும் கொடுக்கும் படியான சூழ்நிலை அமையுமா? 
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+கோபப் படும்போதெல்லாம், நம் எதிரிகள் வெற்றி அடைகிறார்கள் 
 
-### நமக்கு ஒரு உதவி தேவைப்படும் போது என்னசெய்வது?
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+கோபம் கொண்டாலும், பாபம் செய்யாதீர்கள் - பைபிள் 
 
-### மற்றவர் செய்த உதவியால் பயனடைந்த நாம் அடுத்தவர்களுக்கு உதவி செய்ய வேண்டும் 
+---?include=includes/Vegulamai.md
 
----?include=includes/Eegai.md
+ரௌத்திரம் பழகு - பாரதியார்  
 
+---?include=includes/Vegulamai.md
 
-> Pay it forward : நமக்கு உதவி செய்தவருக்கு நம்மால் நேரடியா உதவி செய்ய முடியாவிட்டாலும் இனொருவருக்கு எந்த எதிர்பார்ப்பும் இல்லாமல் உதவி செய்ய வேண்டும் 
+### கோபத்தை எப்படி வழிபாட்டுத்தலம் ?
 
+---?include=includes/Vegulamai.md
 
----
+```
+கொன்றன்ன இன்னா செயினும் அவர்செய்த
+ஒன்றுநன்று உள்ளக் கெடும்.
+```
 
-@img[height=600, shadow](assets/img/payforward1.jpg)
+---?include=includes/Vegulamai.md
 
----
-
-@img[height=600, shadow](assets/img/payforward2.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/man-sitting-beggars-with-homeless-please-help-message_1150-22911.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward4.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward5.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward6.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward10.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward8.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward9.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward3.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward14.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward12.jpg)
-
----
-
-@img[height=600, shadow](assets/img/payforward13.jpg)
-
----?include=includes/Eegai.md
-
-### சம்பாதிக்கும் பணம் எனக்கே சரியா இருக்கும் போது நான் எப்படி, மற்றவர்களுக்கு கொடுப்பது?
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/business-man-displaying-spread-dollar_1232-2869.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/female-hand-with-credit-card-bank-terminal-card-machine-pos-terminal-with-inserted-blank-white-credit-card-isolated-black-background_1391-255.jpg)
-
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/jar-savings-orange-background_23-2147931191.jpg)
-
----
-@img[height=600, shadow](https://image.freepik.com/free-photo/portrait-successful-smiling-man-holding-wallet_171337-17565.jpg)
-
-
----
-@img[height=600, shadow](https://image.freepik.com/free-photo/confused-bearded-man-shouting-standing-blackboard-backgro_176420-2935.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/young-man-giving-cash_171337-15100.jpg)
-
----
-
-@img[height=600, shadow](assets/img/work-hard2.jpg)
-
----
-
-@img[height=600, shadow](https://image.freepik.com/free-photo/happy-successful-businessman_53876-89038.jpg)
-
----?include=includes/Eegai.md
-
+### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 @img[width=200, height=200](assets/img/comment-button.png)
 
 உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
