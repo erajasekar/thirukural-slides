@@ -11,6 +11,25 @@
 
 ### ஏன் கோபப் படக்கூடாது ?
 
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/automobile-accident-street_158538-10306.jpg)
+
+---
+@img[height=650 , shadow](https://image.freepik.com/free-photo/frustrated-man-driving-car_231208-858.jpg)
+
+---
+
+@img[height=650 , shadow](https://marketplace.canva.com/McV-Y/MAEJUNMcV-Y/1/s2/canva-crowd-of-people-on-street-opposing-politics-MAEJUNMcV-Y.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/multi-ethnic-young-couple-standing-face-face-screaming-against-whit-background_23-2148151680.jpg)
+
+---
+
+@img[height=650 , shadow]((assets/img/anger-health.png))
+
 ---?include=includes/Vegulamai.md
 
 ### கோபத்தை கட்டு படுத்த என்ன செய்யலாம் என்று தெரிந்து கொள்ள, இந்த காணொளியை முழுமையாக பாருங்கள் 
@@ -22,6 +41,9 @@
 இழுக்கா இயன்ற தறம்		( குறள் - 35)
 
 ```
+---?include=includes/Vegulamai.md
+
+### அழுக்காறாமை : பொறாமைப் பட கூடாது.
 
 ---?include=includes/Vegulamai.md
 
