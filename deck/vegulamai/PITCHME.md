@@ -24,11 +24,11 @@
 
 ---
 
-@img[height=650 , shadow](https://image.freepik.com/free-photo/multi-ethnic-young-couple-standing-face-face-screaming-against-whit-background_23-2148151680.jpg)
+@img[height=550 , shadow](https://image.freepik.com/free-photo/multi-ethnic-young-couple-standing-face-face-screaming-against-whit-background_23-2148151680.jpg)
 
 ---
 
-@img[height=650 , shadow]((assets/img/anger-health.png))
+@img[height=650 , shadow](assets/img/anger-health.png)
 
 ---?include=includes/Vegulamai.md
 
@@ -60,6 +60,27 @@
 காக்கினென் காவாக்கா லென்		( குறள் - 301)
 
 ```
+
+---
+
+@img[height=650 , shadow](https://upload.wikimedia.org/wikipedia/commons/1/11/Snunit_Shoham_retirement_event.jpg)
+
+
+---
+
+@img[height=650 , shadow](https://digileaders.com/wp-content/uploads/2018/10/33222076135_016605349c_o-e1525340076328-1024x558-e1540911625625-740x430.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/adult-daughter-talking-with-parents_1398-4696.jpg)
+
+---
+
+@img[height=650 , shadow](https://marketplace.canva.com/APHXo/MAD8V7APHXo/1/s2/canva-adult-bearded-mechanic-fixing-metal-part-of-car-on-street-near-garage-MAD8V7APHXo.jpg)
+
+---?include=includes/Vegulamai.md
+
+### கோபம் செல்லக்கூடிய இடத்தில கோபத்தை அடக்க வேண்டும் 
 
 ---?include=includes/Vegulamai.md
 
