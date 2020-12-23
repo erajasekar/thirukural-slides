@@ -142,6 +142,38 @@
 
 ```
 
+---
+
+@img[height=350 , shadow](https://im.rediff.com/movies/2018/nov/24duryodhana-2.jpg)
+
+---
+
+@snap[west span-50]
+
+@img[height=450 , shadow](https://i1.wp.com/90rollsroyces.com/wp-content/uploads/2019/07/screen-shot-2019-07-28-at-10.46.12-am.png)
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=300 , shadow](https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/3d/d1/48/3dd148d3b9251e9128d0ca31bdda178e8d0c1a9f91a4c843cc34fda12f176fb0.jpg)
+
+@snapend
+
+---
+
+@img[height=350 , shadow](https://static.wikia.nocookie.net/mahabharata/images/5/51/Dharmaraj_Yudhishthir.jpg)
+
+கண் மலரில் கை படாதோ ?
+
+---
+
+@img[height=350 , shadow](https://hinduperspective.files.wordpress.com/2013/02/war_ethics6.jpg)
+
+---
+
+@img[height=500 , shadow](https://images.indianexpress.com/2018/11/puneet-issar-759.jpg)
+
 ---?include=includes/Vegulamai.md
 
 ### கோபப் படுகிறவர்களுக்கு தீமைதான் வரும்னு என்ன நிச்சயம் ?
@@ -165,6 +197,11 @@
 புணரின் வெகுளாமை நன்று		( குறள் - 308)
 
 ```
+
+---
+
+@img[height=500 , shadow](https://i.pinimg.com/originals/2d/c9/3a/2dc93aa66c385d72dbe84d621a9aa399.png)
+
 
 ---?include=includes/Vegulamai.md
 
