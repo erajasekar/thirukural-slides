@@ -30,9 +30,15 @@
 
 @img[height=650 , shadow](assets/img/anger-health.png)
 
----?include=includes/Vegulamai.md
+---
 
-### கோபத்தை கட்டு படுத்த என்ன செய்யலாம் என்று தெரிந்து கொள்ள, இந்த காணொளியை முழுமையாக பாருங்கள் 
+@snap[north span-100]
+கோபத்தை கட்டு படுத்த என்ன செய்யலாம் என்று தெரிந்து கொள்ள, இந்த காணொளியை முழுமையாக பாருங்கள் 
+@snapend
+
+@snap[south span-100]
+@img[height=350 , shadow](https://image.freepik.com/free-photo/it-s-forbidden-angry-displeased-young-male-frowns-face-shows-stop-gesture-keeps-palm-front-tries-prevent-himeself-from-something-bad-unpleasant-wears-casual-t-shirt-isolated-white_273609-16264.jpg)
+@snapend
 
 ---?include=includes/AranValiyuruthal.md
 
@@ -64,6 +70,14 @@
 ---
 
 @img[height=650 , shadow](https://upload.wikimedia.org/wikipedia/commons/1/11/Snunit_Shoham_retirement_event.jpg)
+
+---
+
+@img[height=650 , shadow](https://marketplace.canva.com/jQ_DU/MAD-IpjQ_DU/1/s2/canva-coworkers-talking-at-a-cafe-MAD-IpjQ_DU.jpg)
+
+---
+
+@img[height=650 , shadow](https://marketplace.canva.com/xuZeI/MAD7qVxuZeI/1/s2/canva-couple-talking-on-couch-MAD7qVxuZeI.jpg)
 
 
 ---
@@ -144,6 +158,8 @@
 
 ---
 
+### துரியோதனன்
+
 @img[height=350 , shadow](https://im.rediff.com/movies/2018/nov/24duryodhana-2.jpg)
 
 ---
@@ -162,6 +178,8 @@
 
 ---
 
+### தர்மன்
+
 @img[height=350 , shadow](https://static.wikia.nocookie.net/mahabharata/images/5/51/Dharmaraj_Yudhishthir.jpg)
 
 கண் மலரில் கை படாதோ ?
@@ -171,6 +189,8 @@
 @img[height=350 , shadow](https://hinduperspective.files.wordpress.com/2013/02/war_ethics6.jpg)
 
 ---
+
+### துரியோதனன்
 
 @img[height=500 , shadow](https://images.indianexpress.com/2018/11/puneet-issar-759.jpg)
 
@@ -227,29 +247,161 @@
 
 ```
 
+---
+
+@snap[north span-100]
+### மகாத்மா காந்தி
+@snapend
+
+@snap[west span-50]
+
+கோபமும் பொறுமை  இம்மையம் புரிந்துணர்வின் எதிரிகள் 
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=450 , shadow](assets/img/gandhi1.png)
+
+@snapend
+
+
+---
+
+### நபிகள் நாயகம்
+
+> கோபம் இருக்கும் போது தீர்ப்பு சொல்லாதீர்கள்.
+
 ---?include=includes/Vegulamai.md
 
-கோபமும் பொறுமை  இம்மையம் புரிந்துணர்வின் எதிரிகள் - மகாத்மா காந்தி 
+### கோபம் முட்டாள் தனத்தில் துவங்கி வறுத்த படுவதில் முடிகிறது 
 
 ---?include=includes/Vegulamai.md
 
-கோபம் இருக்கும் போது தீர்ப்பு சொல்லாதீர்கள் - நபிகள் நாயகம்.
+### கோபப் படும்போதெல்லாம், நம் எதிரிகள் வெற்றி அடைகிறார்கள் 
 
 ---?include=includes/Vegulamai.md
 
-கோபப் படும்போதெல்லாம், நம் எதிரிகள் வெற்றி அடைகிறார்கள் 
+### கோபமே பட கூடாதா?
 
----?include=includes/Vegulamai.md
+---
 
-கோபம் கொண்டாலும், பாபம் செய்யாதீர்கள் - பைபிள் 
+@img[height=550 , shadow](https://cdn.theatlantic.com/thumbor/_kChooD4AXieQnkZzL6MCBcZdh0=/0x540:2431x1907/720x405/media/img/2017/10/AP_4201081140/original.jpg)
 
----?include=includes/Vegulamai.md
+---
 
-ரௌத்திரம் பழகு - பாரதியார்  
+@snap[north span-100]
+### பைபிள்
+@snapend
+
+@snap[west span-50]
+
+கோபம் கொண்டாலும், பாபம் செய்யாதீர்கள்! 
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=450 , shadow](https://um-insight.net/downloads/313/download/Holy-Bible.jpg?cb=d7c66cda21ffa0b59262145100eec59f)
+
+@snapend
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-businesswoman-with-stop-hand-isolated-white_231208-2036.jpg)
+
+---
+
+@snap[north span-100]
+### பாரதியார்
+@snapend
+
+@snap[west span-50 text-12]
+
+ரௌத்திரம் பழகு
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=400 , shadow](assets/img/bharathiyar1.png)
+
+@snapend
 
 ---?include=includes/Vegulamai.md
 
 ### கோபத்தை எப்படி வழிபாட்டுத்தலம் ?
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/serious-caucasian-woman-standing-near-copyspace-showing-stop-gesture_171337-11441.jpg)
+
+---
+
+@snap[north span-100]
+### ஔவையார்
+@snapend
+
+@snap[west span-50 text-12]
+
+ஆறுவது சினம்
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=300 , shadow](assets/img/avaiyar1.jpg)
+
+@snapend
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/furious-angry-european-man-clenches-teeth-fists-with-rage-tries-control-his-negative-emotions_273609-16747.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-woman-hiding-round-wall-clock_1187-5003.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/photo-angry-outraged-young-female-author-records-information-with-irritated-expression-clenches-teeth-from-anger-holds-pen-spiral-notebook_273609-24110.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/portrait-pensive-young-girl-making-notes_171337-1646.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-woman-sitting-rock-enjoying-nature-against-sky_23-2148139753.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-woman-walking-towards-sea_23-2147833181.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/friends-are-sitting-chatting-couch_344912-1139.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/worried-girl-with-her-phone-hand_1163-356.jpg)
+
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/woman-cleaning-kitchen-with-vacuum-cleaner_23-2148394911.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/young-family-conflict-young-wife-having-conflict-with-husband_1398-3480.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/horizontal-shot-pleased-woman-looks-husband-who-has-pleading-expression-holds-her-hand-wear-red-clothes-have-pleasant-talk-isolated-white-background-people_273609-25080.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/pretty-woman-with-closed-eyes-keeps-hands-chest-expresses-her-sympathy-someone-being-thankful-close-friend_176532-9561.jpg)
 
 ---?include=includes/Vegulamai.md
 
@@ -260,7 +412,6 @@
 
 ---?include=includes/Vegulamai.md
 
-### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
 @img[width=200, height=200](assets/img/comment-button.png)
 
 உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.
