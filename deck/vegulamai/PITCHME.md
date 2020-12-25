@@ -81,7 +81,7 @@
 
 ---
 
-@img[height=650 , shadow](https://marketplace.canva.com/APHXo/MAD8V7APHXo/1/s2/canva-adult-bearded-mechanic-fixing-metal-part-of-car-on-street-near-garage-MAD8V7APHXo.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/electronic-gadgets-paperwork-people-occupation-lifestyle-concept-picture-stylish-bald-mature-man-with-white-beard-managing-business-remotely-reading-papers-using-laptop-computer_343059-4250.jpg)
 
 ---?include=includes/Vegulamai.md
 
