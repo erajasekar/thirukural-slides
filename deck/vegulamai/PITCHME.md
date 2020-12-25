@@ -5,7 +5,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### நமக்கு எப்ப கோபம் வருகிறது ?
+### நமக்கு எப்போது கோபம் வருகிறது ?
 
 ---?include=includes/Vegulamai.md
 
@@ -77,15 +77,6 @@
 
 ---
 
-@img[height=650 , shadow](https://marketplace.canva.com/xuZeI/MAD7qVxuZeI/1/s2/canva-couple-talking-on-couch-MAD7qVxuZeI.jpg)
-
-
----
-
-@img[height=650 , shadow](https://digileaders.com/wp-content/uploads/2018/10/33222076135_016605349c_o-e1525340076328-1024x558-e1540911625625-740x430.jpg)
-
----
-
 @img[height=650 , shadow](https://image.freepik.com/free-photo/adult-daughter-talking-with-parents_1398-4696.jpg)
 
 ---
@@ -122,7 +113,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### எதுக்காக கோபத்தை வேண்டும்?
+### எதற்காக கோபத்தை வேண்டும்?
 
 ---?include=includes/Vegulamai.md
 
@@ -134,7 +125,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### கோபத்தை அடக்க முடியாமல் போனால் என்னாகும் ?
+### கோபத்தை அடக்க முடியாமல் போனால் என்ன ஆகும் ?
 
 ---?include=includes/Vegulamai.md
 
@@ -196,7 +187,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### கோபப் படுகிறவர்களுக்கு தீமைதான் வரும்னு என்ன நிச்சயம் ?
+### கோபப் படுகிறவர்களுக்கு தீமைதான் வரும் என்று என்ன நிச்சயம் ?
 
 ---?include=includes/Vegulamai.md
 
@@ -237,7 +228,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### கோபப் படுகிறவர்கள் , கோபப் படாதவர்கள் , இந்த இருவருக்கும் என்ன வித்யாசம் ?
+### கோபப் படுகிறவர்கள் , கோபப் படாதவர்கள் , இந்த இருவருக்கும் என்ன வித்தியாசம் ?
 
 ---?include=includes/Vegulamai.md
 
@@ -255,7 +246,7 @@
 
 @snap[west span-50]
 
-கோபமும் பொறுமை  இம்மையம் புரிந்துணர்வின் எதிரிகள் 
+கோபமும், பொறுமையின்மையும் புரிந்துணர்வின் எதிரிகள் 
 
 @snapend
 
@@ -330,7 +321,7 @@
 
 ---?include=includes/Vegulamai.md
 
-### கோபத்தை எப்படி வழிபாட்டுத்தலம் ?
+### கோபத்தை எப்படி வழிபடுத்தலம் ?
 
 ---
 
