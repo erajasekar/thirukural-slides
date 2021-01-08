@@ -1,123 +1,108 @@
 
-@img[height=650 , shadow](assets/img/tell-story1.png)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/confident-young-businessman-suit-standing-with-arms-folded_171337-18599.jpg)
 
 ---
 
-@img[height=650 , shadow](https://image.freepik.com/free-vector/robber-thief-broke-window-glass-holding-small-money-bag-cartoon-isolated_1308-50332.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/man-suit-shouting-gesturing-with-hands_171337-18609.jpg)
 
 ---
 
-@img[height=650 , shadow](assets/img/Monk-thief.png)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/angry-businessman-suit-shouting-pointing-finger_171337-18621.jpg)
 
 ---
 
-@img[height=650, shadow](https://image.freepik.com/free-photo/view-palacio-de-cibeles-evening-madrid_1398-2170.jpg)
+@img[height=650, shadow](https://image.freepik.com/free-photo/cropped-image-smiling-bearded-man-business-clothes_171337-11371.jpg)
 
 ---
 
-@img[height=650, shadow](https://image.freepik.com/free-vector/castle-staircase-illustration_33099-2331.jpg)
+@img[height=650, shadow](https://image.freepik.com/free-photo/senior-man-wearing-white-shirt_273609-22277.jpg)
 
 ---
 
-@img[height=550 , shadow](assets/img/king-black.png)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/angry-businessman-suit-shouting-pointing-finger_171337-18621.jpg)
 
 ---
 
-@img[height=550 , shadow](assets/img/king-theif.png)
+@img[height=650, shadow](https://image.freepik.com/free-photo/cropped-image-smiling-bearded-man-business-clothes_171337-11371.jpg)
 
 ---
 
-@img[height=650, shadow](https://c1.wallpaperflare.com/preview/457/761/318/treasure-chest-chest-jewellery-open.jpg)
+@img[height=550 , shadow](assets/img/Ramesh-Periyappa1.png)
 
 ---
 
-@img[height=650, shadow](https://i1.pickpik.com/photos/953/584/963/jewellery-earrings-necklace-silver-preview.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/angry-businessman-suit-shouting-pointing-finger_171337-18621.jpg)
 
 ---
 
-@img[height=550 , shadow](assets/img/VaaimaiStory4.png)
+@img[height=650, shadow](https://image.freepik.com/free-photo/cropped-image-smiling-bearded-man-business-clothes_171337-11371.jpg)
 
 ---
 
-@img[height=650, shadow](https://cdn.pixabay.com/photo/2014/12/21/23/25/box-575335__340.png)
+@img[height=650, shadow](https://image.freepik.com/free-photo/senior-man-wearing-white-shirt_273609-22277.jpg)
 
 ---
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-interior-flat-cartoon-composition-with-king-throne-armed-knight-coat-arms-guard_1284-27798.jpg)
+@img[height=650, shadow](https://image.freepik.com/free-photo/elevated-view-hammer-with-many-bolts-wooden-background_23-2147865383.jpg)
 
 ---
 
-@img[height=650, shadow](https://snappygoat.com/b/1dbdd46b72827aa77fd77900a57101f93590a067)
+@img[height=650 , shadow](https://marketplace.canva.com/MADGvx2V2vg/7/screen_2x/canva-person-holding-curved-claw-hammer-MADGvx2V2vg.jpg)
 
 ---
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-interior-cartoon-banner-with-king-throne-lord-lady-knight-guard-horn-blower_1284-27803.jpg)
+@img[height=650, shadow](https://snappygoat.com/b/a6a444c4be6284e5b70c09ae9c69cab2491e75a3)
 
 ---
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-throne-room-ballroom-interior-with-knights-armor-both-sides-king_33099-892.jpg)
+@img[height=550 , shadow](assets/img/Ramesh-Periyappa1.png)
 
 ---
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-hall-interior-with-king-throne-holding-stolen-treasure-kneeling-servant-cartoon_1284-27800.jpg)
-
----
-
-@img[height=650 , shadow](assets/img/Monk-thief.png)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/close-up-man-hitting-nail-by-hammer_329181-3740.jpg)
 
 
 ---
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-hall-interior-with-king-throne-holding-stolen-treasure-kneeling-servant-cartoon_1284-27800.jpg)
-
----
-
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-interior-cartoon-banner-with-king-throne-lord-lady-knight-guard-horn-blower_1284-27803.jpg)
-
----
-
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-throne-room-ballroom-interior-with-knights-armor-both-sides-king_33099-892.jpg)
-
----
-
-@img[height=550 , shadow](https://image.freepik.com/free-vector/throne-room-with-king-his-severe-guard_33099-948.jpg)
-
----
-
-@img[height=500 , shadow](https://image.freepik.com/free-vector/medieval-castle-hall-interior-with-king-throne-holding-stolen-treasure-kneeling-servant-cartoon_1284-27800.jpg)
-
----
-
-@img[height=650 , shadow](assets/img/Monk-thief.png)
+@img[height=650 , shadow](https://snappygoat.com/b/8de20fb116cc7decbb08835a661efc6780f9d2f1)
 
 
 ---
 
-@img[height=500 , shadow](https://image.freepik.com/free-vector/medieval-castle-hall-interior-with-king-throne-holding-stolen-treasure-kneeling-servant-cartoon_1284-27800.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/high-angle-view-two-hammers-old-wooden-desk_23-2147865534.jpg)
+
 
 ---
 
-@img[height=500 , shadow](https://image.freepik.com/free-vector/vector-pop-art-illustration-medieval-knight-steel-armor-with-iron-sword_1441-608.jpg)
+@img[height=650 , shadow](https://image.freepik.com/free-photo/smiling-bearded-man-shirt-showing-thumb-up_171337-5020.jpg)
+
+---
+
+@img[height=550 , shadow](assets/img/Ramesh-Periyappa1.png)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/old-vintage-planked-wood-board-with-holes_23-2148327705.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/angry-businessman-suit-shouting-pointing-finger_171337-18621.jpg)
+
+---
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/beautiful-male-half-length-portrait-isolated-green-studio-backgroud_155003-17857.jpg)
 
 
----?include=includes/Vaaimai.md
+---?include=includes/Adakamudaimai.md
 
 ```
-பொய்யாமை யன்ன புகழில்லை எய்யாமை
-எல்லா அறமுந் தரும்		( குறள் - 296)
+தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே
+நாவினாற் சுட்ட வடு		( குறள் - 129)
 
 ```
----
 
+@snap[span-100 text-08 text-left]
 
-@img[height=550 , shadow](https://image.freepik.com/free-vector/medieval-castle-hall-interior-with-king-throne-holding-stolen-treasure-kneeling-servant-cartoon_1284-27800.jpg)
+> தீயினால் சுட்ட புண்கூட ஆறி விடும். ஆனால் வெறுப்புக் கொண்டு திட்டிய சொற்கள் விளைத்த துன்பம் ஆறவே ஆறாது.
 
----
-
-@img[height=550 , shadow](https://image.freepik.com/free-vector/vector-pop-art-illustration-medieval-knight-steel-armor-with-iron-sword_1441-608.jpg)
-
----
-
-@img[height=650 , shadow](assets/img/tell-story1.png)
-
----
+@snapend
