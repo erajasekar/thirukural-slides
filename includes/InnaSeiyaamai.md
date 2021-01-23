@@ -7,7 +7,7 @@
 
 <h4 id="title"> திருக்குறள் </h4>
 
-##### இன்னா செய்யாமை 
+##### இன்னா செய்யாமை
 @snapend
 
 @snap[north-east span-25 text-08]
