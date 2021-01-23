@@ -1,11 +1,49 @@
 
 ---?include=includes/InnaSeiyaanai.md 
 
-### <ADHIGHARAM INTRO> 
+### இன்னா செய்யாமை : யாருக்கும் எந்த தீமையும் செய்யாமல் இருத்தல்  
 
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 311 INTRO> 
+### நாம் எந்த உயிருக்கும் துன்பம் செய்ய கூடாது 
+
+---
+
+@img[height=500, shadow](assets/img/gandhi-tolstoy1.png)
+
+---
+
+@img[height=500, shadow](assets/img/gandhi-tolstoy2.png)
+
+---
+
+@img[height=500, shadow](assets/img/gandhi-valluvar.png)
+
+---
+
+@snap[north span-100]
+### பாரதியார்
+@snapend
+
+@snap[west span-50 text-12]
+
+வள்ளுவர் தன்னை உலகினுக்கே தந்து வான் புகழ் கொண்ட தமிழ்நாடு 
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=400 , shadow](assets/img/bharathiyar1.png)
+
+@snapend
+
+---?include=includes/InnaSeiyaanai.md 
+
+### இன்னா செய்யாமை : அறத்துப்பாலில் உள்ள 32-தாவது அதிகாரம்
+
+---?include=includes/InnaSeiyaanai.md 
+
+### நாம நல்லா இருப்பதற்காக அடுத்தவர்களுக்கு தீமை செய்யலாமா ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -15,7 +53,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 312 INTRO> 
+### நமக்கு ஒருவர் தீமை செய்தால் என்ன செய்வது?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -25,7 +63,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 313 INTRO> 
+### நமக்கு தீமை செய்தவர்களுக்கு நாமும் தீமை செய்தால் என்னாகும் ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -35,7 +73,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 314 INTRO> 
+### நமக்கு தீமை செய்பவர்களை நாம் எப்படி தண்டிப்பது ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -45,7 +83,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 315 INTRO> 
+### இது நடைமுறையில் சாத்தியமா ? 
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -55,7 +93,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 316 INTRO> 
+### அடுத்தவர்கள் செய்த தீமை என்னை காயப்படுத்தும் போது என்ன செய்வது ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -63,9 +101,28 @@
 இன்னா எனத்தா னுணர்ந்தவை துன்னாமை
 வேண்டும் பிறன்கட் செயல்		( குறள் - 316)
 ```
+
+---
+
+@snap[north span-100]
+### பாரதியார்
+@snapend
+
+@snap[west span-50 text-12]
+
+பகைவனுக் கருள்வாய்-நன்னெஞ்சே!
+
+@snapend
+
+@snap[east span-50]
+
+@img[height=400 , shadow](assets/img/bharathiyar1.png)
+
+@snapend
+
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 317 INTRO> 
+### நாம் எப்படி வாழ வேண்டும் ? 
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -75,7 +132,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 318 INTRO> 
+### அடுத்தவர்ககுளுக்கு தீமை செய்பவர்களை பார்த்து வள்ளுவர் என்ன கேள்வி கேட்கிறார் ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -85,7 +142,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 319 INTRO> 
+### அடுத்தவர்களுக்கு தீமை செய்பவருக்கு என்ன நடக்கும் ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -95,7 +152,7 @@
 ```
 ---?include=includes/InnaSeiyaanai.md 
 
-### <KURAL 320 INTRO> 
+### யாரு தீமை செய்ய கூடாது ?
 
 ---?include=includes/InnaSeiyaanai.md 
 
@@ -103,17 +160,25 @@
 நோயெல்லா நோய்செய்தார் மேலவா நோய்செய்யார்
 நோயின்மை வேண்டு பவர்		( குறள் - 320)
 ```
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-<CONCLUSION>
+---
 
-</div>
+STORY INTRO IMAGE
 
-@snapend
+---
 
+STORY IMAGE
+
+---
+
+LOVE IMAGE
+
+---
+
+FORGOT AND FORGIVE IMAGE
+
+---
 
 ---?include=includes/InnaSeiyaanai.md 
-
 
 @img[width=200, height=200](assets/img/comment-button.png)
 
