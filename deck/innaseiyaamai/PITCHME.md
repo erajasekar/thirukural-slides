@@ -165,17 +165,21 @@
 
 ---
 
-STORY IMAGE
+@img[height=500 , shadow](assets/img/ScorpioStory.png)
 
 ---
 
-LOVE IMAGE
+@img[height=650 , shadow](https://image.freepik.com/free-photo/beautiful-positive-friendly-looking-young-mixed-race-woman-with-lovely-sincere-smile-feeling-thankful-grateful-showing-her-heart-filled-with-love-gratitude-holding-hands-her-breast_273609-7413.jpg)
 
 ---
 
-FORGOT AND FORGIVE IMAGE
+@snap[north span-100 text-12 text-orange]
 
----
+அடுத்தவர்கள் செய்த தீமையை மன்னிப்போம்!
+
+@snapend
+
+@img[height=650 , shadow](https://image.freepik.com/free-photo/human-hands-open-palm-up-worship_1150-7243.jpg)
 
 ---?include=includes/InnaSeiyaamai.md
 
