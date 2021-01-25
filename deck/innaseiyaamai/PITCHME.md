@@ -42,7 +42,7 @@
 
 ---?include=includes/InnaSeiyaamai.md
 
-### நாம நல்லா இருப்பதற்காக அடுத்தவர்களுக்கு தீமை செய்யலாமா ?
+### நாம் நல்லா இருப்பதற்காக அடுத்தவர்களுக்கு தீமை செய்யலாமா ?
 
 ---?include=includes/InnaSeiyaamai.md
 
