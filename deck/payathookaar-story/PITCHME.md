@@ -2,32 +2,40 @@
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyNzc5ODIx/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-2.jpg)
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyNzE0Mjg1/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-3.jpg)
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyNjQ4NzQ5/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-4.jpg)
 
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyNTE3Njc3/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-5.jpg)
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyNTgzMjEz/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-6.jpg)
 
 ---
 
-@img[height=600 , shadow](assets/img/FoxCraneFinal.png)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-7.jpg)
 
 ---
 
-@img[height=600 , shadow](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc2MjY4NDk3MzIyODQ1MzU3/the-fox-and-the-stork.webp)
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-8.jpg)
+
+---
+
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-9.jpg)
+
+---
+
+@img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-10.jpg)
 
 
 ---?include=includes/InnaSeiyaamai.md
