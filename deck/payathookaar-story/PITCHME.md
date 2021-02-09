@@ -38,10 +38,11 @@
 @img[height=600 , shadow](https://cikofairen.files.wordpress.com/2012/03/androcles-and-the-lion-story-10.jpg)
 
 
----?include=includes/InnaSeiyaamai.md
+---?include=includes/SeiNandriArithal.md
 
 ```
-இன்னாசெய் தாரை ஒறுத்தல் அவர்நாண
-நன்னயஞ் செய்து விடல்		( குறள் - 314)
+பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்
+நன்மை கடலின் பெரிது		( குறள் - 103)
+
 ```
 
