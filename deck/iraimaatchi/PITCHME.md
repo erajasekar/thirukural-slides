@@ -1,10 +1,10 @@
 ---?include=includes/IraiMaatchi.md
 
-### <ADHIGHARAM INTRO> 
+### ADHIGHARAM INTRO
 
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 381 INTRO> 
+### KURAL 381 INTRO
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -13,7 +13,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 382 INTRO> 
+### KURAL 382 INTRO 
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -38,7 +38,7 @@
 அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா
 மான முடைய தரசு		( குறள் - 384)
 ```
----?include=includes/IraiMaatchi.md 
+---?include=includes/IraiMaatchi.md
 
 ### <KURAL 385 INTRO> 
 
@@ -88,7 +88,7 @@
 செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்
 கவிகைக்கீழ்த் தங்கு முலகு		( குறள் - 389)
 ```
----?include=includes/IraiMaatchi.md 
+---?include=includes/IraiMaatchi.md
 
 ### <KURAL 390 INTRO> 
 
