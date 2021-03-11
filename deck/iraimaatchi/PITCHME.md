@@ -1,6 +1,60 @@
 ---?include=includes/IraiMaatchi.md
 
-### ADHIGHARAM INTRO
+### இறைமாட்சி - பொருட்பாலில் , அரசியலில் உள்ள முதல் அதிகாரம்.
+
+---?include=includes/IraiMaatchi.md
+
+### பொருள் என்றால் என்ன ?
+
+---?include=includes/IraiMaatchi.md
+
+### பொருள் ஏன் அவசியம் ?
+
+---?include=includes/IraiMaatchi.md
+
+### பொருட்பாலில், வள்ளுவர் அறம் பற்றி எப்படி சொல்லியிருக்கிறார் ?
+
+---?include=includes/IraiMaatchi.md
+
+```
+அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து
+தீதின்றி வந்த பொருள்
+```
+
+---?include=includes/IraiMaatchi.md
+
+### திருவள்ளுவர் சொல்லும் பொருட்பாலின் சிறப்பு என்ன ?
+
+---?include=includes/IraiMaatchi.md
+
+### ஈன்றவள் பசி கண்பலாயினும், சான்றோர் பள்ளிக்கும் வினையை செய்யற்க 
+
+---?include=includes/IraiMaatchi.md
+
+### பொருட்பாலில், வள்ளுவர் என்ன சொல்லியிருக்கார் ?
+
+
+---?include=includes/IraiMaatchi.md
+
+### இறைமாட்சி - பொருட்பாலில் உள்ள முதல் அதிகாரம்.
+
+---?include=includes/IraiMaatchi.md
+
+### இறை என்பது , ஒரு நாட்டிலோ , நிர்வாகத்திலோ அதிகாரத்தில் உள்ளவர்களை குறிக்கிறது 
+
+---?include=includes/IraiMaatchi.md
+
+#### வள்ளுவர் அரசனுக்கு இருக்க வேண்டிய சிறப்பியல்புகளை சொல்லியிருக்கார்.
+```
+இது தலைவர்களுக்கும் பொருந்தும் 
+```
+---?include=includes/IraiMaatchi.md
+
+### சிறந்த தலைவனுக்கு இருக்க வேண்டிய நல்ல குணங்களையும், ஆளுமை திறன்களையும் விளக்கி இருக்கிறார்.
+
+---?include=includes/IraiMaatchi.md
+
+### இறைமாட்சி - பொருட்பாலில் , அரசியலில் உள்ள முதல் அதிகாரம்.
 
 ---?include=includes/IraiMaatchi.md
 
