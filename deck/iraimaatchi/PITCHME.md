@@ -4,7 +4,7 @@
 
 ---?include=includes/IraiMaatchi.md
 
-### KURAL 381 INTRO
+### ஒரு அரசன் சிறந்த அரசனாக இருக்க வேண்டுமென்றால் , அவனை சுற்றி என்ன என்ன விஷயங்கள் சரியாக இருக்க வேண்டும்?
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -13,7 +13,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### KURAL 382 INTRO 
+### ஒரு தலைவனுக்கு என்ன தகுதிகள் இருக்க வேண்டும் ?
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -22,7 +22,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 383 INTRO> 
+### ஒரு தலைவனுக்கு இருக்க வேண்டிய பண்புகள் என்ன ?
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -31,7 +31,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 384 INTRO> 
+### ஒரு அரசன் எப்படி நடந்து கொள்ள வேண்டும் ?
 
 ---?include=includes/IraiMaatchi.md
 ```
@@ -40,7 +40,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 385 INTRO> 
+### ஒரு அரசனுடைய கடமைகள் என்ன ?
 
 ---?include=includes/IraiMaatchi.md
 
@@ -50,7 +50,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 386 INTRO> 
+### எப்படிப்பட்ட தலைவனுடைய நாடு அடுத்தவர்களால் புகழ படும் ? 
 
 ---?include=includes/IraiMaatchi.md
 
@@ -60,7 +60,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 387 INTRO> 
+### சிறந்த தலைவன் இருந்தால் என்ன நன்மை நடக்கும் ?
 
 ---?include=includes/IraiMaatchi.md
 
@@ -70,7 +70,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 388 INTRO> 
+### ஒரு சிறந்த தலைவன் மக்கள் மனதில் எப்படி மதிக்கப்படுவான் ?
 
 ---?include=includes/IraiMaatchi.md
 
@@ -80,7 +80,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 389 INTRO> 
+### கடுமையான விமர்சனங்களை ஒரு சிறந்த தலைவன் எப்படி எடுத்துக்கொள்வான் ?
 
 ---?include=includes/IraiMaatchi.md
 
@@ -90,7 +90,7 @@
 ```
 ---?include=includes/IraiMaatchi.md
 
-### <KURAL 390 INTRO> 
+### எப்படிப்பட்ட தலைவனை தன்னுடைய முன்மாதிரியாக மற்ற தலைவர்கள் ஏற்று கொள்வார்கள் ? 
 
 ---?include=includes/IraiMaatchi.md
 
