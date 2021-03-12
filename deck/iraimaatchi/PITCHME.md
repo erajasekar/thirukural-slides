@@ -79,6 +79,11 @@
 படைகுடி கூழமைச்சு நட்பரண் ஆறும்
 உடையான் அரசரு ளேறு		( குறள் - 381)
 ```
+
+---
+
+@img[height=650 , shadow](https://everydaypower.com/wp-content/uploads/2020/03/Alexander-the-Great-Quotes-to-Inspire-You-to-Do-the-Impossible.jpg)
+
 ---?include=includes/IraiMaatchi.md
 
 ### ஒரு தலைவனுக்கு என்ன தகுதிகள் இருக்க வேண்டும் ?
@@ -88,6 +93,11 @@
 அஞ்சாமை ஈகை அறிவூக்கம் இந்நான்கும்
 எஞ்சாமை வேந்தற் கியல்பு		( குறள் - 382)
 ```
+
+---
+
+@img[height=650 , shadow](https://www.thefridaytimes.com/wp-content/uploads/2019/05/tft-51719-26.jpg)
+
 ---?include=includes/IraiMaatchi.md
 
 ### ஒரு தலைவனுக்கு இருக்க வேண்டிய பண்புகள் என்ன ?
@@ -97,6 +107,11 @@
 தூங்காமை கல்வி துணிவுடைமை அம்மூன்றும்
 நீங்கா நிலனாள் பவற்கு		( குறள் - 383)
 ```
+
+---
+
+@img[height=650 , shadow](https://www.bergerpaints.com/imaginecolours/wp-content/uploads/2014/11/neharu.png)
+
 ---?include=includes/IraiMaatchi.md
 
 ### ஒரு அரசன் எப்படி நடந்து கொள்ள வேண்டும் ?
@@ -126,6 +141,11 @@
 காட்சி கெளியன் கடுஞ்சொல்லன் அல்லனேல்
 மீக்கூறும் மன்னன் நிலம்		( குறள் - 386)
 ```
+
+---
+
+@img[height=650 , shadow](assets/img/kamaraj.jpg)
+
 ---?include=includes/IraiMaatchi.md
 
 ### சிறந்த தலைவன் இருந்தால் என்ன நன்மை நடக்கும் ?
@@ -146,6 +166,11 @@
 முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்
 கிறையென்று வைக்கப் படும்		( குறள் - 388)
 ```
+
+---
+
+@img[height=650 , shadow](https://1.bp.blogspot.com/-v9FqonXTTfI/WkW2YEsnG7I/AAAAAAAAAEM/ZVZ2j1dnXwImNtsUsXQ8YcJzt5WXMFlrwCLcBGAs/s1600/548840_282301728537225_486436274_n.jpg)
+
 ---?include=includes/IraiMaatchi.md
 
 ### கடுமையான விமர்சனங்களை ஒரு சிறந்த தலைவன் எப்படி எடுத்துக்கொள்வான் ?
@@ -156,6 +181,11 @@
 செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்
 கவிகைக்கீழ்த் தங்கு முலகு		( குறள் - 389)
 ```
+
+---
+
+@img[height=650 , shadow](https://www.usnews.com/dims4/USNEWS/396b857/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fc6%2Fdf4f4a913c9c0c57bd485368cea66e%2F5896FE_DA_080723influential.jpg)
+
 ---?include=includes/IraiMaatchi.md
 
 ### எப்படிப்பட்ட தலைவனை தன்னுடைய முன்மாதிரியாக மற்ற தலைவர்கள் ஏற்று கொள்வார்கள் ? 
@@ -166,24 +196,12 @@
 கொடையளி செங்கோல் குடியோம்பல் நான்கும்
 உடையானாம் வேந்தர்க் கொளி		( குறள் - 390)
 ```
-@snap[span-100 text-08 text-left]
-<div class="conclusion" >
-<CONCLUSION>
-
-</div>
-
-@snapend
-
 
 ---?include=includes/IraiMaatchi.md
 
 
-`@img[width=200, height=200](assets/img/comment-button.png)` 
-
+@img[width=200, height=200](assets/img/comment-button.png)
 
 ###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க. 
-
-
---- 
 
 
