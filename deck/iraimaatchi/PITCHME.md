@@ -169,7 +169,7 @@
 
 ---
 
-@img[height=650 , shadow](https://1.bp.blogspot.com/-v9FqonXTTfI/WkW2YEsnG7I/AAAAAAAAAEM/ZVZ2j1dnXwImNtsUsXQ8YcJzt5WXMFlrwCLcBGAs/s1600/548840_282301728537225_486436274_n.jpg)
+@img[height=650 , shadow](assets/img/kattai-oomai.png)
 
 ---?include=includes/IraiMaatchi.md
 
