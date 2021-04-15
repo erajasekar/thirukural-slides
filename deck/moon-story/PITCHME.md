@@ -29,7 +29,11 @@
 
 ---
 
-@img[height=600 , shadow](https://image.freepik.com/free-photo/girl-feels-exhausted-looks-sleepy_144627-51523.jpg)
+@img[height=600 , shadow](https://image.freepik.com/free-photo/good-rest-after-long-work-portrait-young-beautiful-dark-skinned-american-man-with-afro-hairstyle-white-t-shirt-denim-jacket-holding-hand-forehead-being-tired-after-hard-day_176420-13029.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/close-up-beautiful-young-manager-classy-suit-lying-bed-with-hands-head-fall-asleep-with-laptop-smartphone-after-hard-work_176420-14612.jpg)
 
 ---
 
@@ -45,7 +49,11 @@
 
 ---?include=includes/AalvinaiUdaimai.md
 
-> நம்மால் முடியுமா என்று மனத்தளர்ச்சி அடையாமல், முடியும் என்ற நம்பிக்கையுடன் முயற்சி செய்தால் அதுவே நமக்கு மிகப்பெரிய பெருமை தரும் 
+@snap[text-10 text-blue]
+
+> நம்மால் முடியுமா என்று மனத்தளர்ச்சி அடையாமல், **முடியும் என்ற நம்பிக்கையுடன் முயற்சி செய்தால் அதுவே நமக்கு மிகப்பெரிய பெருமை தரும்.** 
+
+@snapend
 
 ---?include=includes/AalvinaiUdaimai.md
 
@@ -122,7 +130,7 @@ World War I and II
 
 @snap[north span-80 text-08 text-orange]
 
-இது நம்மளால செய்ய முடியுமா?
+இது நம்மால் செய்ய முடியுமா?
 
 @snapend
 
@@ -148,7 +156,7 @@ World War I and II
 
 ---
 
-@img[height=600 , shadow](https://cockpitvoice.files.wordpress.com/2015/04/atlantic-1.jpg?w=700)
+@img[height=600 , shadow](assets/img/trans_atlantic_flight.jpg)
 
 ---
 
@@ -163,4 +171,88 @@ World War I and II
 > இது கடினமானதாக இருந்தாலும், மனிதனுடைய திறமைகளையும் ஆற்றலையும் நல்ல முறையில் நெறி படுத்தவும் , அளவிடவும் இது உதவும் 
 
 @snapend
+
+---
+
+@img[height=600 , shadow](https://valoroustv.com/wp-content/uploads/nasa-a-journey-through-space-episode-4-the-apollo-mission-1280x720.jpg)
+
+---
+
+@img[height=600 , shadow](assets/img/appollo1_failure.jpg)
+
+---
+
+@img[height=600 , shadow](assets/img/apollo_mission1.jpg)
+
+---
+
+@snap[north span-100]
+
+@img[height=300 , shadow](assets/img/moon_landing.jpg)
+
+@snapend
+
+@snap[south span-100]
+
+@img[height=300 , shadow](https://static01.nyt.com/images/2009/07/20/science/space/14mission-a1.ready/14mission-a1.ready-articleLarge-v3.jpg)
+
+@snapend
+
+---
+
+@img[height=600 , shadow](assets/img/turning_point_moon.jpg)
+
+---
+
+@snap[north span-100 ]
+World War I and II
+@snapend
+
+
+@img[height=600 , shadow](https://www.sagu.edu/images/thoughthub/thumbnails/2015/7-Interesting-Features-of-World-War-2-2.jpg)
+
+---
+
+@img[height=600 , shadow](https://i.pinimg.com/originals/10/32/1d/10321d348b068e64ea985de73530b7cf.jpg)
+
+---
+
+@img[height=600 , shadow](assets/img/iss.jpg)
+
+---
+
+@img[height=600 , shadow](https://centristradical.com/wp-content/uploads/2020/07/Accelerating-Growth-in-Technology-Today-Tomorrow-Beyond.png)
+
+---
+
+@img[height=600 , shadow](assets/img/computer_internet.jpg)
+
+---
+
+@img[height=600 , shadow](https://cosmosmagazine.com/wp-content/uploads/2020/10/190721_how-the-moon-landing-changed-the-world_Space_moon-footprint-Apollo-11-1440x810.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/lucky-handsome-man_1368-9547.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/proud-young-man-showing-his-award_1149-1234.jpg)
+
+---
+@snap[north span-100 text-12 text-blue]
+
+> நாம் சுலபமான காரியத்தை செய்து அதில் கிடைக்கும் வெற்றியைவிட , **கடினமான காரியத்தை செய்து அதில் கிடைக்கும் பெருமை தான் சிறந்தது**.
+
+@snapend
+
+---
+
+@img[height=600 , shadow](https://www.essentialpersonnel.com/wp-content/uploads/2017/06/Quote-EPI.jpg)
+
+---
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/finger-conference-row-competition-training_1134-884.jpg)
+
+---
 
