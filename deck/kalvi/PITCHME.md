@@ -1,10 +1,10 @@
 ---?include=includes/Kalvi.md
 
-### <ADHIGHARAM INTRO> 
+### <ADHIGHARAM INTRO>
 
 ---?include=includes/Kalvi.md
 
-### <KURAL 391 INTRO> 
+### நாம் எதை படிக்க வேண்டும்? எப்படி படிக்க வேண்டும் ? படித்தால் மட்டும் போதுமா ?
 
 ---?include=includes/Kalvi.md
 
@@ -14,7 +14,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 392 INTRO> 
+### நாம் கட்டாயமா தெரிந்து கொள்ள வேண்டியது எது ?
 
 ---?include=includes/Kalvi.md
 
@@ -24,7 +24,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 393 INTRO> 
+### படிக்காதவர்களை பார்த்து திருவள்ளுவர் என்ன சொல்கிறார் ? 
 
 ---?include=includes/Kalvi.md
 
@@ -34,7 +34,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 394 INTRO> 
+### படித்தவர்களுடைய சிறப்பு பற்றி திருவள்ளுவர் என்ன சொல்கிறார் ?
 
 ---?include=includes/Kalvi.md
 
@@ -44,7 +44,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 395 INTRO> 
+### நாம் கற்றுக்கொள்ளும் போது நம்முடைய மனநிலை எப்படி இருக்க வேண்டும்?
 
 ---?include=includes/Kalvi.md
 
@@ -54,7 +54,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 396 INTRO> 
+### நல்ல அறிவாளி ஆக என்ன செய்ய வேண்டும் ? 
 
 ---?include=includes/Kalvi.md
 
@@ -64,7 +64,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 397 INTRO> 
+### படிக்காதவர்களை பார்த்து திருவள்ளுவர் என்ன கேட்கிறார் ?
 
 ---?include=includes/Kalvi.md
 
@@ -74,7 +74,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 398 INTRO> 
+### திருவள்ளுவர் ஏன் வாழ்நாள் முழுக்க படிக்க சொல்கிறார் ? வயதான காலத்தில் படித்து என்ன ஆக போகுது ?
 
 ---?include=includes/Kalvi.md
 
@@ -84,7 +84,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 399 INTRO> 
+### படிப்பவர்களுக்கு ஏன் இன்னும் நிறைய படிக்க வேண்டும் என்ற எண்ணம் வருகிறது ?
 
 ---?include=includes/Kalvi.md
 
@@ -94,7 +94,7 @@
 ```
 ---?include=includes/Kalvi.md
 
-### <KURAL 400 INTRO> 
+### ஒரு மனிதன் தனக்கான செல்வமாக  எதை சேர்க்க வேண்டும் ?
 
 ---?include=includes/Kalvi.md
 
@@ -103,10 +103,7 @@
 மாடல்ல மற்றை யவை		( குறள் - 400)
 ```
 @snap[span-100 text-08 text-left]
-<div class="conclusion" >
-<CONCLUSION>
 
-</div>
 
 @snapend
 
