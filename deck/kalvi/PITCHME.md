@@ -1,6 +1,39 @@
 ---?include=includes/Kalvi.md
 
-### <ADHIGHARAM INTRO>
+### கல்வி நமக்குள் இருக்கும் அறிவை வெளிப்படுத்த உதவும் கருவி 
+
+---
+### pic for think and read
+
+---?include=includes/Kalvi.md
+
+> சான்றோர்கள் சொன்ன மேற்கோள்களை படித்து தெரிந்து கொள்வது கல்வி 
+> நாம் சொல்லுகிற விஷயங்களே மேற்கோள்கள் ஆவது அறிவு 
+
+---?include=includes/Kalvi.md
+
+### கல்வி எவ்வளவு முக்கியம் ?
+
+---
+
+### கல்வி இல்லாத பெண்கள் களர் நிலம் போன்றவர்கள்
+### bharadisan pic
+
+---
+
+###anna reading pic
+
+---
+
+###dificulti in education, malala pic
+
+---
+
+### pic read anything
+
+---?include=includes/Kalvi.md
+
+> சான்றோனாக்குதல் தந்தைக்கு கடனே 
 
 ---?include=includes/Kalvi.md
 
