@@ -19,6 +19,10 @@
 ### கல்வி இல்லாத பெண்கள் களர் நிலம் போன்றவர்கள்
 ### bharadisan pic
 
+---?include=includes/Kalvi.md
+
+> சான்றோனாக்குதல் தந்தைக்கு கடனே 
+
 ---
 
 ###anna reading pic
@@ -26,6 +30,10 @@
 ---
 
 ###dificulti in education, malala pic
+
+---
+
+###kalvi varam
 
 ---
 
@@ -45,6 +53,11 @@
 கற்க கசடறக் கற்பவை கற்றபின் 
 நிற்க அதற்குத் தக		( குறள் - 391)
 ```
+
+---
+
+## gandhi pic
+
 ---?include=includes/Kalvi.md
 
 ### நாம் கட்டாயமா தெரிந்து கொள்ள வேண்டியது எது ?
@@ -125,6 +138,13 @@
 தாமின் புறுவ துலகின் புறக்கண்டு
 காமுறுவர் கற்றறிந் தார்		( குறள் - 399)
 ```
+
+---
+pic for house
+
+---
+pic for book
+
 ---?include=includes/Kalvi.md
 
 ### ஒரு மனிதன் தனக்கான செல்வமாக  எதை சேர்க்க வேண்டும் ?
@@ -135,11 +155,79 @@
 கேடில் விழுச் செல்வங் கல்வி யொருவற்கு
 மாடல்ல மற்றை யவை		( குறள் - 400)
 ```
-@snap[span-100 text-08 text-left]
 
+---
 
-@snapend
+### பிளாட்டோ
 
+> படிக்காம இருக்கறத வீட பிறக்காம இருக்கலாம் 
+
+--- 
+
+### நெல்சன் மண்டேலா 
+
+இந்த உலகத்தையே மாற்ற கூடிய ஆயுதம் கல்வி 
+
+---
+
+# gandi pic
+
+---
+
+### நபிகள் நாயகம் 
+இரவு முழுவதும் தொழுகையில் இடுப்பதுவதை வீட , ஒரு மணி நேரம் கற்பித்தல் மேலானது 
+
+---
+
+## kalam pic
+
+---
+
+## sundar pichai pic
+
+---
+
+#lenin with audience pic
+
+---
+
+#pic not for marks , but for being good people
+
+---
+
+#pic for no phds, serve the society
+
+---
+
+#pic for world view - open eyes
+
+---
+
+### நாம் என்ன படிக்கலாம் ?
+
+---
+
+#pic for profession related book
+
+---
+
+#pic for law related book
+
+---
+
+#pic for moral ethical books , thirukural
+
+---
+
+### ஏன் நல்ல புத்தகங்களை தேர்தெடுத்து படிக்க வேண்டும் ?
+
+---
+
+#pic for lot of books
+
+---
+
+> ஓதாமல் ஒரு நாளும் இருக்க வேண்டாம் 
 
 ---?include=includes/Kalvi.md
 
