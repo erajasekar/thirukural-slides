@@ -3,7 +3,8 @@
 ### கல்வி நமக்குள் இருக்கும் அறிவை வெளிப்படுத்த உதவும் கருவி 
 
 ---
-### pic for think and read
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/portrait-pensive-young-girl-making-notes_171337-1646.jpg)
 
 ---?include=includes/Kalvi.md
 
@@ -16,28 +17,50 @@
 
 ---
 
-### கல்வி இல்லாத பெண்கள் களர் நிலம் போன்றவர்கள்
-### bharadisan pic
+@snap[north span-100]
+
+<h4 id="title">
+பாரதிதாசன்
+</h4>
+
+@snapend
+
+@snap[west span-40]
+
+@img[height=400 , shadow](assets/img/bharathidasan.jpg) 
+
+@snapend
+
+@snap[east span-60 text-06 text-left]
+
+<div class="conclusion">
+
+கல்வி இல்லாத பெண்கள் களர் நிலம் போன்றவர்கள்
+
+</div>
+@snapend
 
 ---?include=includes/Kalvi.md
+
+### புறநானூறு
 
 > சான்றோனாக்குதல் தந்தைக்கு கடனே 
 
 ---
 
-###anna reading pic
+@img[height=600 , shadow](assets/img/anna.jpeg) 
 
 ---
 
-###dificulti in education, malala pic
+@img[height=600 , shadow](https://i.dawn.com/primary/2014/08/53dbe10e0aab2.jpg)
 
 ---
 
-###kalvi varam
+@img[height=600 , shadow](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fjeanneallen%2Ffiles%2F2019%2F03%2Funiversity-student-1872810_960_720-1.jpg)
 
 ---
 
-### pic read anything
+@img[height=600 , shadow](assets/img/education-all.jpg) 
 
 ---?include=includes/Kalvi.md
 
@@ -56,7 +79,7 @@
 
 ---
 
-## gandhi pic
+@img[height=600 , shadow](assets/img/gandhi1.png) 
 
 ---?include=includes/Kalvi.md
 
