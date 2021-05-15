@@ -163,10 +163,12 @@
 ```
 
 ---
-pic for house
+
+@img[height=600 , shadow](https://www.wallpapertip.com/wmimgs/79-791804_selling-las-vegas-luxury-home-showcase-at-26.jpg)
 
 ---
-pic for book
+
+@img[height=600 , shadow](https://image.freepik.com/free-photo/cool-guy-telling-story-friend-during-stroll_1262-3516.jpg)
 
 ---?include=includes/Kalvi.md
 
@@ -193,7 +195,7 @@ pic for book
 
 ---
 
-# gandi pic
+@img[height=600 , shadow](assets/img/gandhi1.png) 
 
 ---
 
@@ -202,27 +204,32 @@ pic for book
 
 ---
 
-## kalam pic
+@img[height=600 , shadow](https://imgk.timesnownews.com/story/1539580060-apj_abdul_kalam.jpg)
 
 ---
 
-## sundar pichai pic
+@img[height=600 , shadow](https://www.yosuccess.com/wp-content/uploads/2015/10/google.jpg)
 
 ---
 
-#lenin with audience pic
+@img[height=600 , shadow](https://images.squarespace-cdn.com/content/v1/5507919de4b01b71a2856965/1498198102018-XT9EPW4JQ3ZDIPTY9CT6/ke17ZwdGBToddI8pDm48kJRZ6cB-p5v3KO0L0SYNpd5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzkN75gPYwVwd8SKVnPHmaErAAFKOSSPLgtzIciz2BhXBz8e-Xm0D3KoS9SK96-twY/image-asset.jpeg)
 
 ---
 
-#pic not for marks , but for being good people
+@img[height=600 , shadow](assets/img/no-marks-be-good.png) 
 
 ---
 
-#pic for no phds, serve the society
+@img[height=600 , shadow](https://image.freepik.com/free-photo/fresh-graduates-showing-their-diploma-white_114579-53795.jpg)
 
 ---
 
-#pic for world view - open eyes
+####Need marker
+@img[height=600 , shadow](https://image.freepik.com/free-photo/cooperation-society-community-social-together_53876-13803.jpg)
+
+---
+
+@img[height=600 , shadow](https://teaching.globalfreedomofexpression.columbia.edu/sites/default/files/2018-10/hero-global-perspective.png)
 
 ---
 
@@ -230,15 +237,15 @@ pic for book
 
 ---
 
-#pic for profession related book
+@img[height=600 , shadow](https://i2.wp.com/papergazer.com/wp-content/uploads/2018/02/PersonalProfessionalDevelopmentBooks_PostCover.png)
 
 ---
 
-#pic for law related book
+@img[height=600 , shadow](https://upload.wikimedia.org/wikipedia/commons/a/aa/Law_Books_7.JPG)
 
 ---
 
-#pic for moral ethical books , thirukural
+@img[height=600 , shadow](http://3.bp.blogspot.com/-ogfyDcjHrxw/URLhon7d1uI/AAAAAAAAAFU/9s-08BKjbeU/s1600/thirukkural.jpg)
 
 ---
 
@@ -246,11 +253,11 @@ pic for book
 
 ---
 
-#pic for lot of books
+@img[height=600 , shadow](https://image.freepik.com/free-photo/young-teenager-girl-reading-book-home_144627-36470.jpg)
 
 ---
 
-> ஓதாமல் ஒரு நாளும் இருக்க வேண்டாம் 
+### ஓதாமல் ஒரு நாளும் இருக்க வேண்டாம் 
 
 ---?include=includes/Kalvi.md
 
