@@ -167,13 +167,37 @@
 
 ### பிளாட்டோ
 
-> படிக்காமல் இருப்பதை விட பிறக்காமல் இருப்பது மேல் 
+@snap[north span-100]
+
+@img[height=400 , shadow](https://www.prospectmagazine.co.uk/content/uploads/2018/09/Screen-Shot-2018-09-14-at-11.41.48.png)
+
+@snapend
+
+@snap[south span-80 text-10 text-left]
+
+<div class="conclusion">
+படிக்காமல் இருப்பதை விட பிறக்காமல் இருப்பது மேல் 
+</div>
+
+@snapend
 
 --- 
 
-### நெல்சன் மண்டேலா 
+@snap[west span-40]
+
+@img[height=400 , shadow](https://cdn.britannica.com/67/75567-050-4EBBE84D/Nelson-Mandela.jpg)
+
+@snapend
+
+@snap[east span-60 text-10 text-left]
+
+<div class="conclusion">
 
 இந்த உலகத்தையே மாற்ற கூடிய ஆயுதம் கல்வி 
+
+</div>
+
+@snapend
 
 ---
 
